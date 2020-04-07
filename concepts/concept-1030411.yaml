@@ -1,0 +1,156 @@
+---
+termid: 1030411
+term: wavelet
+ara:
+  id: 1030411
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: الموجة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030411
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Wavelet
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030411
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wavelet
+  definition: small localized wave, represented by a function having a zero mean value
+    and a practically finite duration
+  language_code: eng
+  notes:
+  - 'From a mother wavelet $$\psi ( t )$$, daughter wavelets are obtained through
+    shifting and scaling (expansion or compression): $$\psi_(( a , b )) ( t ) = (1)/((
+    sqrt( a ) )) \psi (  (( t - b ))/(a)  )$$, where a is a scale parameter and b
+    a position parameter. '
+  - 'Examples (see Figures 3 and 4):  Haar wavelet: $$\psi ( t ) = - 1$$ for 1/2  t  0,
+    $$\psi ( t ) = 1$$ for 0  t  1/2, $$\psi ( t ) = 0$$ outside;  Morlet wavelet:
+    $$\psi ( t ) = e^( - t^2 // 2) e^( - j \omega  t)$$ (example of exponential damping;
+    Figure 4 gives the real part).  103-04-117/$file/103-04-117.png>Figure 3 – Haar
+    waveletFigure 3 – Ondelette de Haar 103-04-118/$file/103-04-118.png>Figure 4 –
+    Morlet wavelet Figure 4 – Ondelette de Morlet'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030411
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ondelette
+    gender: f
+    plurality: singular
+  definition: petite onde localisée, représentée par une fonction ayant une valeur
+    moyenne nulle et une durée pratiquement finie
+  language_code: fre
+  notes:
+  - 'À partir d''une ondelette mère $$\psi ( t )$$, des ondelettes filles sont obtenues
+    par décalage et changement d''échelle (dilatation et compression): $$\psi_(( a
+    , b )) ( t ) = (1)/(( sqrt( a ) )) \psi (  (( t - b ))/(a)  )$$, où a est un paramètre
+    d''échelle et b un paramètre de position. '
+  - 'Exemples (voir les Figures 3 et 4):  ondelette de Haar: $$\psi ( t ) = - 1$$
+    pour 1/2  t  0, $$\psi ( t ) = 1$$ pour 0  t  1/2, $$\psi ( t ) = 0$$ ailleurs;  ondelette
+    de Morlet: $$\psi ( t ) = e^( - t^2 // 2) e^( - j \omega  t)$$ (exemple d''amortissement
+    exponentiel; Figure 4 représente la partie réelle). '
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030411
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ウェーブレット
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030411
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 파형 요소
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030411
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: falka
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030411
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ôndula
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030411
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 小波
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

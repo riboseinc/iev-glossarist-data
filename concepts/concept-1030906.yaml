@@ -1,0 +1,152 @@
+---
+termid: 1030906
+term: correlation function
+ara:
+  id: 1030906
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: دالة الارتباط
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030906
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Korrelationsfunktion
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030906
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: correlation function
+  definition: function $$f ( t )$$ which is a measure of the similarity of two deterministic
+    functions $$f_1 ( t )$$ and $$f_2 ( t )$$, defined by $$f ( t ) =  ∫_(   - oo
+    )^(   + oo ) f_1  ( \tau ) f_2 ( t + \tau ) d \tau$$ function $$f ( t )$$ which
+    is a measure of the similarity of two stationary random functions $$f_1 ( t )$$
+    and $$f_2 ( t )$$, defined by $$f ( t ) = underset(( T -> oo ))(( lim)) (1)/((
+    2T))  ∫_(   - T)^(   + T) f_1 ( \tau )  f_2 ( t + \tau ) d \tau$$
+  language_code: eng
+  notes:
+  - 'The Fourier transform of $$f ( t )$$ is equal to the product of the conjugate
+    of the Fourier transform of $$f_1 ( t )$$ and the Fourier transform of $$f_2 (
+    t )$$: $$F ( \omega ) = F_1^( ** ) (  \omega  ) F_2 ( \omega )$$'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030906
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fonction de corrélation
+    gender: f
+    plurality: singular
+  definition: fonction $$f ( t )$$ mesurant la similitude de deux fonctions déterministes
+    $$f_1 ( t )$$ et $$f_2 ( t )$$, définie par $$f ( t ) =  ∫_(   - oo )^(   + oo
+    ) f_1  ( \tau ) f_2 ( t + \tau ) d \tau$$  fonction $$f ( t )$$ mesurant la similitude
+    de deux fonctions aléatoires stationnaires $$f_1 ( t )$$ et $$f_2 ( t )$$, définie
+    par $$f ( t ) = underset(( T -> oo ))(( lim)) (1)/(( 2T))  ∫_(   - T)^(   + T)
+    f_1 ( \tau )  f_2 ( t + \tau ) d \tau$$
+  language_code: fre
+  notes:
+  - 'La transformée de Fourier de $$f ( t )$$ est égale au produit de la conjuguée
+    de la transformée de Fourier de $$f_1 ( t )$$ par la transformée de Fourier de
+    $$f_2 ( t )$$: $$F ( \omega ) = F_1^( ** ) (  \omega  ) F_2 ( \omega )$$'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030906
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 相関関数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030906
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 상관 함수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030906
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: funkcja korelacji
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030906
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: função de correlação
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030906
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 相关函数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

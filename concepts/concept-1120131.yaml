@@ -1,0 +1,171 @@
+---
+termid: 1120131
+term: quantity equation
+ara:
+  id: 1120131
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: معادلة كمية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120131
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Größengleichung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120131
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: quantity equation
+  definition: |-
+    mathematical relation between quantities in a given system of quantities, independent of units of measurement
+
+    NOTE    The general form of a quantity equation is f(Q1, Q2, ... Qn) = 0, where Q1, Q2, ... Qn denote different quantities. A simple form of a quantity equation is Q1 =  Q2 Q3, where  is a numerical factor.  Examples:
+
+
+
+
+
+    T = (1/2) mv2, where T is the kinetic energy and v the speed of a specified particle of mass m;
+
+    n = It/F, where n is the amount of substance of a univalent component, I is the electric current and t the duration of the electrolysis, and where F is the Faraday constant.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007  MOD
+    clause: ISO/IEC GUIDE 99:2007 1.22 MOD
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120131
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: équation aux grandeurs
+    gender: f
+    plurality: singular
+  definition: relation d'égalité entre des grandeurs d'un système de grandeurs donné,
+    indépendante des unités de mesure
+  language_code: fre
+  notes:
+  - |2+
+
+
+
+
+    T = (1/2) mv2, où T est l'énergie cinétique et v la vitesse d’une particule spécifiée de masse m;
+
+    n = It/F, où n est la quantité de matière d'un composé univalent, I est le courant électrique et t la durée de l’électrolyse, et F est la constante de Faraday.
+
+
+
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '1.22'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120131
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 数量方程式
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120131
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 양 방정식
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120131
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: równanie wielkościowe
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120131
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: equação às grandezas
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120131
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 量方程
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

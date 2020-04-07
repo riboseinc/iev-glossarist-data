@@ -1,0 +1,583 @@
+---
+termid: 1120202
+term: International System of Units
+ara:
+  id: 1120202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: وحدات نظام عالمية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Internationales Einheitensystem
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: SI
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1120202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: International System of Units
+  - type: expression
+    normativeStatus: preferred
+    designation: SI
+  definition: "{{coherent system of units, IEV:112-01-22}} based on the {{International
+    System of Quantities, IEV:112-02-01}} (ISQ), their names and symbols, including
+    a series of prefixes and their names and symbols, together with rules for their
+    use, adopted by the General Conference on Weights and Measures (CGPM)"
+  language_code: eng
+  notes:
+  - |+
+    The SI is founded on the seven base quantities of the ISQ and the names and symbols of the corresponding base units that are contained in the following table:
+
+
+
+
+
+
+
+
+
+
+
+    Base quantity
+
+
+
+
+
+    Base unit
+
+
+
+
+
+
+
+
+
+    Name
+
+
+
+
+
+    Name
+
+
+
+
+
+    Symbol
+
+
+
+
+
+
+
+
+
+    length
+
+
+
+
+
+    metre
+
+
+
+
+
+    m
+
+
+
+
+
+
+
+
+
+    mass
+
+
+
+
+
+    kilogram
+
+
+
+
+
+    kg
+
+
+
+
+
+
+
+
+
+    time, duration
+
+
+
+
+
+    second
+
+
+
+
+
+    s
+
+
+
+
+
+
+
+
+
+    electric current
+
+
+
+
+
+    ampere
+
+
+
+
+
+    A
+
+
+
+
+
+
+
+
+
+    thermodynamic temperature
+
+
+
+
+
+    kelvin
+
+
+
+
+
+    K
+
+
+
+
+
+
+
+
+
+    amount of substance
+
+
+
+
+
+    mole
+
+
+
+
+
+    mol
+
+
+
+
+
+
+
+
+
+    luminous intensity
+
+
+
+
+
+    candela
+
+
+
+
+
+    cd
+
+
+
+
+
+
+
+
+
+  - "The base units and the coherent derived units of the SI form a coherent set,
+    designated the \"set of coherent SI units\".\n\n"
+  - "For a full description and explanation of the International System of Units,
+    see the current edition of the SI brochure published by the International Bureau
+    of Weights and Measures (BIPM) and available on the BIPM website.\n\n"
+  - "In quantity calculus, the quantity \"number of entities\" is often considered
+    to be a base quantity, with the base unit one, symbol 1.\n\n"
+  - The SI prefixes for multiples and submultiples of units are given in {{IEV 112-02-03,
+    IEV:112-02-03}}.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+    ref: ISO/IEC Guide 99:2007
+    clause: 1.16, modified – Addition of ‘coherent” at the beginning of the definition.
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2019-01-01T00:00:00+00:00'
+  date_amended: '2019-01-01T00:00:00+00:00'
+  review_date: '2019-01-01T00:00:00+00:00'
+  review_decision_date: '2019-01-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 112-02-02:2010-01
+fre:
+  id: 1120202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Système international d'unités
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: SI
+    gender: m
+    plurality: singular
+  definition: "{{système cohérent d'unités, IEV:112-01-22}} fondé sur le {{Système
+    international de grandeurs, IEV:112-02-01}} (ISQ), comportant les noms et symboles
+    des unités, une série de préfixes avec leurs noms et symboles, ainsi que des règles
+    pour leur emploi, adopté par la Conférence générale des poids et mesures (CGPM)"
+  language_code: fre
+  notes:
+  - |+
+    Le SI est fondé sur les sept grandeurs de base de l'ISQ. Les noms et les symboles des unités de base sont donnés dans le tableau suivant:
+
+
+
+
+
+
+
+
+
+
+
+    Grandeur de base
+
+
+
+
+
+    Unit de base
+
+
+
+
+
+
+
+
+
+    Nom
+
+
+
+
+
+    Nom
+
+
+
+
+
+    Symbole
+
+
+
+
+
+
+
+
+
+    longueur
+
+
+
+
+
+    mtre
+
+
+
+
+
+    m
+
+
+
+
+
+
+
+
+
+    masse
+
+
+
+
+
+    kilogramme
+
+
+
+
+
+    kg
+
+
+
+
+
+
+
+
+
+    temps, dure
+
+
+
+
+
+    seconde
+
+
+
+
+
+    s
+
+
+
+
+
+
+
+
+
+    courant lectrique
+
+
+
+
+
+    ampre
+
+
+
+
+
+    A
+
+
+
+
+
+
+
+
+
+    temprature thermodynamique
+
+
+
+
+
+    kelvin
+
+
+
+
+
+    K
+
+
+
+
+
+
+
+
+
+    quantit de matire
+
+
+
+
+
+    mole
+
+
+
+
+
+    mol
+
+
+
+
+
+
+
+
+
+    intensit lumineuse
+
+
+
+
+
+    candela
+
+
+
+
+
+    cd
+
+
+
+
+
+
+
+
+
+  - "Les unités de base et les unités dérivées cohérentes du SI forment un ensemble
+    cohérent, appelé \"ensemble des unités SI cohérentes\".\n\n"
+  - "Pour une description et une explication complètes du Système international d’unités,
+    voir la dernière édition de la brochure du SI publiée par le Bureau international
+    des poids et mesures (BIPM) et disponible sur le site internet du BIPM.\n\n"
+  - "En algèbre des grandeurs, la grandeur \"nombre d’entités\" est souvent considérée
+    comme une grandeur de base, avec l’unité de base un, symbole 1. \n\n"
+  - Les préfixes SI pour les multiples et sous-multiples des unités sont donnés en
+    {{IEV 112-02-03, IEV:112-02-03}}.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+    ref: ISO/IEC Guide 99:2007
+    clause: 1.16, modifié – Adjonction de “cohérent” dans la définition.
+    link: https://www.iso.org/standard/45324.html
+  review_decision_event: published
+jpn:
+  id: 1120202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 国際単位系
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1120202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 국제단위계
+  - type: expression
+    designation: SI
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Międzynarodowy Układ Jednostek Miar
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: układ SI
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1120202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Sistema Internacional de Unidades
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 国际单位制
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

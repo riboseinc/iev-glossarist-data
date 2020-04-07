@@ -1,0 +1,696 @@
+---
+termid: 1120127
+term: binary prefix
+ara:
+  id: 1120127
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: بادئة مزدوجة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120127
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: binärer Vorsatz
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120127
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: binary prefix
+  definition: unit prefix used to form a multiple of a unit obtained by multiplying
+    this unit by a power of two
+  language_code: eng
+  notes:
+  - |+
+    SI prefixes refer strictly to powers of 10 and should not be used for power of 2. For example, 1 kilobit should not be used to represent 1 024 bits ((210 bits) bits), which is 1 kibibit.
+
+    Prefixes for binary multiples are:
+
+
+
+
+
+
+
+
+
+
+
+    Factor
+
+
+
+
+
+    Value
+
+
+
+
+
+    Prefix
+
+
+
+
+
+
+
+
+
+    Name
+
+
+
+
+
+    Symbol
+
+
+
+
+
+
+
+
+
+    (210)1
+
+
+
+
+
+    1024
+
+
+
+
+
+    kibi
+
+
+
+
+
+    Ki
+
+
+
+
+
+
+
+
+
+    (210)2
+
+
+
+
+
+    1 048 576
+
+
+
+
+
+    mebi
+
+
+
+
+
+    Mi
+
+
+
+
+
+
+
+
+
+    (210)3
+
+
+
+
+
+    1 073 741 824
+
+
+
+
+
+    gibi
+
+
+
+
+
+    Gi
+
+
+
+
+
+
+
+
+
+    (210)4
+
+
+
+
+
+    1 099 511 627 776
+
+
+
+
+
+    tebi
+
+
+
+
+
+    Ti
+
+
+
+
+
+
+
+
+
+    (210)5
+
+
+
+
+
+    1 125 899 906 842 624
+
+
+
+
+
+    pebi
+
+
+
+
+
+    Pi
+
+
+
+
+
+
+
+
+
+    (210)6
+
+
+
+
+
+    1 152 921 504 606 846 976
+
+
+
+
+
+    exbi
+
+
+
+
+
+    Ei
+
+
+
+
+
+
+
+
+
+    (210)7
+
+
+
+
+
+    1 180 591 620 717 411 303 424
+
+
+
+
+
+    zebi
+
+
+
+
+
+    Zi
+
+
+
+
+
+
+
+
+
+    (210)8
+
+
+
+
+
+    1 208 925 819 614 629 174 706 176
+
+
+
+
+
+    yobi
+
+
+
+
+
+    Yi
+
+
+
+
+
+
+
+
+
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120127
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: préfixe binaire
+    gender: m
+    plurality: singular
+  definition: préfixe d'unité utilisé pour former un multiple d'une unité obtenu en
+    multipliant celle-ci par une puissance de deux
+  language_code: fre
+  notes:
+  - |+
+    Les préfixes SI représentent strictement des puissance de 10 et il convient de ne pas les utiliser pour des puissances de 2. Par exemple, il convient de ne pas utiliser 1 kilobit pour représenter 1 024 bits (210 bits), qui est 1 kibibit.
+
+    Les préfixes pour les multiples binaires sont:
+
+
+
+
+
+
+
+
+
+
+
+    Facteur
+
+
+
+
+
+    Valeur
+
+
+
+
+
+    Prfixe
+
+
+
+
+
+
+
+
+
+    Nom
+
+
+
+
+
+    Symbole
+
+
+
+
+
+
+
+
+
+    (210)1
+
+
+
+
+
+    1024
+
+
+
+
+
+    kibi
+
+
+
+
+
+    Ki
+
+
+
+
+
+
+
+
+
+    (210)2
+
+
+
+
+
+    1 048 576
+
+
+
+
+
+    mebi
+
+
+
+
+
+    Mi
+
+
+
+
+
+
+
+
+
+    (210)3
+
+
+
+
+
+    1 073 741 824
+
+
+
+
+
+    gibi
+
+
+
+
+
+    Gi
+
+
+
+
+
+
+
+
+
+    (210)4
+
+
+
+
+
+    1 099 511 627 776
+
+
+
+
+
+    tebi
+
+
+
+
+
+    Ti
+
+
+
+
+
+
+
+
+
+    (210)5
+
+
+
+
+
+    1 125 899 906 842 624
+
+
+
+
+
+    pebi
+
+
+
+
+
+    Pi
+
+
+
+
+
+
+
+
+
+    (210)6
+
+
+
+
+
+    1 152 921 504 606 846 976
+
+
+
+
+
+    exbi
+
+
+
+
+
+    Ei
+
+
+
+
+
+
+
+
+
+    (210)7
+
+
+
+
+
+    1 180 591 620 717 411 303 424
+
+
+
+
+
+    zebi
+
+
+
+
+
+    Zi
+
+
+
+
+
+
+
+
+
+    (210)8
+
+
+
+
+
+    1 208 925 819 614 629 174 706 176
+
+
+
+
+
+    yobi
+
+
+
+
+
+    Yi
+
+
+
+
+
+
+
+
+
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120127
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ２進接頭辞
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120127
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 이진 접두어
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120127
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: przedrostek binarny
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120127
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: prefixo binário
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120127
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 二进制词头
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

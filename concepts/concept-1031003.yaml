@@ -1,0 +1,150 @@
+---
+termid: 1031003
+term: sinusoidal wave
+ara:
+  id: 1031003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: موجة جيبية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1031003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Sinuswelle
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: sinusförmige Welle
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1031003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: sinusoidal wave
+  definition: wave which can be represented by a sinusoidal field quantity with phase
+    $$\omega  t - k * r + \vartheta_0$$ where k is a vector characteristic of the
+    wave, r is position vector,  is angular frequency, t is time, and $$\vartheta_0$$
+    is initial phase
+  language_code: eng
+  notes:
+  - Vector k is called “{{wave vector, IEV:103-10-09}}”.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1031003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: onde sinusoïdale
+    gender: f
+    plurality: singular
+  definition: onde qui peut être représentée par un champ sinusoïdal de phase $$\omega
+     t - k * r + \vartheta_0$$, où k est un vecteur caractéristique de l'onde, r est
+    le rayon vecteur,  est la pulsation, t est le temps et $$\vartheta_0$$ est la
+    phase à l'origine
+  language_code: fre
+  notes:
+  - Le vecteur k est appelé «{{vecteur d’onde, IEV:103-10-09}}».
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1031003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 正弦波
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1031003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 정현파
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1031003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fala sinusoidalna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1031003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: onda sinusoidal
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1031003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 正弦波
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
