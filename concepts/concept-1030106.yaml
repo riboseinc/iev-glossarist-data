@@ -45,16 +45,16 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: function of $$n$$ variables
-  definition: function for which the argument is an ordered set of n numbers or scalar
-    quantities
+  definition: function for which the argument is an ordered set of $$n$$ numbers or
+    scalar quantities
   language_code: eng
   notes:
-  - 'The value of the function f of n variables $$x_1 ,  x_2 ,   ... ,  x_n$$ is denoted
-    by $$f ( x_1 ,  x_2 ,   ... ,  x_n )$$. '
-  - In many practical applications in electrotechnology, functions of one variable
-    are used. This variable is often the duration and the function is then called
-    "function of time" and denoted by f(t). But the variables may also be space variables
-    (e.g. coordinates), frequency, etc.
+  - '1 to entry: The value of the function $$f$$ of $$n$$ variables $$x_1 ,   x_2
+    ,   ... ,   x_n$$ is denoted by $$f ( x_1 ,   x_2 ,   ... ,   x_n )$$.'
+  - '2 to entry: In many practical applications in electrotechnology, functions of
+    one variable are used. This variable is often the duration and the function is
+    then called "function of time" and denoted by $$f$$($$t$$). But the variables
+    may also be space variables (e.g. coordinates), frequency, etc.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -70,16 +70,17 @@ fre:
     designation: fonction de $$n$$ variables
     gender: f
     plurality: singular
-  definition: fonction dont l'argument est un ensemble ordonné de n nombres ou grandeurs
-    scalaires
+  definition: fonction dont l'argument est un ensemble ordonné de $$n$$ nombres ou
+    grandeurs scalaires
   language_code: fre
   notes:
-  - 'La valeur d''une fonction f de n variables $$x_1 ,  x_2 ,   ... ,  x_n$$ est
-    notée $$f ( x_1 ,  x_2 ,   ... ,  x_n )$$. '
-  - Dans de nombreuses applications en électrotechnique, on utilise des fonctions
-    d'une seule variable. Cette variable est souvent la durée et la fonction est alors
-    appelée «fonction du temps» et notée f(t). Mais les variables peuvent aussi être
-    des variables spatiales (par exemple des coordonnées), la fréquence, etc.
+  - '1 à l''article: La valeur d''une fonction $$f$$ de $$n$$ variables $$x_1 ,  
+    x_2 ,   ... ,   x_n$$ est notée $$f ( x_1 ,   x_2 ,   ... ,   x_n )$$.'
+  - '2 à l''article: Dans de nombreuses applications en électrotechnique, on utilise
+    des fonctions d''une seule variable. Cette variable est souvent la durée et la
+    fonction est alors appelée «fonction du temps» et notée $$f$$($$t$$). Mais les
+    variables peuvent aussi être des variables spatiales (par exemple des coordonnées),
+    la fréquence, etc.'
   examples: []
   entry_status: Standard
   review_decision_event: published

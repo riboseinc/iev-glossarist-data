@@ -31,12 +31,10 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: self-testing
-  definition: |-
-    built-in test facility for assessing internal system status
-
-    Note 1 to entry: Self-testing may occur on start-up and/or throughout operation.
+  definition: built-in test facility for assessing internal system status
   language_code: eng
-  notes: []
+  notes:
+  - Self-testing may occur on start-up and/or throughout operation.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,7 +53,8 @@ fre:
   definition: capacité d’essai intégrée permettant d’évaluer l’état interne du système
   language_code: fre
   notes:
-  - Un essai automatique peut avoir lieu au démarrage ou tout au long du fonctionnement.
+  - '1 à l’article: Un essai automatique peut avoir lieu au démarrage ou tout au long
+    du fonctionnement.'
   examples: []
   entry_status: Standard
   review_decision_event: published

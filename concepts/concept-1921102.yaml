@@ -31,12 +31,14 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: reliability model
-  definition: |-
-    mathematical model used for prediction or estimation of reliability measures
-
-    Note 1 to entry: See IEC 61703, Mathematical expressions for reliability, availability, maintainability and maintenance support terms, for more detail on reliability modelling. Note 2 to entry: Modelling techniques can be applied to other dependability characteristics, such as maintainability and availability.
+  definition: mathematical model used for prediction or estimation of reliability
+    measures
   language_code: eng
-  notes: []
+  notes:
+  - See IEC 61703, <i>Mathematical expressions for reliability, availability, maintainability
+    and maintenance support terms</i>, for more detail on reliability modelling.
+  - Modelling techniques can be applied to other dependability characteristics, such
+    as maintainability and availability.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,11 +58,12 @@ fre:
     de fiabilité
   language_code: fre
   notes:
-  - 'Voir l''IEC 61703, Expressions mathématiques pour les termes de fiabilité, de
-    disponibilité, de maintenabilité et de logistique de maintenance, pour plus de
-    détails sur la modélisation de la fiabilité. '
-  - Les techniques de modélisation peuvent s’appliquer à d’autres caractéristiques
-    de sûreté de fonctionnement, telles que la maintenabilité et la disponibilité.
+  - '1 à l’article: Voir l''IEC 61703, <i>Expressions mathématiques pour les termes
+    de fiabilité, de disponibilité, de maintenabilité et de logistique de maintenance,</i>
+    pour plus de détails sur la modélisation de la fiabilité.'
+  - '2 à l’article: Les techniques de modélisation peuvent s’appliquer à d’autres
+    caractéristiques de sûreté de fonctionnement, telles que la maintenabilité et
+    la disponibilité.'
   examples: []
   entry_status: Standard
   review_decision_event: published

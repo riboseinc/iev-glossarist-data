@@ -44,7 +44,8 @@ eng:
     international: true
   definition: SI unit of luminous intensity, equal to the luminous intensity in a
     given direction, of a source that emits monochromatic radiation of frequency 540
-    × 1012 Hz and that has a radiant intensity in that direction of 1/683 W/sr
+    × 10<sup>12</sup> Hz and that has a radiant intensity in that direction of 1/683
+    W/sr
   language_code: eng
   notes: []
   examples: []
@@ -66,8 +67,8 @@ fre:
     plurality: singular
   definition: unité SI d’intensité lumineuse, égale à l’intensité lumineuse, dans
     une direction donnée, d’une source qui émet un rayonnement monochromatique de
-    fréquence 540 × 1012 Hz et dont l’intensité énergétique dans cette direction est
-    1/683 W/sr
+    fréquence 540 × 10<sup>12</sup> Hz et dont l’intensité énergétique dans cette
+    direction est 1/683 W/sr
   language_code: fre
   notes: []
   examples: []

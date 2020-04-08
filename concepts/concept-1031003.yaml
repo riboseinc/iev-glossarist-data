@@ -45,13 +45,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: sinusoidal wave
-  definition: wave which can be represented by a sinusoidal field quantity with phase
-    $$\omega  t - k * r + \vartheta_0$$ where k is a vector characteristic of the
-    wave, r is position vector,  is angular frequency, t is time, and $$\vartheta_0$$
-    is initial phase
+  definition: "wave which can be represented by a sinusoidal field quantity with phase
+    $$omega   t - k * r + vartheta_0$$ where \n\n$$k$$"
   language_code: eng
   notes:
-  - Vector k is called “{{wave vector, IEV:103-10-09}}”.
+  - "1 to entry: Vector \n\n$$k$$"
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -67,13 +65,11 @@ fre:
     designation: onde sinusoïdale
     gender: f
     plurality: singular
-  definition: onde qui peut être représentée par un champ sinusoïdal de phase $$\omega
-     t - k * r + \vartheta_0$$, où k est un vecteur caractéristique de l'onde, r est
-    le rayon vecteur,  est la pulsation, t est le temps et $$\vartheta_0$$ est la
-    phase à l'origine
+  definition: "onde qui peut être représentée par un champ sinusoïdal de phase $$omega
+      t - k * r + vartheta_0$$, où \n\n$$k$$"
   language_code: fre
   notes:
-  - Le vecteur k est appelé «{{vecteur d’onde, IEV:103-10-09}}».
+  - "1 à l'article: Le vecteur \n\n$$k$$"
   examples: []
   entry_status: Standard
   review_decision_event: published

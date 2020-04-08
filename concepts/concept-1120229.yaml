@@ -42,7 +42,7 @@ eng:
   - type: symbol
     designation: Z
     international: true
-  definition: SI prefix used to form the multiple 1021 of a unit of measurement
+  definition: SI prefix used to form the multiple 10<sup>21</sup> of a unit of measurement
   language_code: eng
   notes: []
   examples: []
@@ -59,7 +59,8 @@ fre:
     prefix: true
     normativeStatus: preferred
     designation: zetta
-  definition: préfixe SI utilisé pour former le multiple 1021 d’une unité de mesure
+  definition: préfixe SI utilisé pour former le multiple 10<sup>21</sup> d’une unité
+    de mesure
   language_code: fre
   notes: []
   examples: []
@@ -78,7 +79,7 @@ jpn:
     designation: ゼッタ
   - type: expression
     normativeStatus: preferred
-    designation: "$$^$$"
+    designation: 10<sup>21</sup>
   language_code: jpn
   notes: []
   examples: []

@@ -50,191 +50,75 @@ eng:
     to the base quantities, omitting any numerical factor
   language_code: eng
   notes:
-  - "A power of a factor is the factor raised to an exponent. Each factor is the dimension
-    of a base quantity.\n\n"
-  - "The conventional symbolic representation of the dimension of a base quantity
-    is a single upper case letter in roman (upright) sans-serif type. The conventional
-    symbolic representation of the dimension of a derived quantity is the product
-    of powers of the dimensions of the base quantities according to the definition
-    of the derived quantity. The dimension of a quantity Q is denoted by dim Q.\n\n"
-  - "In deriving the dimension of a quantity, no account is taken of its scalar, vector
-    or tensor character.\n\n"
+  - '1 to entry: A power of a factor is the factor raised to an exponent. Each factor
+    is the dimension of a base quantity.'
+  - '2 to entry: The conventional symbolic representation of the dimension of a base
+    quantity is a single upper case letter in roman (upright) sans-serif type. The
+    conventional symbolic representation of the dimension of a derived quantity is
+    the product of powers of the dimensions of the base quantities according to the
+    definition of the derived quantity. The dimension of a quantity $$Q$$ is denoted
+    by dim $$Q$$.'
+  - '3 to entry: In deriving the dimension of a quantity, no account is taken of its
+    scalar, vector or tensor character.'
+  - |-
+    4 to entry: In a given system of quantities,
+
+    <ul>
+
+    <li>quantities of the same kind (see {{IEV 112-01-04, IEV:112-01-04}}) have the same dimension,</li>
+
+    <li>quantities of different dimensions are always of different kinds, and</li>
+
+    <li>quantities having the same dimension are not necessarily of the same kind. For example, in the {{International System of Quantities, IEV:112-02-01}} (ISQ), pressure and energy density (volumic energy) have the same dimension <font style="font-family:sans-serif;">L</font><sup>–1</sup><font style="font-family:sans-serif;">MT</font><sup>–2</sup>. See also note 5.</li>
+
+    </ul>
   - |+
-    In a given system of quantities,
+    5 to entry: In the International System of Quantities (ISQ), the symbols representing the dimensions of the base quantities are:
 
 
 
-    quantities of the same kind (see {{IEV 112-01-04, IEV:112-01-04}}) have the same dimension,
+    <table cellpadding="2" border="solid">
 
-    quantities of different dimensions are always of different kinds, and
+    <tbody>
 
-    quantities having the same dimension are not necessarily of the same kind. For example, in the {{International System of Quantities, IEV:112-02-01}} (ISQ), pressure and energy density (volumic energy) have the same dimension L–1MT–2. See also note 5.
+    <tr>
 
+    <td width="198">
 
+    Base quantity</td>
 
-  - |+
-    In the International System of Quantities (ISQ), the symbols representing the dimensions of the base quantities are:
+    </tr>
 
+    <td width="159">
 
+    Symbol for dimension</td>
 
+    </tbody>
 
+    </table>
 
+    <tr>
 
+    <td width="198">
 
+    length</td>
 
+    </tr>
 
+    <td width="159">
 
-
-    Base quantity
-
-
-
-
-
-    Symbol for dimension
-
-
-
-
-
-
-
-
-
-    length
-
-
-
-
-
-    L
-
-
-
-
-
-
-
-
-
-    mass
-
-
-
-
-
-    M
-
-
-
-
-
-
-
-
-
-    time
-
-
-
-
-
-    T
-
-
-
-
-
-
-
-
-
-    electric current
-
-
-
-
-
-    I
-
-
-
-
-
-
-
-
-
-    thermodynamic temperature
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    amount of substance
-
-
-
-
-
-    N
-
-
-
-
-
-
-
-
-
-    luminous intensity
-
-
-
-
-
-    J
-
-
-
-
-
-
-
-
-
-    Thus, the dimension of a quantity Q is denoted by dim Q = LMTINJ, where the exponents, named dimensional exponents, are positive, negative, or zero. Factors with exponent 0 are usually omitted. When all exponents are zero, the symbol 1, printed in sans-serif type, is used to represent the dimension. Examples are:
-
-
-
-    The dimension of force is dim F = LMT–2.
-
-    Mass concentration of a given component and mass density (volumic mass) have the same dimension ML–3.
-
-    Electric current and scalar magnetic potential have the same dimension I1 = I, although they are not quantities of the same kind.
-
-
+    <font style="font-family:sans-serif;">L</font></td>
 
   - |-
-    An exponent can be fractional.
+    6 to entry: An exponent can be fractional.
 
-    The period T of a pendulum of length l at a place with the local acceleration of free fall g is:
+    The period $$T$$ of a pendulum of length $$l$$ at a place with the local acceleration of free fall $$g$$ is:
 
-    $$T = 2 \pi sqrt( (1)/(g)    )    MathType@MTEF@5@5@+=   feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX   garuavP1wzZbItLDhis9wBH5garmWu51MyVXgaruWqVvNCPvMCG4uz   3bqee0evGueE0jxyaibaieYdi9WrpeeC0lXdi9qqqj=hEeeu0lXdbb   a9frFj0xb9Lqpepeea0xd9s8qiYRWxGi6xij=hbba9q8aq0=yq=He9   q8qiLsFr0=vr0=vr0db8meaabaGacmGadiWaaiWabaabaiaafaaake   aacaWGubGaeyypa0JaaGOmaGWaaiab=b8aWnaakaaabaWaaSaaaeaa   caaIXaaabaGaam4zaaaaaSqabaaaaa@3FBD@  $$ or $$T = C ( g ) sqrt( l  )  MathType@MTEF@5@5@+=   feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX   garuavP1wzZbItLDhis9wBH5garmWu51MyVXgaruWqVvNCPvMCG4uz   3bqee0evGueE0jxyaibaieYdi9WrpeeC0lXdi9qqqj=hEeeu0lXdbb   a9frFj0xb9Lqpepeea0xd9s8qiYRWxGi6xij=hbba9q8aq0=yq=He9   q8qiLsFr0=vr0=vr0db8meaabaGacmGadiWaaiWabaabaiaafaaake   aacaWGubGaeyypa0Jaam4qaiaacIcacaWGNbGaaiykamaakaaabaGa   amiBaaWcbeaaaaa@3F85@  $$ where
+    $$T = 2 pi sqrt((1)/(g))$$ or $$T = C ( g ) sqrt(l)$$ where
 
-     $$C ( g ) = (( 2 \pi ))/((  sqrt(  g  )  ))    MathType@MTEF@5@5@+=   feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX   garuavP1wzZbItLDhis9wBH5garmWu51MyVXgaruWqVvNCPvMCG4uz   3bqee0evGueE0jxyaibaieYdi9WrpeeC0lXdi9qqqj=hEeeu0lXdbb   a9frFj0xb9Lqpepeea0xd9s8qiYRWxGi6xij=hbba9q8aq0=yq=He9   q8qiLsFr0=vr0=vr0db8meaabaGacmGadiWaaiWabaabaiaafaaake   aacaWGdbGaaiikaiaadEgacaGGPaGaeyypa0ZaaSaaaeaacaaIYaac   daGae8hWdahabaWaaOaaaeaacaWGNbaaleqaaaaaaaa@4136@  $$
+     $$C ( g ) = (( 2 pi))/(( sqrt(g) ))$$
 
-    Hence dim C(g) = T L1/2.
+    Hence dim $$C$$($$g$$) = <font style="font-family:sans-serif;">T</font> <font style="font-family:sans-serif;">L</font><sup>1/2</sup>.
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -271,185 +155,70 @@ fre:
     facteur numérique
   language_code: fre
   notes:
-  - "Une puissance d'un facteur est le facteur muni d'un exposant. Chaque facteur
-    exprime la dimension d'une grandeur de base.\n\n"
-  - "Par convention, la représentation symbolique de la dimension d'une grandeur de
-    base est une lettre majuscule unique en caractère romain (droit) sans empattement.
-    Par convention, la représentation symbolique de la dimension d'une grandeur dérivée
-    est le produit de puissances des dimensions des grandeurs de base conformément
-    à la définition de la grandeur dérivée. La dimension de la grandeur Q est notée
-    dim Q.\n\n"
-  - "Pour établir la dimension d'une grandeur, on ne tient pas compte du caractère
-    scalaire, vectoriel ou tensoriel.\n\n"
-  - "Dans un système de grandeurs donné, \n\n\n\nles grandeurs de même nature (voir
-    {{IEV 112-01-04, IEV:112-01-04}}) ont la même dimension, \n\ndes grandeurs de
-    dimensions différentes sont toujours de nature différente, \n\ndes grandeurs ayant
-    la même dimension ne sont pas nécessairement de même nature. Par exemple, dans
-    le {{Système international de grandeurs, IEV:112-02-01}} (ISQ), la pression et
-    l'énergie volumique ont la même dimension L–1MT–2. Voir aussi la note 5.\n\n\n\n"
+  - '1 à l''article: Une puissance d''un facteur est le facteur muni d''un exposant.
+    Chaque facteur exprime la dimension d''une grandeur de base.'
+  - '2 à l''article: Par convention, la représentation symbolique de la dimension
+    d''une grandeur de base est une lettre majuscule unique en caractère romain (droit)
+    sans empattement. Par convention, la représentation symbolique de la dimension
+    d''une grandeur dérivée est le produit de puissances des dimensions des grandeurs
+    de base conformément à la définition de la grandeur dérivée. La dimension de la
+    grandeur $$Q$$ est notée dim $$Q$$.'
+  - '3 à l''article: Pour établir la dimension d''une grandeur, on ne tient pas compte
+    du caractère scalaire, vectoriel ou tensoriel.'
+  - "4 à l'article: Dans un système de grandeurs donné, \n\n<ul>\n\n<li>les grandeurs
+    de même nature (voir {{IEV 112-01-04, IEV:112-01-04}}) ont la même dimension,</li>
+    \n\n<li>des grandeurs de dimensions différentes sont toujours de nature différente,</li>
+    \n\n<li>des grandeurs ayant la même dimension ne sont pas nécessairement de même
+    nature. Par exemple, dans le {{Système international de grandeurs, IEV:112-02-01}}
+    (ISQ), la pression et l'énergie volumique ont la même dimension <font style=\"font-family:sans-serif;\">L</font><sup>–1</sup><font
+    style=\"font-family:sans-serif;\">MT</font><sup>–2</sup>. Voir aussi la note 5.</li>\n\n</ul>"
   - |+
-    Dans le Système international de grandeurs (ISQ), les symboles représentant les dimensions des grandeurs de base sont:
+    5 à l'article: Dans le Système international de grandeurs (ISQ), les symboles représentant les dimensions des grandeurs de base sont:
 
 
 
+    <table cellpadding="2" border="solid">
 
+    <tbody>
 
+    <tr>
 
+    <td width="198">
 
+    Grandeur de base</td>
 
+    </tr>
 
+    <td width="159">
 
+    Symbole de la dimension</td>
 
-    Grandeur de base
+    </tbody>
 
+    </table>
 
+    <tr>
 
+    <td width="198">
 
+    longueur</td>
 
-    Symbole de la dimension
+    </tr>
 
+    <td width="159">
 
-
-
-
-
-
-
-
-    longueur
-
-
-
-
-
-    L
-
-
-
-
-
-
-
-
-
-    masse
-
-
-
-
-
-    M
-
-
-
-
-
-
-
-
-
-    temps
-
-
-
-
-
-    T
-
-
-
-
-
-
-
-
-
-    courant lectrique
-
-
-
-
-
-    I
-
-
-
-
-
-
-
-
-
-    temprature thermodynamique
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    quantit de matire
-
-
-
-
-
-    N
-
-
-
-
-
-
-
-
-
-    intensit lumineuse
-
-
-
-
-
-    J
-
-
-
-
-
-
-
-
-
-    La dimension d'une grandeur Q est donc notée dim Q = LMTINJ, où les exposants, appelés exposants dimensionnels, sont positifs, négatifs ou nuls. Les facteurs d’exposant zéro sont généralement omis. Lorsque tous les exposants sont nuls, le symbole 1, imprimé sans empattement, est utilisé pour représenter la dimension. Des exemples sont:
-
-
-
-    La dimension de la force est dim F = LMT–2.
-
-    La concentration en masse d’un constituant donné et la masse volumique ont la même dimension ML–3.
-
-    Le courant électrique et le potentiel magnétique scalaire ont la même dimension I1 = I, bien que ces grandeurs ne soient pas de même nature.
-
-
+    <font style="font-family:sans-serif;">L</font></td>
 
   - |-
-    Un exposant peut être fractionnaire.
+    6 à l'article: Un exposant peut être fractionnaire.
 
-    En un lieu où l’accélération locale de la pesanteur est g, la période T d’un pendule de longueur l est:
+    En un lieu où l’accélération locale de la pesanteur est $$g$$, la période $$T$$ d’un pendule de longueur $$l$$ est:
 
-    $$T = 2 \pi sqrt( (1)/(g)    )    MathType@MTEF@5@5@+=   feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX   garuavP1wzZbItLDhis9wBH5garmWu51MyVXgaruWqVvNCPvMCG4uz   3bqee0evGueE0jxyaibaieYdi9WrpeeC0lXdi9qqqj=hEeeu0lXdbb   a9frFj0xb9Lqpepeea0xd9s8qiYRWxGi6xij=hbba9q8aq0=yq=He9   q8qiLsFr0=vr0=vr0db8meaabaGacmGadiWaaiWabaabaiaafaaake   aacaWGubGaeyypa0JaaGOmaGWaaiab=b8aWnaakaaabaWaaSaaaeaa   caaIXaaabaGaam4zaaaaaSqabaaaaa@3FBD@  $$ ou $$T = C ( g ) sqrt( l  )  MathType@MTEF@5@5@+=   feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX   garuavP1wzZbItLDhis9wBH5garmWu51MyVXgaruWqVvNCPvMCG4uz   3bqee0evGueE0jxyaibaieYdi9WrpeeC0lXdi9qqqj=hEeeu0lXdbb   a9frFj0xb9Lqpepeea0xd9s8qiYRWxGi6xij=hbba9q8aq0=yq=He9   q8qiLsFr0=vr0=vr0db8meaabaGacmGadiWaaiWabaabaiaafaaake   aacaWGubGaeyypa0Jaam4qaiaacIcacaWGNbGaaiykamaakaaabaGa   amiBaaWcbeaaaaa@3F85@  $$ où
+    $$T = 2 pi sqrt((1)/(g))$$ ou $$T = C ( g ) sqrt(l)$$ où
 
-     $$C ( g ) = (( 2 \pi ))/((  sqrt(  g  )  ))    MathType@MTEF@5@5@+=   feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX   garuavP1wzZbItLDhis9wBH5garmWu51MyVXgaruWqVvNCPvMCG4uz   3bqee0evGueE0jxyaibaieYdi9WrpeeC0lXdi9qqqj=hEeeu0lXdbb   a9frFj0xb9Lqpepeea0xd9s8qiYRWxGi6xij=hbba9q8aq0=yq=He9   q8qiLsFr0=vr0=vr0db8meaabaGacmGadiWaaiWabaabaiaafaaake   aacaWGdbGaaiikaiaadEgacaGGPaGaeyypa0ZaaSaaaeaacaaIYaac   daGae8hWdahabaWaaOaaaeaacaWGNbaaleqaaaaaaaa@4136@  $$
+     $$C ( g ) = (( 2 pi))/(( sqrt(g) ))$$
 
-    Par consequent dim C(g) = T L1/2.
+    Par consequent dim $$C$$($$g$$) = <font style="font-family:sans-serif;">T</font> <font style="font-family:sans-serif;">L</font><sup>1/2</sup>.
   examples: []
   entry_status: Standard
   classification: Preferred

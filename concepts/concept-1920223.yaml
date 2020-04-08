@@ -40,10 +40,8 @@ eng:
   - type: expression
     usageInfo: of an item;
     designation: external disabled state
-  definition: |-
-    state of being unable to perform as required, due to absence of external resources
-
-    EXAMPLE Diesel generator being unable to operate due to lack of fuel.
+  definition: state of being unable to perform as required, due to absence of external
+    resources
   language_code: eng
   notes: []
   examples:
@@ -63,10 +61,8 @@ fre:
     designation: état d’incapacité externe
     gender: m
     plurality: singular
-  definition: |-
-    état ne permettant pas de fonctionner tel que requis par suite de l’absence de ressources externes
-
-    EXEMPLE Incapacité d’un générateur diesel à fonctionner par suite du manque de carburant.
+  definition: état ne permettant pas de fonctionner tel que requis par suite de l’absence
+    de ressources externes
   language_code: fre
   notes: []
   examples:

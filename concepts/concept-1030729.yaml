@@ -48,10 +48,11 @@ eng:
   definition: interharmonic component having harmonic order lower then one
   language_code: eng
   notes:
-  - 'Sub-harmonic components occur only when a harmonic order is defined in relation
-    to the reference fundamental frequency not identical to the fundamental frequency. '
-  - In some applications, sub-harmonic components are restricted to orders being reciprocal
-    of integers.
+  - '1 to entry: Sub-harmonic components occur only when a harmonic order is defined
+    in relation to the reference fundamental frequency not identical to the fundamental
+    frequency.'
+  - '2 to entry: In some applications, sub-harmonic components are restricted to orders
+    being reciprocal of integers.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -74,10 +75,11 @@ fre:
   definition: interharmonique dont le rang harmonique est inférieur à un
   language_code: fre
   notes:
-  - 'Des sous-harmoniques n''existent que si le rang harmonique est défini par rapport
-    à une fréquence fondamentale de référence autre que la fréquence fondamentale. '
-  - Dans certaines applications, les sous-harmoniques sont limités aux rangs inverses
-    d’un entier.
+  - '1 à l''article: Des sous-harmoniques n''existent que si le rang harmonique est
+    défini par rapport à une fréquence fondamentale de référence autre que la fréquence
+    fondamentale.'
+  - '2 à l''article: Dans certaines applications, les sous-harmoniques sont limités
+    aux rangs inverses d’un entier.'
   examples: []
   entry_status: Standard
   review_decision_event: published

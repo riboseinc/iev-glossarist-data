@@ -32,14 +32,16 @@ eng:
     normativeStatus: preferred
     designation: mean failure intensity
   - type: symbol
-    designation: "$$bar z ( t_1 ,  t_2 ) MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbbjxAHXgarqqtubsr4rNCHbGeaGqipG0dh9qqWrVepG0dbbL8F4rqqrVepeea0xe9LqFf0xc9q8qqaqFn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpeWZqaaeqabiGaciGacaqadmaadaqaaqaaaOqaaiqadQhagaqeaiaacIcacaWG0bWaaSbaaSqaaiaaigdaaeqaaOGaaiilaiaaysW7caWG0bWaaSbaaSqaaiaaikdaaeqaaOGaaiykaaaa@3DCE@$$"
+    designation: "$$bar z ( t_1 ,   t_2 )$$"
     international: true
-  definition: |-
-    average value of the instantaneous failure intensity over a given time interval (t1, t2)
-
-    Note 1 to entry: The mean failure intensity is related to instantaneous failure intensity z(t) as follows:$$bar z  ( t_1   ,  t_2   ) = (1)/((  t_2   - t_1  ))     ∫_(    t_1  )^(    t_2  )    z ( t )  dt        $$
+  definition: average value of the instantaneous failure intensity over a given time
+    interval ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)
   language_code: eng
-  notes: []
+  notes:
+  - |-
+    The mean failure intensity is related to instantaneous failure intensity $$z$$($$t$$) as follows:
+
+    $$bar z ( t_1 ,   t_2 ) = (1)/(( t_2 - t_1 )) ∫_(     t_1 )^(     t_2 ) z ( t )   d t$$
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,15 +58,16 @@ fre:
     gender: f
     plurality: singular
   - type: symbol
-    designation: 192-05-091.gif>
+    designation: "<img/>192-05-091.gif&gt;"
     international: true
   definition: moyenne de l’intensité instantanée de défaillance sur un intervalle
-    de temps donné (t1, t2)
+    de temps donné ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)
   language_code: fre
   notes:
-  - L’intensité moyenne de défaillance est déduite de l’intensité instantanée de défaillance
-    z(t) par la formule:$$bar z  ( t_1   ,  t_2   ) = (1)/((  t_2   - t_1  ))     ∫_(    t_1  )^(    t_2  )    z
-    ( t )  dt        $$
+  - |-
+    1 à l’article: L’intensité moyenne de défaillance est déduite de l’intensité instantanée de défaillance $$z$$($$t$$) par la formule:
+
+    $$bar z ( t_1 ,   t_2 ) = (1)/(( t_2 - t_1 )) ∫_(     t_1 )^(     t_2 ) z ( t )   d t$$
   examples: []
   entry_status: Standard
   review_decision_event: published

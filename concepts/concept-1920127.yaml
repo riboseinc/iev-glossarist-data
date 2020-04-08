@@ -34,14 +34,15 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: maintainability
-  definition: |-
-    ability to be retained in, or restored to a state to perform as required, under given conditions of use and maintenance
-
-    Note 1 to entry: Given conditions would include aspects that affect maintainability, such as: location for maintenance, accessibility, maintenance procedures and maintenance resources.
+  definition: ability to be retained in, or restored to a state to perform as required,
+    under given conditions of use and maintenance
   language_code: eng
   notes:
-  - 'Maintainability may be quantified using measures defined in Section 192-07, Maintainability
-    and maintenance support: measures.'
+  - 'Given conditions would include aspects that affect maintainability, such as:
+    location for maintenance, accessibility, maintenance procedures and maintenance
+    resources.'
+  - '2 to entry: Maintainability may be quantified using measures defined in http://www.electropedia.org/iev/iev.nsf/SearchView?SearchView=field+SearchFields+contains+192-07+and+field+Language=en=4=0[Section
+    192-07, <i>Maintainability and maintenance support: measures</i>].'
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -62,11 +63,12 @@ fre:
     tel que requis, dans des conditions données d’utilisation et de maintenance
   language_code: fre
   notes:
-  - 'Les conditions données incluent notamment les aspects ayant un impact sur la
-    maintenabilité, tels que: l’emplacement de maintenance, l’accessibilité, les procédures
-    et les ressources de maintenance.'
-  - 'La maintenabilité peut être quantifiée à l’aide de mesures définies dans la Section
-    192-07, Maintenabilité et logistique de maintenance: mesures.'
+  - '1 à l’article: Les conditions données incluent notamment les aspects ayant un
+    impact sur la maintenabilité, tels que: l’emplacement de maintenance, l’accessibilité,
+    les procédures et les ressources de maintenance.'
+  - '2 à l''article: La maintenabilité peut être quantifiée à l’aide de mesures définies
+    dans la http://www.electropedia.org/iev/iev.nsf/SearchView?SearchView=field+SearchFields+contains+192-07+and+field+Language=en=4=0[Section
+    192-07, <i>Maintenabilité et logistique de maintenance: mesures</i>].'
   examples: []
   entry_status: Standard
   review_decision_event: published

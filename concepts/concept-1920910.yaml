@@ -35,12 +35,14 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: step stress test
-  definition: |-
-    test in which the applied stress is increased, after each specified interval, until failure occurs or a predetermined stress level is reached
-
-    Note 1 to entry: The “interval” could be specified in terms of number of stress applications, durations, or test sequences. Note 2 to entry: The test should not alter the basic failure modes, failure mechanisms, or their relative prevalence.
+  definition: test in which the applied stress is increased, after each specified
+    interval, until failure occurs or a predetermined stress level is reached
   language_code: eng
-  notes: []
+  notes:
+  - The “interval” could be specified in terms of number of stress applications, durations,
+    or test sequences.
+  - The test should not alter the basic failure modes, failure mechanisms, or their
+    relative prevalence.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -61,10 +63,10 @@ fre:
     de contrainte prédéterminé soit atteint
   language_code: fre
   notes:
-  - 'Les intervalles peuvent être spécifiés par le nombre d’applications de la contrainte,
-    par des durées ou par des séquences d’essai. '
-  - Il convient que l’essai ne modifie ni les modes ou mécanismes fondamentaux de
-    défaillance, ni leur fréquence relative.
+  - '1 à l’article: Les intervalles peuvent être spécifiés par le nombre d’applications
+    de la contrainte, par des durées ou par des séquences d’essai.'
+  - '2 à l’article: Il convient que l’essai ne modifie ni les modes ou mécanismes
+    fondamentaux de défaillance, ni leur fréquence relative.'
   examples: []
   entry_status: Standard
   review_decision_event: published

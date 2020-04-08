@@ -37,11 +37,11 @@ eng:
     normativeStatus: preferred
     designation: average failure rate
   - type: symbol
-    designation: "$$bar \\lambda  ( t_1 ,  t_2 ) MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbbjxAHXgarqqtubsr4rNCHbGeaGqipG0dh9qqWrVepG0dbbL8F4rqqrVepeea0xe9LqFf0xc9q8qqaqFn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpeWZqaaeqabiGaciGacaqadmaadaqaaqaaaOqaaiqbeU7aSzaaraGaaiikaiaadshadaWgaaWcbaGaaGymaaqabaGccaGGSaGaaGjbVlaadshadaWgaaWcbaGaaGOmaaqabaGccaGGPaaaaa@3E83@$$"
+    designation: "$$bar lambda ( t_1 ,   t_2 )$$"
     international: true
-  definition: average value of the instantaneous failure rate over a given time interval
-    (t1, t2) $$bar \lambda  ( t_1   ,  t_2   ) = (1)/((  t_2   - t_1  ))     ∫_(    t_1  )^(    t_2  )     \lambda
-    ( t )  dt        $$
+  definition: "average value of the instantaneous failure rate over a given time interval
+    ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>) \n\n$$bar lambda ( t_1 ,   t_2 ) = (1)/((
+    t_2 - t_1 )) ∫_(     t_1 )^(     t_2 ) lambda ( t )   d t$$"
   language_code: eng
   notes: []
   examples: []
@@ -61,11 +61,11 @@ fre:
     gender: m
     plurality: singular
   - type: symbol
-    designation: 192-05-071.gif>
+    designation: "<img/>192-05-071.gif&gt;"
     international: true
-  definition: moyenne du taux instantané de défaillance sur un intervalle de temps
-    donné (t1, t2) $$bar \lambda  ( t_1   ,  t_2   ) = (1)/((  t_2   - t_1  ))     ∫_(    t_1  )^(    t_2  )     \lambda
-    ( t )  dt        $$
+  definition: "moyenne du taux instantané de défaillance sur un intervalle de temps
+    donné ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>) \n\n$$bar lambda ( t_1 ,   t_2 )
+    = (1)/(( t_2 - t_1 )) ∫_(     t_1 )^(     t_2 ) lambda ( t )   d t$$"
   language_code: fre
   notes: []
   examples: []

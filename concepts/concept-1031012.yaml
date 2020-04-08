@@ -51,12 +51,15 @@ eng:
     normativeStatus: preferred
     designation: angular repetency
   - type: symbol
-    designation: k
+    designation: "$$k$$"
     international: true
-  definition: product of the wavenumber and 2 $$k = 2 \pi \sigma$$
+  definition: |-
+    product of the wavenumber and 2
+
+     $$k = 2 pi sigma$$
   language_code: eng
   notes:
-  - The angular wavenumber is the magnitude of the wave vector.
+  - '1 to entry: The angular wavenumber is the magnitude of the wave vector.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -78,10 +81,13 @@ fre:
     designation: répétence angulaire
     gender: f
     plurality: singular
-  definition: produit du nombre d'onde et de 2 $$k = 2 \pi \sigma$$
+  definition: |-
+    produit du nombre d'onde et de 2
+
+     $$k = 2 pi sigma$$
   language_code: fre
   notes:
-  - Le nombre d'onde angulaire est la norme du vecteur d'onde.
+  - '1 à l''article: Le nombre d''onde angulaire est la norme du vecteur d''onde.'
   examples: []
   entry_status: Standard
   classification: Preferred

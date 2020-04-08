@@ -47,219 +47,51 @@ eng:
   language_code: eng
   notes:
   - |+
-    The SI is founded on the seven base quantities of the ISQ and the names and symbols of the corresponding base units that are contained in the following table:
+    1 to entry: The SI is founded on the seven base quantities of the ISQ and the names and symbols of the corresponding base units that are contained in the following table:
 
 
 
+    <table style="width: 430px;" cellpadding="5" border="solid">
 
+    <tbody>
 
+    <tr>
 
+    <td style="width: 300.95px;">
 
+    <strong><span>Base quantity</span></strong></td>
 
+    </tr>
 
+    <td colspan="2" style="width: 146.05px;">
 
+    <strong><span>Base unit</span></strong></td>
 
-    Base quantity
+    </tbody>
 
+    </table>
 
+    <tr>
 
+    <td style="width: 300.95px;">
 
+    <strong><span>Name</span></strong></td>
 
-    Base unit
+    </tr>
 
+    <td style="width: 77.05px;">
 
+    <strong><span>Name</span></strong></td>
 
-
-
-
-
-
-
-    Name
-
-
-
-
-
-    Name
-
-
-
-
-
-    Symbol
-
-
-
-
-
-
-
-
-
-    length
-
-
-
-
-
-    metre
-
-
-
-
-
-    m
-
-
-
-
-
-
-
-
-
-    mass
-
-
-
-
-
-    kilogram
-
-
-
-
-
-    kg
-
-
-
-
-
-
-
-
-
-    time, duration
-
-
-
-
-
-    second
-
-
-
-
-
-    s
-
-
-
-
-
-
-
-
-
-    electric current
-
-
-
-
-
-    ampere
-
-
-
-
-
-    A
-
-
-
-
-
-
-
-
-
-    thermodynamic temperature
-
-
-
-
-
-    kelvin
-
-
-
-
-
-    K
-
-
-
-
-
-
-
-
-
-    amount of substance
-
-
-
-
-
-    mole
-
-
-
-
-
-    mol
-
-
-
-
-
-
-
-
-
-    luminous intensity
-
-
-
-
-
-    candela
-
-
-
-
-
-    cd
-
-
-
-
-
-
-
-
-
-  - "The base units and the coherent derived units of the SI form a coherent set,
-    designated the \"set of coherent SI units\".\n\n"
-  - "For a full description and explanation of the International System of Units,
-    see the current edition of the SI brochure published by the International Bureau
-    of Weights and Measures (BIPM) and available on the BIPM website.\n\n"
-  - "In quantity calculus, the quantity \"number of entities\" is often considered
-    to be a base quantity, with the base unit one, symbol 1.\n\n"
-  - The SI prefixes for multiples and submultiples of units are given in {{IEV 112-02-03,
-    IEV:112-02-03}}.
+  - '2 to entry: The base units and the coherent derived units of the SI form a coherent
+    set, designated the "set of coherent SI units".'
+  - '3 to entry: For a full description and explanation of the International System
+    of Units, see the current edition of the SI brochure published by the International
+    Bureau of Weights and Measures (BIPM) and available on the BIPM website.'
+  - '4 to entry: In quantity calculus, the quantity "number of entities" is often
+    considered to be a base quantity, with the base unit one, symbol 1.'
+  - '5 to entry: The SI prefixes for multiples and submultiples of units are given
+    in {{IEV 112-02-03, IEV:112-02-03}}.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -293,219 +125,53 @@ fre:
   language_code: fre
   notes:
   - |+
-    Le SI est fondé sur les sept grandeurs de base de l'ISQ. Les noms et les symboles des unités de base sont donnés dans le tableau suivant:
+    1 à l'article: Le SI est fondé sur les sept grandeurs de base de l'ISQ. Les noms et les symboles des unités de base sont donnés dans le tableau suivant:
 
 
 
+    <table style="width: 430px;" cellpadding="5" border="solid">
 
+    <tbody>
 
+    <tr>
 
+    <td style="width: 300.95px;">
 
+    <strong><span>Grandeur de base</span></strong></td>
 
+    </tr>
 
+    <td colspan="2" style="width: 146.05px;">
 
+    <strong><span>Unit de base</span></strong></td>
 
-    Grandeur de base
+    </tbody>
 
+    </table>
 
+    <tr>
 
+    <td style="width: 300.95px;">
 
+    <strong><span>Nom</span></strong></td>
 
-    Unit de base
+    </tr>
 
+    <td style="width: 77.05px;">
 
+    <strong><span>Nom</span></strong></td>
 
-
-
-
-
-
-
-    Nom
-
-
-
-
-
-    Nom
-
-
-
-
-
-    Symbole
-
-
-
-
-
-
-
-
-
-    longueur
-
-
-
-
-
-    mtre
-
-
-
-
-
-    m
-
-
-
-
-
-
-
-
-
-    masse
-
-
-
-
-
-    kilogramme
-
-
-
-
-
-    kg
-
-
-
-
-
-
-
-
-
-    temps, dure
-
-
-
-
-
-    seconde
-
-
-
-
-
-    s
-
-
-
-
-
-
-
-
-
-    courant lectrique
-
-
-
-
-
-    ampre
-
-
-
-
-
-    A
-
-
-
-
-
-
-
-
-
-    temprature thermodynamique
-
-
-
-
-
-    kelvin
-
-
-
-
-
-    K
-
-
-
-
-
-
-
-
-
-    quantit de matire
-
-
-
-
-
-    mole
-
-
-
-
-
-    mol
-
-
-
-
-
-
-
-
-
-    intensit lumineuse
-
-
-
-
-
-    candela
-
-
-
-
-
-    cd
-
-
-
-
-
-
-
-
-
-  - "Les unités de base et les unités dérivées cohérentes du SI forment un ensemble
-    cohérent, appelé \"ensemble des unités SI cohérentes\".\n\n"
-  - "Pour une description et une explication complètes du Système international d’unités,
-    voir la dernière édition de la brochure du SI publiée par le Bureau international
-    des poids et mesures (BIPM) et disponible sur le site internet du BIPM.\n\n"
-  - "En algèbre des grandeurs, la grandeur \"nombre d’entités\" est souvent considérée
-    comme une grandeur de base, avec l’unité de base un, symbole 1. \n\n"
-  - Les préfixes SI pour les multiples et sous-multiples des unités sont donnés en
-    {{IEV 112-02-03, IEV:112-02-03}}.
+  - '2 à l''article: Les unités de base et les unités dérivées cohérentes du SI forment
+    un ensemble cohérent, appelé "ensemble des unités SI cohérentes".'
+  - '3 à l''article: Pour une description et une explication complètes du Système
+    international d’unités, voir la dernière édition de la brochure du SI publiée
+    par le Bureau international des poids et mesures (BIPM) et disponible sur le site
+    internet du BIPM.'
+  - '4 à l''article: En algèbre des grandeurs, la grandeur "nombre d’entités" est
+    souvent considérée comme une grandeur de base, avec l’unité de base un, symbole
+    1.'
+  - '5 à l''article: Les préfixes SI pour les multiples et sous-multiples des unités
+    sont donnés en {{IEV 112-02-03, IEV:112-02-03}}.'
   examples: []
   entry_status: Standard
   classification: Preferred

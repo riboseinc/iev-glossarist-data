@@ -37,12 +37,14 @@ eng:
     designation: reliability-centred maintenance
   - type: expression
     designation: RCM
-  definition: |-
-    systematic method for determining the respective maintenance actions and associated frequencies, based on the probability and consequences of failure
-
-    Note 1 to entry: RCM studies may be conducted at any indenture level of a system. Note 2 to entry: The data used may be derived from analysis (e.g. FMECA) and experience (e.g. FRACAS). Note 3 to entry: RCM studies may provide feedback to initiate modifications of design or procedures to effect improvements.
+  definition: systematic method for determining the respective maintenance actions
+    and associated frequencies, based on the probability and consequences of failure
   language_code: eng
-  notes: []
+  notes:
+  - RCM studies may be conducted at any indenture level of a system.
+  - The data used may be derived from analysis (e.g. FMECA) and experience (e.g. FRACAS).
+  - RCM studies may provide feedback to initiate modifications of design or procedures
+    to effect improvements.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -63,12 +65,13 @@ fre:
     de leurs conséquences
   language_code: fre
   notes:
-  - 'Les études relatives à la maintenance fondée sur la fiabilité peuvent être réalisées
-    à n’importe quel niveau dans l’arborescence d’un système. '
-  - 'Les données utilisées peuvent être déduites d’analyses (AMDEC, par exemple) ou
-    de l’expérience (LTIAC, par exemple). '
-  - Les études relatives à la maintenance fondée sur la fiabilité peuvent permettre
-    d’entreprendre des modifications de la conception ou des procédures d’amélioration.
+  - '1 à l’article: Les études relatives à la maintenance fondée sur la fiabilité
+    peuvent être réalisées à n’importe quel niveau dans l’arborescence d’un système.'
+  - '2 à l’article: Les données utilisées peuvent être déduites d’analyses (AMDEC,
+    par exemple) ou de l’expérience (LTIAC, par exemple).'
+  - '3 à l’article: Les études relatives à la maintenance fondée sur la fiabilité
+    peuvent permettre d’entreprendre des modifications de la conception ou des procédures
+    d’amélioration.'
   examples: []
   entry_status: Standard
   review_decision_event: published

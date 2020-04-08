@@ -39,10 +39,8 @@ eng:
     normativeStatus: preferred
     usageInfo: for reliability enhancement;
     designation: derating
-  definition: |-
-    employing components of higher capability than anticipated operating stresses
-
-    EXAMPLE Using a resistor rated at 10 W for an application dissipating 6 W.
+  definition: employing components of higher capability than anticipated operating
+    stresses
   language_code: eng
   notes: []
   examples:
@@ -70,10 +68,8 @@ fre:
     designation: fonctionnement en charge partielle
     gender: m
     plurality: singular
-  definition: |-
-    utilisation de composants présentant une capacité plus élevée que les contraintes de fonctionnement prévues
-
-    EXEMPLE Utilisation d’une résistance de 10 W pour une application dissipant 6 W.
+  definition: utilisation de composants présentant une capacité plus élevée que les
+    contraintes de fonctionnement prévues
   language_code: fre
   notes: []
   examples:

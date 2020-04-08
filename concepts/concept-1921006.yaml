@@ -36,12 +36,10 @@ eng:
     usageInfo: property of a system
     designation: fail-safe
     partOfSpeech: adj
-  definition: |-
-    capable of preserving safety in the case of failure
-
-    Note 1 to entry: The safe conditions should be defined for the particular application.
+  definition: capable of preserving safety in the case of failure
   language_code: eng
-  notes: []
+  notes:
+  - The safe conditions should be defined for the particular application.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,7 +58,8 @@ fre:
   definition: capable de préserver la sécurité en cas de défaillance
   language_code: fre
   notes:
-  - Il convient de définir les conditions de sécurité de l’application particulière.
+  - '1 à l’article: Il convient de définir les conditions de sécurité de l’application
+    particulière.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -46,13 +46,25 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: principle of measurement
-  definition: "phenomenon serving as the basis of a measurement  \n\nNOTE The phenomenon
-    can be of a physical, chemical, or biological nature.\n\nExamples:\n\n• Thermoelectric
-    effect applied to the measurement of temperature.\n\n• Energy absorption applied
-    to the measurement of amount-of-substance concentration.\n\n• Hall effect applied
-    to the measurement of magnetic flux density."
+  definition: phenomenon serving as the basis of a measurement
   language_code: eng
-  notes: []
+  notes:
+  - |-
+    The phenomenon can be of a physical, chemical, or biological nature.
+
+    Examples:
+
+
+
+    • Thermoelectric effect applied to the measurement of temperature.
+
+
+
+    • Energy absorption applied to the measurement of amount-of-substance concentration.
+
+
+
+    • Hall effect applied to the measurement of magnetic flux density.
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -73,13 +85,25 @@ fre:
     designation: principe de mesure
     gender: m
     plurality: singular
-  definition: "phénomène servant de base à un mesurage  \n\nNOTE Le phénomène peut
-    être de nature physique, chimique ou biologique.\n\nExemples:\n\n• Effet thermoélectrique
-    appliqué à la mesure de température.\n\n• Absorption d'énergie appliquée à la
-    mesure d'une concentration en quantité de matière.\n\n• Effet Hall appliqué à
-    la mesure d’induction magnétique."
+  definition: phénomène servant de base à un mesurage
   language_code: fre
-  notes: []
+  notes:
+  - |-
+    Le phénomène peut être de nature physique, chimique ou biologique.
+
+    Exemples:
+
+
+
+    • Effet thermoélectrique appliqué à la mesure de température.
+
+
+
+    • Absorption d'énergie appliquée à la mesure d'une concentration en quantité de matière.
+
+
+
+    • Effet Hall appliqué à la mesure d’induction magnétique.
   examples: []
   entry_status: Standard
   authoritative_source:

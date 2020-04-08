@@ -39,8 +39,8 @@ eng:
     quantity to its {{RMS value, IEV:103-02-03}}
   language_code: eng
   notes:
-  - For an alternating quantity x, the peak factor is equal to $$x_(( max)) // X_((
-    eff))$$.
+  - '1 to entry: For an alternating quantity $$x$$, the peak factor is equal to $$x_((
+    m a x)) // X_(( e f f))$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2017-07-01T00:00:00+00:00'
@@ -61,8 +61,8 @@ fre:
     d'une grandeur {{alternative, IEV:103-06-03}}
   language_code: fre
   notes:
-  - Pour une grandeur alternative x, le facteur de crête est égal à $$x_(( max)) //
-    X_(( eff))$$.
+  - '1 à l''article: Pour une grandeur alternative $$x$$, le facteur de crête est
+    égal à $$x_(( m a x)) // X_(( e f f))$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

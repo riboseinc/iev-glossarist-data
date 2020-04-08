@@ -37,12 +37,13 @@ eng:
     designation: backward recovery
   - type: expression
     designation: backward error recovery
-  definition: |-
-    error recovery in which a system, program, database, or other system resource is restored to a previous state in which it can perform required functions
-
-    Note 1 to entry: Backward error recovery is employed in system software. Note 2 to entry: Backward error recovery requires the internal state of the item to be recorded at certain points during its operation.
+  definition: error recovery in which a system, program, database, or other system
+    resource is restored to a previous state in which it can perform required functions
   language_code: eng
-  notes: []
+  notes:
+  - Backward error recovery is employed in system software.
+  - Backward error recovery requires the internal state of the item to be recorded
+    at certain points during its operation.
   examples: []
   entry_status: Standard
   authoritative_source:
@@ -72,9 +73,10 @@ fre:
     lui permettant d’accomplir les fonctions requises
   language_code: fre
   notes:
-  - 'La reprise sur erreur par régression est utilisée dans un logiciel d’exploitation. '
-  - La reprise sur erreur par régression implique d’enregistrer l’état interne de
-    l’entité à certains stades de son fonctionnement.
+  - '1 à l’article: La reprise sur erreur par régression est utilisée dans un logiciel
+    d’exploitation.'
+  - '2 à l’article: La reprise sur erreur par régression implique d’enregistrer l’état
+    interne de l’entité à certains stades de son fonctionnement.'
   examples: []
   entry_status: Standard
   authoritative_source:

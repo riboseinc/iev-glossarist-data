@@ -31,12 +31,15 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: error recovery
-  definition: |-
-    automatic detection, control and correction of an internal erroneous state
-
-    Note 1 to entry: The purpose of error recovery is to avoid a failure of the whole system, following a failure of one of its subsystems or components. Note 2: See also backward error recovery ({{192-10-17, IEV:192-10-17}}) and forward error recovery ({{192-10-18, IEV:192-10-18}}). Note 3: Error recovery often makes use of redundancy and diversity.
+  definition: automatic detection, control and correction of an internal erroneous
+    state
   language_code: eng
-  notes: []
+  notes:
+  - "The purpose of error recovery is to avoid a failure of the whole system, following
+    a failure of one of its subsystems or components. \n\nNote 2: See also backward
+    error recovery ({{192-10-17, IEV:192-10-17}}) and forward error recovery ({{192-10-18,
+    IEV:192-10-18}}). \n\nNote 3: Error recovery often makes use of redundancy and
+    diversity."
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,11 +59,13 @@ fre:
     interne erroné
   language_code: fre
   notes:
-  - 'La reprise sur erreur a pour objet d’éviter une défaillance de l’ensemble du
-    système, suite à une défaillance de l’un de ses sous-systèmes ou composants. '
-  - 'Voir aussi reprise sur erreur par régression ({{192-10-17, IEV:192-10-17}}) et
-    reprise sur erreur par progression ({{192-10-18, IEV:192-10-18}}). '
-  - Une reprise sur erreur s’appuie souvent sur la redondance et la diversité.
+  - '1 à l’article: La reprise sur erreur a pour objet d’éviter une défaillance de
+    l’ensemble du système, suite à une défaillance de l’un de ses sous-systèmes ou
+    composants.'
+  - '2 à l’article: Voir aussi reprise sur erreur par régression ({{192-10-17, IEV:192-10-17}})
+    et reprise sur erreur par progression ({{192-10-18, IEV:192-10-18}}).'
+  - '3 à l’article: Une reprise sur erreur s’appuie souvent sur la redondance et la
+    diversité.'
   examples: []
   entry_status: Standard
   review_decision_event: published

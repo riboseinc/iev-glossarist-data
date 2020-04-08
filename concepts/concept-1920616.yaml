@@ -34,12 +34,11 @@ eng:
     normativeStatus: preferred
     usageInfo: of software;
     designation: adaptive maintenance
-  definition: |-
-    software maintenance for the purposes of adaptation to a new environment
-
-    Note 1 to entry: An example of a new environment could be a new type of hardware on which the software is to be run.
+  definition: software maintenance for the purposes of adaptation to a new environment
   language_code: eng
-  notes: []
+  notes:
+  - An example of a new environment could be a new type of hardware on which the software
+    is to be run.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,8 +58,8 @@ fre:
   definition: maintenance permettant d’adapter un logiciel à un nouvel environnement
   language_code: fre
   notes:
-  - Un nouvel environnement peut être, par exemple, un nouveau type de matériel sur
-    lequel le logiciel doit être exécuté.
+  - '1 à l’article: Un nouvel environnement peut être, par exemple, un nouveau type
+    de matériel sur lequel le logiciel doit être exécuté.'
   examples: []
   entry_status: Standard
   review_decision_event: published

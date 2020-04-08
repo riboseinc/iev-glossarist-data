@@ -44,9 +44,9 @@ eng:
     of the independent variable
   language_code: eng
   notes:
-  - 'The real constant may be a scalar, vector or tensor quantity. '
-  - Examples are $$a ( t ) = hat A cos ( \omega  t + \vartheta_0 )$$ and $$a ( x )
-    = hat A cos k ( x - x_0 )$$.
+  - '1 to entry: The real constant may be a scalar, vector or tensor quantity.'
+  - '2 to entry: Examples are $$a ( t ) = hat A cos ( omega   t + vartheta_0 )$$ and
+    $$a ( x ) = hat A cos k ( x - x_0 )$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -66,9 +66,10 @@ fre:
     de la variable indépendante
   language_code: fre
   notes:
-  - 'La constante réelle peut être une grandeur scalaire, vectorielle ou tensorielle. '
-  - Des exemples sont $$a ( t ) = hat A cos ( \omega  t + \vartheta_0 )$$ et $$a (
-    x ) = hat A cos k ( x - x_0 )$$.
+  - '1 à l''article: La constante réelle peut être une grandeur scalaire, vectorielle
+    ou tensorielle.'
+  - '2 à l''article: Des exemples sont $$a ( t ) = hat A cos ( omega   t + vartheta_0
+    )$$ et $$a ( x ) = hat A cos k ( x - x_0 )$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

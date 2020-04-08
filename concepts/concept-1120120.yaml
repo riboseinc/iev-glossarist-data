@@ -48,11 +48,11 @@ eng:
   - Coherence can be determined only with respect to a particular system of quantities
     and a given set of base units. If, for example, the metre, the second, and the
     mole are base units, the metre per second is the coherent derived unit of velocity
-    when velocity is defined by the quantity equation  = dr /dt, and the mole per
-    cubic metre is the coherent derived unit of amount-of-substance concentration
-    when amount-of-substance concentration is defined by the quantity equation c =
-    n/V. The kilometre per hour and the knot are not coherent derived units in such
-    a system.
+    when velocity is defined by the quantity equation $$$$ = d$$r$$ /d$$t$$, and the
+    mole per cubic metre is the coherent derived unit of amount-of-substance concentration
+    when amount-of-substance concentration is defined by the quantity equation <i>c
+    = n/V</i>. The kilometre per hour and the knot are not coherent derived units
+    in such a system.
   - A derived unit can be coherent with respect to one system of quantities, but not
     to another. For example, the centimetre per second is the coherent unit of speed
     in the CGS systems but is not a coherent unit of speed in the SI.
@@ -87,11 +87,11 @@ fre:
   - La cohérence ne peut être déterminée que par rapport à un système de grandeurs
     particulier et un ensemble donné d'unités de base. Si par exemple le mètre, la
     seconde et la mole sont des unités de base, le mètre par seconde est l'unité dérivée
-    cohérente de vitesse lorsque la vitesse est définie par l'équation aux grandeurs  =
-    dr /dt, et la mole par mètre cube est l'unité dérivée cohérente de concentration
-    en quantité de matière lorsque la concentration en quantité de matière est définie
-    par l'équation aux grandeurs c = n/V. Le kilomètre par heure et le nœud ne sont
-    pas des unités dérivées cohérentes dans un tel système.
+    cohérente de vitesse lorsque la vitesse est définie par l'équation aux grandeurs
+    $$$$ = d$$r$$ /d$$t$$, et la mole par mètre cube est l'unité dérivée cohérente
+    de concentration en quantité de matière lorsque la concentration en quantité de
+    matière est définie par l'équation aux grandeurs <i>c = n/V</i>. Le kilomètre
+    par heure et le nœud ne sont pas des unités dérivées cohérentes dans un tel système.
   - Une unité dérivée peut être cohérente par rapport à un système de grandeurs, mais
     non par rapport à un autre. Par exemple, le centimètre par seconde est l'unité
     cohérente de vitesse dans les systèmes CGS mais n'est pas une unité cohérente

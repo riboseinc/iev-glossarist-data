@@ -34,7 +34,7 @@ eng:
   - type: expression
     designation: point availability
   - type: symbol
-    designation: A(t)
+    designation: "$$A$$($$t$$)"
     international: true
   definition: probability that an item is in a state to perform as required at a given
     instant
@@ -56,7 +56,7 @@ fre:
     gender: f
     plurality: singular
   - type: symbol
-    designation: A(t)
+    designation: "$$A$$($$t$$)"
     international: true
   definition: probabilité pour qu’une entité soit en état de fonctionner tel que requis
     à un instant donné

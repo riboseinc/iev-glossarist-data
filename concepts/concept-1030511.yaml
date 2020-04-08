@@ -44,10 +44,10 @@ eng:
     with this process reaches a certain value
   language_code: eng
   notes:
-  - A typical example of a relaxation oscillation is the oscillation occurring when
-    a capacitor is charged by a current source and discharged through a voltage controlled
-    switch. Every cycle consists of charging followed by simultaneous charging and
-    discharging.
+  - '1 to entry: A typical example of a relaxation oscillation is the oscillation
+    occurring when a capacitor is charged by a current source and discharged through
+    a voltage controlled switch. Every cycle consists of charging followed by simultaneous
+    charging and discharging.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -68,10 +68,10 @@ fre:
     qui lui est associée atteint une certaine valeur
   language_code: fre
   notes:
-  - Un exemple typique d'oscillation de relaxation est l'oscillation qui se produit
-    lorsqu'un condensateur est chargé par une source de courant et déchargé à travers
-    un commutateur commandé en tension. Chaque cycle est constitué d'une charge suivie
-    par une décharge accompagnée simultanément d'une charge.
+  - '1 à l''article: Un exemple typique d''oscillation de relaxation est l''oscillation
+    qui se produit lorsqu''un condensateur est chargé par une source de courant et
+    déchargé à travers un commutateur commandé en tension. Chaque cycle est constitué
+    d''une charge suivie par une décharge accompagnée simultanément d''une charge.'
   examples: []
   entry_status: Standard
   review_decision_event: published

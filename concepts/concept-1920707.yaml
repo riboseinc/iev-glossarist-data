@@ -31,11 +31,10 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: corrective maintenance time
-  definition: part of the maintenance time taken to perform corrective maintenance,
+  definition: "part of the maintenance time taken to perform corrective maintenance,
     including technical delays and logistic delays inherent in corrective maintenance
-    60050-192-F1en/$file/60050-192-F1en.png>Figure 1 – Times related to operation
-    and maintenance60050-192-F2en/$file/60050-192-F2en.png>Figure 2 – Maintenance
-    times
+    \n\n<simg/>60050-192-F1en/$file/60050-192-F1en.png&gt;\n\nFigure 1 – Times related
+    to operation and maintenance"
   language_code: eng
   notes: []
   examples: []
@@ -53,11 +52,10 @@ fre:
     designation: temps de maintenance corrective
     gender: m
     plurality: singular
-  definition: partie du temps de maintenance consacré à effectuer une maintenance
+  definition: "partie du temps de maintenance consacré à effectuer une maintenance
     corrective, y compris les délais techniques et les délais logistiques inhérents
-    à la maintenance corrective 60050-192-F1fr/$file/60050-192-F1fr.png>Figure 1 –
-    Temps liés au fonctionnement et à la maintenance60050-192-F2fr/$file/60050-192-F2fr.png>Figure
-    2 – Temps de maintenance
+    à la maintenance corrective \n\n<simg/>60050-192-F1fr/$file/60050-192-F1fr.png&gt;\n\nFigure
+    1 – Temps liés au fonctionnement et à la maintenance"
   language_code: fre
   notes: []
   examples: []

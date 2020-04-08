@@ -33,10 +33,7 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: hardware
-  definition: |-
-    physical artefact
-
-    EXAMPLE Structures; mechanical, electric and electronic components; circuits; fastenings; operator controls; and instrumentation.
+  definition: physical artefact
   language_code: eng
   notes: []
   examples:
@@ -56,10 +53,7 @@ fre:
     designation: matériel
     gender: m
     plurality: singular
-  definition: |-
-    entité physique fabriquée
-
-    EXEMPLE Structures, composants mécaniques, électriques et électroniques, circuits, fixations, commandes d’opérateur, instruments.
+  definition: entité physique fabriquée
   language_code: fre
   notes: []
   examples:

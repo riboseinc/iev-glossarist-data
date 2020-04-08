@@ -39,13 +39,14 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: Laplace transform
-  definition: for a real or complex function f(t) of the real variable t, complex
-    function F(s) of a complex variable s, given by the integral transformation  $$F
-    ( s ) =  ∫_(  0)^(   + oo ) f ( t ) e^( - s t) dt$$
+  definition: "for a real or complex function $$f$$($$t$$) of the real variable $$t$$,
+    complex function $$F$$($$s$$) of a complex variable $$s$$, given by the integral
+    transformation \n\n $$F ( s ) = ∫_(   0)^(   + oo) f ( t ) e^( - s   t) d t$$"
   language_code: eng
   notes:
-  - 'If t is time, the variable s represents complex angular frequency. '
-  - The Laplace transform of the function f is also denoted Lf or ℒf.
+  - '1 to entry: If $$t$$ is time, the variable $$s$$ represents complex angular frequency.'
+  - '2 to entry: The Laplace transform of the function $$f$$ is also denoted L$$f$$
+    or ℒ$$f$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -61,13 +62,16 @@ fre:
     designation: transformée de Laplace
     gender: f
     plurality: singular
-  definition: pour une fonction réelle ou complexe f(t) de la variable réelle t, fonction
-    complexe F(s) de la variable complexe s, donnée par la transformation intégrale
-    $$F ( s ) =  ∫_(  0)^(   + oo ) f ( t ) e^( - s t) dt$$
+  definition: "pour une fonction réelle ou complexe $$f$$($$t$$) de la variable réelle
+    $$t$$, fonction complexe $$F$$($$s$$) de la variable complexe $$s$$, donnée par
+    la transformation intégrale \n\n$$F ( s ) = ∫_(   0)^(   + oo) f ( t ) e^( - s
+      t) d t$$"
   language_code: fre
   notes:
-  - 'Si t est le temps, la variable s représente la pulsation complexe. '
-  - La transformée de Laplace de la fonction f est notée aussi Lf ou ℒf.
+  - '1 à l''article: Si $$t$$ est le temps, la variable $$s$$ représente la pulsation
+    complexe.'
+  - '2 à l''article: La transformée de Laplace de la fonction $$f$$ est notée aussi
+    L$$f$$ ou ℒ$$f$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

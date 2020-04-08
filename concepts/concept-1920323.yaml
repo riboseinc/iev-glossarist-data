@@ -42,12 +42,11 @@ eng:
     normativeStatus: preferred
     usageInfo: for a dormant fault;
     designation: trigger
-  definition: |-
-    combination of operating circumstances that activates a dormant fault
-
-    Note 1 to entry: The trigger may be the internal state of the system, the data being processed, operator action, environmental conditions, or any combinations thereof.
+  definition: combination of operating circumstances that activates a dormant fault
   language_code: eng
-  notes: []
+  notes:
+  - The trigger may be the internal state of the system, the data being processed,
+    operator action, environmental conditions, or any combinations thereof.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -68,9 +67,9 @@ fre:
     dormante
   language_code: fre
   notes:
-  - Le déclencheur peut être l’état interne du système, les données en cours de traitement,
-    l’action de l’opérateur, les conditions d’environnement ou une quelconque de leurs
-    combinaisons.
+  - '1 à l’article: Le déclencheur peut être l’état interne du système, les données
+    en cours de traitement, l’action de l’opérateur, les conditions d’environnement
+    ou une quelconque de leurs combinaisons.'
   examples: []
   entry_status: Standard
   review_decision_event: published

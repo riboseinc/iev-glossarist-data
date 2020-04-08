@@ -40,12 +40,12 @@ eng:
     normativeStatus: preferred
     designation: growth coefficient
   - type: symbol
-    designation: ''
+    designation: "$$$$"
     international: true
   definition: real part of the complex angular frequency
   language_code: eng
   notes:
-  - If $$\sigma  0$$, the quantity $$\delta = - \sigma$$ is the damping coefficient.
+  - '1 to entry: If $$sigma 0$$, the quantity $$delta = - sigma$$ is the damping coefficient.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -64,7 +64,8 @@ fre:
   definition: partie réelle de la pulsation complexe
   language_code: fre
   notes:
-  - Si $$\sigma  0$$, la grandeur $$\delta = - \sigma$$ est le coefficient d'amortissement.
+  - '1 à l''article: Si $$sigma 0$$, la grandeur $$delta = - sigma$$ est le coefficient
+    d''amortissement.'
   examples: []
   entry_status: Standard
   review_decision_event: published

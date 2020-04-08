@@ -42,8 +42,8 @@ eng:
   definition: identically recurring at equal intervals of the independent variable
   language_code: eng
   notes:
-  - The function $$f ( t )$$ is periodic when $$f ( t + T ) = f ( t )$$ for some positive
-    T.
+  - '1 to entry: The function $$f ( t )$$ is periodic when $$f ( t + T ) = f ( t )$$
+    for some positive $$T$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -62,8 +62,8 @@ fre:
     de la variable indépendante
   language_code: fre
   notes:
-  - La fonction $$f ( t )$$ est périodique lorsque $$f ( t + T ) = f ( t )$$ pour
-    un certain T positif.
+  - '1 à l''article: La fonction $$f ( t )$$ est périodique lorsque $$f ( t + T )
+    = f ( t )$$ pour un certain $$T$$ positif.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -40,14 +40,14 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: space phasor
-  definition: complex representation $$underset(_)(a) ( \alpha ,  t ) = A_0 exp j
-    ( \omega  t - p \alpha + \vartheta_0 )$$ of a rotating sinusoidal field quantity,
-    where $$A_0$$ is the amplitude,  is the angular frequency, t is time, p is an
-    integer,  is angular position, $$\vartheta_0$$ is initial phase, and j is the
-    imaginary unit
+  definition: complex representation $$underset(_)(a) ( alpha ,   t ) = A_0 exp j
+    ( omega   t - p alpha + vartheta_0 )$$ of a rotating sinusoidal field quantity,
+    where $$A_0$$ is the amplitude, $$$$ is the angular frequency, $$t$$ is time,
+    $$p$$ is an integer, $$$$ is angular position, $$vartheta_0$$ is initial phase,
+    and j is the imaginary unit
   language_code: eng
   notes:
-  - The concept of space phasor is used for electric rotating machines.
+  - '1 to entry: The concept of space phasor is used for electric rotating machines.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -63,13 +63,14 @@ fre:
     designation: phaseur spatial
     gender: m
     plurality: singular
-  definition: représentation complexe $$underset(_)(a) ( \alpha ,  t ) = A_0 exp j
-    ( \omega  t - p \alpha + \vartheta_0 )$$ d'un champ sinusoïdal tournant, où $$A_0$$
-    est l'amplitude,  la pulsation, t le temps, p un entier,  la position angulaire,
-    $$\vartheta_0$$ la phase à l'origine et j l’unité imaginaire
+  definition: représentation complexe $$underset(_)(a) ( alpha ,   t ) = A_0 exp j
+    ( omega   t - p alpha + vartheta_0 )$$ d'un champ sinusoïdal tournant, où $$A_0$$
+    est l'amplitude, $$$$ la pulsation, $$t$$ le temps, $$p$$ un entier, $$$$ la position
+    angulaire, $$vartheta_0$$ la phase à l'origine et j l’unité imaginaire
   language_code: fre
   notes:
-  - Le concept de phaseur spatial est utilisé pour les machines électriques tournantes.
+  - '1 à l''article: Le concept de phaseur spatial est utilisé pour les machines électriques
+    tournantes.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -36,14 +36,15 @@ eng:
     normativeStatus: preferred
     designation: frequency
   - type: symbol
-    designation: fv
+    designation: "$$f$$<br>$$v$$</br>"
     international: true
   definition: reciprocal of the {{period, IEV:103-06-01}}
   language_code: eng
   notes:
-  - The symbol f is mainly used when the period is a time. The symbol  (nu) is mainly
-    used in optics.
-  - The coherent SI unit of frequency is the {{hertz, IEV:103-06-18}}, Hz.
+  - '1 to entry: The symbol $$f$$ is mainly used when the period is a time. The symbol
+    $$$$ (nu) is mainly used in optics.'
+  - '2 to entry: The coherent SI unit of frequency is the {{hertz, IEV:103-06-18}},
+    Hz.'
   examples: []
   entry_status: Standard
   date_accepted: '2017-07-01T00:00:00+00:00'
@@ -60,12 +61,13 @@ fre:
     designation: fréquence
     gender: f
     plurality: singular
-  definition: inverse de la IEV103-06-01>période
+  definition: inverse de la <a/>IEV103-06-01&gt;période<a/>
   language_code: fre
   notes:
-  - Le symbole f est utilisé principalement lorsque la période est un temps. Le symbole  (nu)
-    est utilisé principalement en optique.
-  - L’unité SI cohérente de fréquence est le {{hertz, IEV:103-06-18}}, Hz.
+  - '1 à l''article: Le symbole $$f$$ est utilisé principalement lorsque la période
+    est un temps. Le symbole $$$$ (nu) est utilisé principalement en optique.'
+  - '2 à l’article: L’unité SI cohérente de fréquence est le {{hertz, IEV:103-06-18}},
+    Hz.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -49,8 +49,8 @@ eng:
     of a given set
   language_code: eng
   notes:
-  - A variable can be an argument or the value of a function. A variable used as an
-    argument is called an independent variable.
+  - '1 to entry: A variable can be an argument or the value of a function. A variable
+    used as an argument is called an independent variable.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -70,8 +70,8 @@ fre:
     d'un ensemble donné
   language_code: fre
   notes:
-  - Une variable peut être un argument ou la valeur d'une fonction. Une variable utilisée
-    comme argument est appelée variable indépendante.
+  - '1 à l''article: Une variable peut être un argument ou la valeur d''une fonction.
+    Une variable utilisée comme argument est appelée variable indépendante.'
   examples: []
   entry_status: Standard
   review_decision_event: published

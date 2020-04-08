@@ -41,12 +41,10 @@ eng:
     designation: fault tree analysis
   - type: expression
     designation: FTA
-  definition: |-
-    deductive analysis using fault trees
-
-    Note 1 to entry: See also fault tree ({{192-11-07, IEV:192-11-07}}).
+  definition: deductive analysis using fault trees
   language_code: eng
-  notes: []
+  notes:
+  - See also fault tree ({{192-11-07, IEV:192-11-07}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -67,12 +65,10 @@ fre:
     designation: AAP
     gender: f
     plurality: singular
-  definition: |-
-    analyse déductive utilisant des arbres de panne
-
-    Note 1 à l’article: Voir aussi arbre de panne ({{192-11-07, IEV:192-11-07}}).
+  definition: analyse déductive utilisant des arbres de panne
   language_code: fre
-  notes: []
+  notes:
+  - Voir aussi arbre de panne ({{192-11-07, IEV:192-11-07}}).
   examples: []
   entry_status: Standard
   classification: Preferred

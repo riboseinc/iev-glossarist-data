@@ -40,14 +40,18 @@ eng:
   - type: expression
     designation: repair rate
   - type: symbol
-    designation: "(t)"
+    designation: "$$$$($$t$$)"
     international: true
-  definition: |-
-    limit, if it exists, of the quotient of the conditional probability that the repair is completed within time interval (t, t + t) and t, when t tends to zero, given that the repair started at t = 0 and had not been completed before time t
-
-    Note 1 to entry: The instantaneous repair rate is related to repair time ({{192-07-19, IEV:192-07-19}}) and its constituent parts. Note 2 to entry: The unit of measurement of instantaneous repair rate is the unit of time to the power 1.
+  definition: limit, if it exists, of the quotient of the conditional probability
+    that the repair is completed within time interval ($$t$$, $$t$$ + $$t$$) and $$t$$,
+    when $$t$$ tends to zero, given that the repair started at $$t$$ = 0 and had not
+    been completed before time $$t$$
   language_code: eng
-  notes: []
+  notes:
+  - The instantaneous repair rate is related to repair time ({{192-07-19, IEV:192-07-19}})
+    and its constituent parts.
+  - The unit of measurement of instantaneous repair rate is the unit of time to the
+    power 1.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -68,17 +72,18 @@ fre:
     gender: m
     plurality: singular
   - type: symbol
-    designation: "(t)"
+    designation: "$$$$($$t$$)"
     international: true
   definition: limite, si elle existe, du quotient de la probabilité conditionnelle
-    d’achèvement de la réparation dans l’intervalle de temps (t, t + t) par t, lorsque
-    t tend vers zéro, en supposant que la réparation a commencé à t = 0 et ne s’est
-    pas terminée avant le temps t
+    d’achèvement de la réparation dans l’intervalle de temps ($$t$$, $$t$$ + $$t$$)
+    par $$t$$, lorsque $$t$$ tend vers zéro, en supposant que la réparation a commencé
+    à $$t$$ = 0 et ne s’est pas terminée avant le temps $$t$$
   language_code: fre
   notes:
-  - 'Le taux de réparation est lié au temps de réparation ({{192-07-19, IEV:192-07-19}})
-    et à ses constituants. '
-  - L’unité de mesure du taux de réparation est l’unité de temps à la puissance  1.
+  - '1 à l’article: Le taux de réparation est lié au temps de réparation ({{192-07-19,
+    IEV:192-07-19}}) et à ses constituants.'
+  - '2 à l’article: L’unité de mesure du taux de réparation est l’unité de temps à
+    la puissance  1.'
   examples: []
   entry_status: Standard
   review_decision_event: published

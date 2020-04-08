@@ -36,38 +36,53 @@ eng:
     normativeStatus: preferred
     designation: quantity
   - type: symbol
-    designation: Q
+    designation: "$$Q$$"
     international: true
   definition: property of a phenomenon, body, or substance, where the property has
     a magnitude that can be expressed by means of a number and a reference
   language_code: eng
   notes:
-  - "The generic concept of quantity can be divided into several levels of specific
-    concepts, as shown in the following table. The left hand side of the table shows
-    specific concepts under ‘quantity’. These are generic concepts for the individual
-    quantities in the right hand column\n\n\n\n\n\n\n\n\n\nlength, l\n\n\n\n\n\nradius,
-    r\n\n\n\n\n\nradius of circle A, rA or r(A)\n\n\n\n\n\n\n\n\n\nwavelength, \n\n\n\n\n\nwavelength
-    of the sodium D radiation, D or (D; Na)\n\n\n\n\n\n\n\n\n\nenergy, E\n\n\n\n\n\nkinetic
-    energy, T\n\n\n\n\n\nkinetic energy of particle i in a given system, Ti\n\n\n\n\n\n\n\n\n\nheat,
-    Q\n\n\n\n\n\nheat transferred to a sample i of water, Qi\n\n\n\n\n\n\n\n\n\nelectric
-    charge, Q\n\n\n\n\n\nelectric charge of the proton, e\n\n\n\n\n\n\n\n\n\nelectric
-    resistance, R\n\n\n\n\n\nelectric resistance of resistor i, Ri\n\n\n\n\n\n\n\n\n\namount-of-substance
-    concentration of entity B, cB\n\n\n\n\n\namount-of-substance concentration of
-    ethanol in wine sample i, ci(C2H5OH)\n\n\n\n\n\n\n\n\n\nnumber of entities, N\n\n\n\n\n\nnumber
-    of turns in a given coil i, Ni\n\n\n\n\n\n\n\n\n\nRockwell C hardness, HRC\n\n\n\n\n\nRockwell
-    C hardness of steel sample i, HRCi\n\n\n\n\n\n\n\n\n\n"
-  - "The reference can be a {{unit of measurement, IEV:112-01-14}}, a measurement
-    procedure, a reference material (ISO/IEC Guide 99:2007, 5.13), or a combination
-    of such. The magnitude of a quantity is called \"value of the quantity\" (see
-    {{IEV 112-01-28, IEV:112-01-28}}). In the frequent case of a unit of measurement,
-    the magnitude is the product of a number and the unit of measurement.\n\n"
-  - "A quantity as defined here is a {{scalar, IEV:102-02-18}}. However, a vector
-    or a tensor whose components are quantities is also considered to be a quantity
-    (see {{IEV 102-03-21, IEV:102-03-21}}, vector quantity, and {{IEV 102-03-40, IEV:102-03-40}},
-    tensor quantity).\n\n"
-  - The concept of quantity may be generically divided into, e.g. physical quantity,
-    chemical quantity, biological quantity, etc., or {{base quantity, IEV:112-01-08}}
-    and {{derived quantity, IEV:112-01-10}}.
+  - |+
+    1 to entry: The generic concept of quantity can be divided into several levels of specific concepts, as shown in the following table. The left hand side of the table shows specific concepts under ‘quantity’. These are generic concepts for the individual quantities in the right hand column
+
+
+
+    <table style="width: 686px;" border="solid">
+
+    <tbody>
+
+    <tr>
+
+    <td rowspan="2" style="width: 99px;">
+
+    length, $$l$$</td>
+
+    </tr>
+
+    <td style="width: 174px;">
+
+    radius, $$r$$</td>
+
+    </tbody>
+
+    <td style="width: 370px;">
+
+    radius of circle A, $$r$$<sub>A </sub>or $$r$$(A)</td>
+
+    </table>
+
+  - '2 to entry: The reference can be a {{unit of measurement, IEV:112-01-14}}, a
+    measurement procedure, a reference material (ISO/IEC Guide 99:2007, 5.13), or
+    a combination of such. The magnitude of a quantity is called "value of the quantity"
+    (see {{IEV 112-01-28, IEV:112-01-28}}). In the frequent case of a unit of measurement,
+    the magnitude is the product of a number and the unit of measurement.'
+  - '3 to entry: A quantity as defined here is a {{scalar, IEV:102-02-18}}. However,
+    a vector or a tensor whose components are quantities is also considered to be
+    a quantity (see {{IEV 102-03-21, IEV:102-03-21}}, vector quantity, and {{IEV 102-03-40,
+    IEV:102-03-40}}, tensor quantity).'
+  - '4 to entry: The concept of quantity may be generically divided into, e.g. physical
+    quantity, chemical quantity, biological quantity, etc., or {{base quantity, IEV:112-01-08}}
+    and {{derived quantity, IEV:112-01-10}}.'
   examples: []
   entry_status: Standard
   authoritative_source:
@@ -93,34 +108,50 @@ fre:
     exprimer quantitativement au moyen d’un nombre et d’une référence
   language_code: fre
   notes:
-  - "Le concept générique de grandeur peut être subdivisé en plusieurs niveaux de
-    concepts spécifiques, comme indiqué dans le tableau suivant. La moitié gauche
-    du tableau présente des concepts spécifiques du concept de grandeur. Ce sont des
-    concepts génériques pour les grandeurs individuelles de la moitié droite.\n\n\n\n\n\n\n\n\n\n\n\nlongueur,
-    l\n\n\n\n\n\nrayon, r\n\n\n\n\n\nrayon du cercle A, rA ou r(A)\n\n\n\n\n\n\n\n\n\nlongueur
-    d'onde, \n\n\n\n\n\nlongueur d'onde de la radiation D du sodium, D ou (D; Na)\n\n\n\n\n\n\n\n\n\nnergie,
-    E\n\n\n\n\n\nnergie cintique, T\n\n\n\n\n\nnergie cintique de la particule i dans
-    un systme donn, Ti\n\n\n\n\n\n\n\n\n\nchaleur, Q\n\n\n\n\n\nchaleur transfre  un
-    spcimen i d'eau, Qi\n\n\n\n\n\n\n\n\n\ncharge lectrique, Q\n\n\n\n\n\ncharge lectrique
-    du proton, e\n\n\n\n\n\n\n\n\n\nrsistance lectrique, R\n\n\n\n\n\nrsistance lectrique
-    de la rsistance i, Ri\n\n\n\n\n\n\n\n\n\nconcentration en quantit de matire du
-    constituant B, cB\n\n\n\n\n\nconcentration en quantit de matire d'thanol dans
-    le spcimen i de vin, ci(C2H5OH) \n\n\n\n\n\n\n\n\n\nnombre d'entits, N\n\n\n\n\n\nnombre
-    de spires dans une bobine donne i, Ni\n\n\n\n\n\n\n\n\n\nduret C de Rockwell,
-    HRC\n\n\n\n\n\nduret C de Rockwell du spcimen i d'acier, HRCi\n\n\n\n\n\n\n\n\n\n"
-  - "La référence peut être une {{unité de mesure, IEV:112-01-14}}, une procédure
-    de mesure, un matériau de référence (ISO/IEC Guide 99:2007, 5.13), ou une de leurs
-    combinaisons. L’expression quantitative d’une grandeur est appelée \"valeur de
-    la grandeur\" (voir {{IEV 112-01-28, IEV:112-01-28}}). Dans le cas fréquent d’une
-    unité de mesure, l’expression quantitative est le produit d’un nombre et de l’unité
-    de mesure.\n\n"
-  - "Une grandeur telle que définie ici est une grandeur {{scalaire, IEV:102-02-18}}.
-    Cependant, un vecteur ou un tenseur dont les composantes sont des grandeurs est
-    aussi considéré comme une grandeur (voir {{IEV 102-03-21, IEV:102-03-21}}, grandeur
-    vectorielle, et {{IEV 102-03-40, IEV:102-03-40}}, grandeur tensorielle).\n\n"
-  - Le concept de grandeur peut être subdivisé génériquement, par exemple, grandeur
-    physique, grandeur chimique, grandeur biologique, etc. ou {{grandeur de base,
-    IEV:112-01-08}} et {{grandeur dérivée, IEV:112-01-10}}.
+  - |+
+    1 à l'article: Le concept générique de grandeur peut être subdivisé en plusieurs niveaux de concepts spécifiques, comme indiqué dans le tableau suivant. La moitié gauche du tableau présente des concepts spécifiques du concept de grandeur. Ce sont des concepts génériques pour les grandeurs individuelles de la moitié droite.
+
+
+
+
+
+    <table border="solid">
+
+    <tbody>
+
+    <tr>
+
+    <td rowspan="2">
+
+    <span>longueur, </span>$$l$$</td>
+
+    </tr>
+
+    <td>
+
+    <span>rayon, </span>$$r$$</td>
+
+    </tbody>
+
+    <td>
+
+    <span>rayon du cercle A, </span>$$r$$<sub><span>A </span></sub><span>ou </span>$$r$$<span>(A)</span></td>
+
+    </table>
+
+  - '2 à l''article: La référence peut être une {{unité de mesure, IEV:112-01-14}},
+    une procédure de mesure, un matériau de référence (ISO/IEC Guide 99:2007, 5.13),
+    ou une de leurs combinaisons. L’expression quantitative d’une grandeur est appelée
+    "valeur de la grandeur" (voir {{IEV 112-01-28, IEV:112-01-28}}). Dans le cas fréquent
+    d’une unité de mesure, l’expression quantitative est le produit d’un nombre et
+    de l’unité de mesure.'
+  - '3 à l''article: Une grandeur telle que définie ici est une grandeur {{scalaire,
+    IEV:102-02-18}}. Cependant, un vecteur ou un tenseur dont les composantes sont
+    des grandeurs est aussi considéré comme une grandeur (voir {{IEV 102-03-21, IEV:102-03-21}},
+    grandeur vectorielle, et {{IEV 102-03-40, IEV:102-03-40}}, grandeur tensorielle).'
+  - '4 à l''article: Le concept de grandeur peut être subdivisé génériquement, par
+    exemple, grandeur physique, grandeur chimique, grandeur biologique, etc. ou {{grandeur
+    de base, IEV:112-01-08}} et {{grandeur dérivée, IEV:112-01-10}}.'
   examples: []
   entry_status: Standard
   authoritative_source:

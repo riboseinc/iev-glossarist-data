@@ -31,12 +31,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: "$$m$$ out of $$n$$ redundancy"
-  definition: |-
-    redundancy wherein at least m of the total n items must be functioning to meet the requirement
-
-    Note 1 to entry: The symbols used vary in different contexts, e.g. k out of n.
+  definition: redundancy wherein at least $$m$$ of the total $$n$$ items must be functioning
+    to meet the requirement
   language_code: eng
-  notes: []
+  notes:
+  - The symbols used vary in different contexts, e.g. $$k$$ out of $$n$$.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -52,11 +51,12 @@ fre:
     designation: redondance $$m$$ parmi $$n$$
     gender: f
     plurality: singular
-  definition: redondance telle qu'au moins m de n entités doivent fonctionner afin
-    de satisfaire aux exigences
+  definition: redondance telle qu'au moins $$m$$ de $$n$$ entités doivent fonctionner
+    afin de satisfaire aux exigences
   language_code: fre
   notes:
-  - Les symboles utilisés varient selon le contexte, par exemple, k parmi n.
+  - '1 à l’article: Les symboles utilisés varient selon le contexte, par exemple,
+    $$k$$ parmi $$n$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published
@@ -87,7 +87,7 @@ pol:
   terms:
   - type: expression
     normativeStatus: preferred
-    designation: redundancja typu $$m-z-n$$
+    designation: redundancja typu <i>m-z-n</i>
     gender: f
     plurality: singular
   language_code: pol

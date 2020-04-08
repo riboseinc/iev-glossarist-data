@@ -47,8 +47,9 @@ eng:
     harmonic order of which is an integer number greater than one
   language_code: eng
   notes:
-  - A component of harmonic order n (with n > 1) is generally designated "nth harmonic".
-    The designation of the fundamental component as the "1st harmonic" is not recommended.
+  - '1 to entry: A component of harmonic order $$n$$ (with $$n$$ &gt; 1) is generally
+    designated $$"$$$$n$$<sup>th</sup> harmonic". The designation of the fundamental
+    component as the "1<sup>st</sup> harmonic" is not recommended.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -73,9 +74,9 @@ fre:
     un
   language_code: fre
   notes:
-  - Une composante de rang harmonique n (avec n >1) est généralement appelée n-ième
-    harmonique. Il n'est pas recommander de désigner le fondamental comme premier
-    harmonique.
+  - '1 à l''article: Une composante de rang harmonique $$n$$ (avec $$n$$ &gt;1) est
+    généralement appelée $$n$$-ième harmonique. Il n''est pas recommander de désigner
+    le fondamental comme premier harmonique.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -50,11 +50,19 @@ eng:
   - |-
     Examples of numbers of entities:
 
+
+
     • number of inhabitants of a given country at a given date;
+
+
 
     • number of turns in a coil;
 
+
+
     • number of molecules in a given sample;
+
+
 
     • degeneracy of the energy levels of a quantum system.
   examples: []
@@ -84,11 +92,19 @@ fre:
   - |-
     Exemples de nombre d’entités:
 
+
+
     • nombre d'habitants d'un pays donné à une date donnée;
+
+
 
     • nombre de tours dans une bobine;
 
+
+
     • nombre de molécules dans un spécimen donné;
+
+
 
     • dégénérescence des niveaux d'énergie d’un système quantique.
   examples: []

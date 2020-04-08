@@ -42,12 +42,10 @@ eng:
     designation: whole life cost
   - type: expression
     designation: LCC
-  definition: |-
-    total cost incurred during the life cycle
-
-    Note 1 to entry: See also life cycle costing ({{192-11-11, IEV:192-11-11}}).
+  definition: total cost incurred during the life cycle
   language_code: eng
-  notes: []
+  notes:
+  - See also life cycle costing ({{192-11-11, IEV:192-11-11}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -74,7 +72,7 @@ fre:
   definition: coût cumulé d’une entité tout au long de son cycle de vie
   language_code: fre
   notes:
-  - Voir aussi évaluation du coût du cycle de vie ({{192-11-11, IEV:192-11-11}}).
+  - '1 à l’article: Voir aussi évaluation du coût du cycle de vie ({{192-11-11, IEV:192-11-11}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

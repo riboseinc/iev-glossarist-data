@@ -40,8 +40,8 @@ eng:
     or its time derivative reaches an extremum
   language_code: eng
   notes:
-  - At resonance, the period of the forced oscillation is often close to that of a
-    free oscillation.
+  - '1 to entry: At resonance, the period of the forced oscillation is often close
+    to that of a free oscillation.'
   examples: []
   entry_status: Standard
   date_accepted: '2017-07-01T00:00:00+00:00'
@@ -63,8 +63,8 @@ fre:
     de l'oscillation ou sa dérivée par rapport au temps passe par un extremum
   language_code: fre
   notes:
-  - A la résonance, la période de l'oscillation forcée est souvent voisine de celle
-    d'une oscillation libre.
+  - '1 à l''article: A la résonance, la période de l''oscillation forcée est souvent
+    voisine de celle d''une oscillation libre.'
   examples: []
   entry_status: Standard
   review_decision_event: published

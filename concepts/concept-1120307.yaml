@@ -47,7 +47,7 @@ eng:
   - 'Examples: relative permittivity, relative permeability, relative density, relative
     resistances and relative reactances in the theory of electric machines.'
   - 'The symbol of a relative quantity is generally deduced from the symbol of the
-    original quantity by adding the subscript r. Examples: r, µr.'
+    original quantity by adding the subscript r. Examples: $$$$<sub>r</sub>, $$µ$$<sub>r</sub>.'
   - The qualifier "per unit" (p.u.) is sometimes used but is not recommended.
   examples: []
   entry_status: Standard
@@ -72,9 +72,9 @@ fre:
     (ou densité), résistances relatives et réactances relatives dans la théorie des
     machines électriques.'
   - 'Le symbole d''une grandeur relative est généralement déduit de celui de la grandeur
-    d''origine par adjonction de l’indice r. Exemples: r, µr.'
-  - L'expression «per unit» et son abréviation «p.u.» sont quelquefois utilisées en
-    anglais.
+    d''origine par adjonction de l’indice r. Exemples: $$$$<sub>r</sub>, $$µ$$<sub>r</sub>.'
+  - L'expression «<i>per unit</i>» et son abréviation «p.u.» sont quelquefois utilisées
+    en anglais.
   examples: []
   entry_status: Standard
   date_accepted: '2010-01-01T00:00:00+00:00'

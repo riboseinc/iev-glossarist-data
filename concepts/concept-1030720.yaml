@@ -43,7 +43,8 @@ eng:
     a periodic quantity, to the frequency of which all the other components are referred
   language_code: eng
   notes:
-  - The term is used when the chosen component differs from the fundamental component.
+  - '1 to entry: The term is used when the chosen component differs from the fundamental
+    component.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -64,7 +65,8 @@ fre:
     les autres composantes sont référencées
   language_code: fre
   notes:
-  - Le terme est employé lorsque la composante choisie diffère du fondamental.
+  - '1 à l''article: Le terme est employé lorsque la composante choisie diffère du
+    fondamental.'
   examples: []
   entry_status: Standard
   review_decision_event: published

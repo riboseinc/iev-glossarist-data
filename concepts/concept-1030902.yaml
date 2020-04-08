@@ -48,10 +48,12 @@ eng:
     a {{frequency band, IEV:103-09-01}}
   language_code: eng
   notes:
-  - "The bandwidth is the range of the frequency band, characterized by a single value.
-    It does not depend on the position of the band in the frequency spectrum.\n\n"
-  - The term “bandwidth” is usually associated with a qualification; for example,
-    baseband bandwidth, necessary bandwidth, bandwidth of an amplifier or other device.
+  - '1 to entry: The bandwidth is the range of the frequency band, characterized by
+    a single value. It does not depend on the position of the band in the frequency
+    spectrum.'
+  - '2 to entry: The term “bandwidth” is usually associated with a qualification;
+    for example, baseband bandwidth, necessary bandwidth, bandwidth of an amplifier
+    or other device.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -78,12 +80,12 @@ fre:
     {{bande de fréquences, IEV:103-09-01}}
   language_code: fre
   notes:
-  - "La largeur de bande est l'étendue de la bande de fréquences, caractérisée par
-    une valeur unique. Elle ne dépend pas de la position de la bande dans le spectre
-    des fréquences.\n\n"
-  - 'Le terme «largeur de bande» est le plus souvent suivi d''un qualificatif, par
-    exemple: largeur de bande de base, largeur de bande nécessaire, largeur de bande
-    d''un amplificateur ou autre appareil.'
+  - '1 à l''article: La largeur de bande est l''étendue de la bande de fréquences,
+    caractérisée par une valeur unique. Elle ne dépend pas de la position de la bande
+    dans le spectre des fréquences.'
+  - '2 à l’article: Le terme «largeur de bande» est le plus souvent suivi d''un qualificatif,
+    par exemple: largeur de bande de base, largeur de bande nécessaire, largeur de
+    bande d''un amplificateur ou autre appareil.'
   examples: []
   entry_status: Standard
   classification: Preferred

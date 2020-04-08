@@ -36,7 +36,7 @@ eng:
     designation: in quadrature
     partOfSpeech: adj
   definition: qualifies two sinusoidal quantities of the same frequency having a phase
-    difference equal to $$+- ( \pi )/(2)$$
+    difference equal to $$+- ( pi )/(2)$$
   language_code: eng
   notes: []
   examples: []
@@ -55,7 +55,7 @@ fre:
     designation: en quadrature
     partOfSpeech: adj
   definition: qualifie deux grandeurs sinusoïdales de même fréquence dont la différence
-    de phase est égale à $$+- ( \pi )/(2)$$
+    de phase est égale à $$+- ( pi )/(2)$$
   language_code: fre
   notes: []
   examples: []

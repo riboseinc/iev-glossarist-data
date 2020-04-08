@@ -31,12 +31,15 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: repair time
-  definition: |-
-    part of active corrective maintenance time taken to complete repair action 60050-192-F2en/$file/60050-192-F2en.png>Figure 2 – Maintenance times
-
-    Note 1 to entry: Repair time is comprised of fault localization time ({{192-07-18, IEV:192-07-18}}), fault correction time ({{192-07-14, IEV:192-07-14}}) and function checkout time ({{192-07-16, IEV:192-07-16}}), but excludes technical, administrative and logistic delays.
+  definition: "part of active corrective maintenance time taken to complete repair
+    action \n\n<simg/>60050-192-F2en/$file/60050-192-F2en.png&gt;\n\nFigure 2 – Maintenance
+    times"
   language_code: eng
-  notes: []
+  notes:
+  - Repair time is comprised of fault localization time ({{192-07-18, IEV:192-07-18}}),
+    fault correction time ({{192-07-14, IEV:192-07-14}}) and function checkout time
+    ({{192-07-16, IEV:192-07-16}}), but excludes technical, administrative and logistic
+    delays.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -52,15 +55,15 @@ fre:
     designation: temps de réparation
     gender: m
     plurality: singular
-  definition: partie du temps de maintenance corrective active consacré à effectuer
-    une tâche de réparation 60050-192-F2fr/$file/60050-192-F2fr.png>Figure 2 – Temps
-    de maintenance
+  definition: "partie du temps de maintenance corrective active consacré à effectuer
+    une tâche de réparation \n\n<simg/>60050-192-F2fr/$file/60050-192-F2fr.png&gt;\n\nFigure
+    2 – Temps de maintenance"
   language_code: fre
   notes:
-  - Le temps de réparation est composé du temps de localisation de panne {{192-07-18,
-    IEV:192-07-18}}, du temps de correction de panne ({{192-07-14, IEV:192-07-14}})
-    et du temps d’essai de fonctionnement ({{192-07-16, IEV:192-07-16}}), mais exclut
-    les délais techniques, administratifs et logistiques.
+  - '1 à l’article: Le temps de réparation est composé du temps de localisation de
+    panne {{192-07-18, IEV:192-07-18}}, du temps de correction de panne ({{192-07-14,
+    IEV:192-07-14}}) et du temps d’essai de fonctionnement ({{192-07-16, IEV:192-07-16}}),
+    mais exclut les délais techniques, administratifs et logistiques.'
   examples: []
   entry_status: Standard
   review_decision_event: published

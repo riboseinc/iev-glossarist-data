@@ -45,13 +45,13 @@ eng:
   definition: SI unit of electric current, equal to the direct current which, if maintained
     constant in two straight parallel conductors of infinite length, of circular cross-section
     with negligible area, and placed 1 metre apart in vacuum, would produce between
-    these conductors a force per length equal to 2 × 10-7 N/m
+    these conductors a force per length equal to 2 × 10<sup>-7</sup> N/m
   language_code: eng
   notes:
   - 'CGPM definition is as follows: "The ampere is that constant current which, if
     maintained in two straight parallel conductors of infinite length, of negligible
     circular cross-section, and placed 1 metre apart in vacuum, would produce between
-    these conductors a force equal to 2 × 10-7 newton per metre of length."'
+    these conductors a force equal to 2 × 10<sup>-7</sup> newton per metre of length."'
   examples: []
   entry_status: Standard
   date_accepted: '2010-01-01T00:00:00+00:00'
@@ -71,14 +71,14 @@ fre:
     constant dans deux conducteurs parallèles rectilignes, de longueur infinie et
     de section circulaire d'aire négligeable, placés à une distance de 1 mètre l’un
     de l’autre dans le vide, produirait entre ces conducteurs une force linéique égale
-    à 2 × 10-7 N/m
+    à 2 × 10<sup>-7</sup> N/m
   language_code: fre
   notes:
   - 'La définition de la CGPM est la suivante: « L''ampère est l''intensité d''un
     courant constant qui, maintenu dans deux conducteurs parallèles, rectilignes,
     de longueur infinie, de section circulaire négligeable et placés à une distance
     de 1 mètre l’un de l’autre dans le vide, produirait entre ces conducteurs une
-    force égale à 2 × 10-7 newton par mètre de longueur ».'
+    force égale à 2 × 10<sup>-7</sup> newton par mètre de longueur ».'
   examples: []
   entry_status: Standard
   date_accepted: '2010-01-01T00:00:00+00:00'

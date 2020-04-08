@@ -47,17 +47,14 @@ eng:
     normativeStatus: preferred
     designation: volumic
     partOfSpeech: adj
-  definition: |-
-    qualifies a {{quantity name, IEV:112-01-02}} to indicate the quotient of that quantity by the volume
-
-    EXAMPLE {{mass density, IEV:113-03-07}}, also called density or volumic mass; electric charge density or volumic electric charge (see {{IEV 121-11-07, IEV:121-11-07}}).
+  definition: qualifies a {{quantity name, IEV:112-01-02}} to indicate the quotient
+    of that quantity by the volume
   language_code: eng
   notes:
-  - See also "{{volume concentration, IEV:112-03-17}}".
+  - '1 to entry: See also "{{volume concentration, IEV:112-03-17}}".'
   examples:
-  - '{{mass density, IEV:113-03-07}}, also called density or volumic mass; electric
-    charge density or volumic electric charge (see {{IEV 121-11-07, IEV:121-11-07}}).
-    Note 1 to entry: See also "{{volume concentration, IEV:112-03-17}}".'
+  - "{{mass density, IEV:113-03-07}}, also called density or volumic mass; electric
+    charge density or volumic electric charge (see {{IEV 121-11-07, IEV:121-11-07}})."
   entry_status: Standard
   classification: Preferred
   date_accepted: '2019-01-01T00:00:00+00:00'
@@ -73,13 +70,11 @@ fre:
     normativeStatus: preferred
     designation: volumique
     partOfSpeech: adj
-  definition: |-
-    qualifie un {{nom de grandeur, IEV:112-01-02}} pour désigner le quotient de cette grandeur par un volume
-
-    EXEMPLE {{masse volumique, IEV:113-03-07}}, charge électrique volumique (voir {{IEV 121-11-07, IEV:121-11-07}}).
+  definition: qualifie un {{nom de grandeur, IEV:112-01-02}} pour désigner le quotient
+    de cette grandeur par un volume
   language_code: fre
   notes:
-  - Voir aussi "{{concentration, IEV:112-03-17}}".
+  - '1 à l’article: Voir aussi "{{concentration, IEV:112-03-17}}".'
   examples:
   - "{{masse volumique, IEV:113-03-07}}, charge électrique volumique (voir {{IEV 121-11-07,
     IEV:121-11-07}})."

@@ -33,12 +33,16 @@ eng:
     designation: "$$N$$-version programming"
   - type: expression
     designation: NVP
-  definition: |-
-    form of fault-tolerant software design in which several diverse versions of a program are executed in parallel and the majority output is selected
-
-    Note 1 to entry: The program versions are usually executed in separate processors. Note 2 to entry: Each version is capable of performing the given task. At least three versions are employed. A voter selects the result on which the majority of versions agree. If no majority exists, then the whole functional unit fails. Note 3 to entry: N-version programming is an example of active redundancy, and is mostly used in avionics and process control systems.
+  definition: form of fault-tolerant software design in which several diverse versions
+    of a program are executed in parallel and the majority output is selected
   language_code: eng
-  notes: []
+  notes:
+  - The program versions are usually executed in separate processors.
+  - Each version is capable of performing the given task. At least three versions
+    are employed. A voter selects the result on which the majority of versions agree.
+    If no majority exists, then the whole functional unit fails.
+  - "$$N$$-version programming is an example of active redundancy, and is mostly used
+    in avionics and process control systems."
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -64,13 +68,15 @@ fre:
     majoritaire est sélectionné
   language_code: fre
   notes:
-  - 'Les versions du programme sont en général exécutées dans des processeurs distincts. '
-  - 'Chaque version est en mesure de réaliser la tâche donnée. Au moins trois versions
-    sont utilisées. Un votant sélectionne le résultat qui recueille un accord majoritaire.
-    En l’absence de majorité, l’ensemble de l’unité fonctionnelle tombe en panne. '
-  - La programmation multiversion est un exemple de redondance active, qui est le
-    plus souvent utilisée en électronique aéronautique et dans les systèmes de contrôle
-    de processus.
+  - '1 à l’article: Les versions du programme sont en général exécutées dans des processeurs
+    distincts.'
+  - '2 à l’article: Chaque version est en mesure de réaliser la tâche donnée. Au moins
+    trois versions sont utilisées. Un votant sélectionne le résultat qui recueille
+    un accord majoritaire. En l’absence de majorité, l’ensemble de l’unité fonctionnelle
+    tombe en panne.'
+  - '3 à l’article: La programmation multiversion est un exemple de redondance active,
+    qui est le plus souvent utilisée en électronique aéronautique et dans les systèmes
+    de contrôle de processus.'
   examples: []
   entry_status: Standard
   classification: Preferred

@@ -46,10 +46,11 @@ eng:
     containing that frequency by the bandwidth when the bandwidth tends to zero
   language_code: eng
   notes:
-  - 'The instantaneous power of a quantity is by convention equal to the square of
-    its instantaneous value. This square is proportional to a physical power if the
-    considered quantity is a field quantity. '
-  - The power spectral density is the Fourier transform of the autocorrelation function.
+  - '1 to entry: The instantaneous power of a quantity is by convention equal to the
+    square of its instantaneous value. This square is proportional to a physical power
+    if the considered quantity is a field quantity.'
+  - '2 to entry: The power spectral density is the Fourier transform of the autocorrelation
+    function.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -78,11 +79,11 @@ fre:
     cette fréquence par la largeur de la bande lorsque cette largeur tend vers zéro
   language_code: fre
   notes:
-  - 'La puissance instantanée d''une grandeur est par convention égale au carré de
-    sa valeur instantanée. Ce carré est proportionnel à une puissance physique si
-    la grandeur considérée est une grandeur de champ. '
-  - La densité spectrale de puissance est la transformée de Fourier de la fonction
-    d'autocorrélation.
+  - '1 à l''article: La puissance instantanée d''une grandeur est par convention égale
+    au carré de sa valeur instantanée. Ce carré est proportionnel à une puissance
+    physique si la grandeur considérée est une grandeur de champ.'
+  - '2 à l''article: La densité spectrale de puissance est la transformée de Fourier
+    de la fonction d''autocorrélation.'
   examples: []
   entry_status: Standard
   review_decision_event: published

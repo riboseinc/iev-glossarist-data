@@ -37,12 +37,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: operating time
-  definition: |-
-    time interval for which an item is in an operating state
-
-    Note 1 to entry: The duration of operating time may be expressed in units appropriate to the item concerned, e.g. calendar time, operating cycles, distance run, etc., and the units should always be clearly stated.
+  definition: time interval for which an item is in an operating state
   language_code: eng
-  notes: []
+  notes:
+  - The duration of operating time may be expressed in units appropriate to the item
+    concerned, e.g. calendar time, operating cycles, distance run, etc., and the units
+    should always be clearly stated.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -61,9 +61,9 @@ fre:
   definition: intervalle de temps pendant lequel une entité est dans un état de fonctionnement
   language_code: fre
   notes:
-  - La durée du temps de fonctionnement peut être exprimée en unités appropriées à
-    l’entité concernée, par exemple, temps calendaire, cycles de fonctionnement, distance
-    parcourue, etc. Il convient de toujours énoncer clairement les unités.
+  - '1 à l’article: La durée du temps de fonctionnement peut être exprimée en unités
+    appropriées à l’entité concernée, par exemple, temps calendaire, cycles de fonctionnement,
+    distance parcourue, etc. Il convient de toujours énoncer clairement les unités.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -51,8 +51,8 @@ eng:
     rays and not the general theory of waves
   language_code: eng
   notes:
-  - The term “geometric optics” has a historical origin, but the model is used for
-    any kind of waves.
+  - '1 to entry: The term “geometric optics” has a historical origin, but the model
+    is used for any kind of waves.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -74,8 +74,8 @@ fre:
     géométrique de rayon et non au moyen de la théorie générale des ondes
   language_code: fre
   notes:
-  - Le terme «optique géométrique» a une origine historique, mais le modèle est utilisé
-    pour tout type d’onde.
+  - '1 à l''article: Le terme «optique géométrique» a une origine historique, mais
+    le modèle est utilisé pour tout type d’onde.'
   examples: []
   entry_status: Standard
   review_decision_event: published

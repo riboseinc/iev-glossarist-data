@@ -41,12 +41,11 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: operating time to failure
-  definition: |-
-    operating time accumulated from the first use, or from restoration, until failure
-
-    Note 1 to entry: See also operating time ({{192-02-05, IEV:192-02-05}}).
+  definition: operating time accumulated from the first use, or from restoration,
+    until failure
   language_code: eng
-  notes: []
+  notes:
+  - See also operating time ({{192-02-05, IEV:192-02-05}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -68,12 +67,11 @@ fre:
     designation: temps avant défaillance
     gender: m
     plurality: singular
-  definition: |-
-    durée de fonctionnement cumulée depuis la première utilisation, ou le premier rétablissement, jusqu’à une défaillance
-
-    Note 1 à l’article: Voir aussi temps de fonctionnement ({{192-02-05, IEV:192-02-05}}).
+  definition: durée de fonctionnement cumulée depuis la première utilisation, ou le
+    premier rétablissement, jusqu’à une défaillance
   language_code: fre
-  notes: []
+  notes:
+  - Voir aussi temps de fonctionnement ({{192-02-05, IEV:192-02-05}}).
   examples: []
   entry_status: Standard
   review_decision_event: published

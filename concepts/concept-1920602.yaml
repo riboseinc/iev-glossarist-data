@@ -35,12 +35,12 @@ eng:
     designation: maintenance policy
   - type: expression
     designation: maintenance concept
-  definition: |-
-    definition of the maintenance objectives, line of maintenance, indenture levels, maintenance levels, maintenance support, and their interrelationships
-
-    Note 1 to entry: The maintenance policy provides the basis for maintenance planning, determining supportability requirements, and developing logistic support.
+  definition: definition of the maintenance objectives, line of maintenance, indenture
+    levels, maintenance levels, maintenance support, and their interrelationships
   language_code: eng
-  notes: []
+  notes:
+  - The maintenance policy provides the basis for maintenance planning, determining
+    supportability requirements, and developing logistic support.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,8 +60,9 @@ fre:
     des niveaux dans l’arborescence, de la logistique de maintenance et de leurs relations
   language_code: fre
   notes:
-  - La politique de maintenance fournit les bases pour planifier la maintenance, déterminer
-    les exigences de capacité de soutien et développer le support logistique.
+  - '1 à l’article: La politique de maintenance fournit les bases pour planifier la
+    maintenance, déterminer les exigences de capacité de soutien et développer le
+    support logistique.'
   examples: []
   entry_status: Standard
   review_decision_event: published

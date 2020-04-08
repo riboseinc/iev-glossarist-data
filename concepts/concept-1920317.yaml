@@ -36,12 +36,11 @@ eng:
   - type: expression
     normativeStatus: deprecated
     designation: fault mode
-  definition: |-
-    manner in which failure occurs
-
-    Note 1 to entry: A failure mode may be defined by the function lost or other state transition that occurred.
+  definition: manner in which failure occurs
   language_code: eng
-  notes: []
+  notes:
+  - A failure mode may be defined by the function lost or other state transition that
+    occurred.
   examples: []
   entry_status: Standard
   classification: Deprecated
@@ -66,8 +65,8 @@ fre:
   definition: manière selon laquelle une défaillance se produit
   language_code: fre
   notes:
-  - Un mode de défaillance peut être défini par la fonction perdue ou par la transition
-    d’état qui s’est produite.
+  - '1 à l’article: Un mode de défaillance peut être défini par la fonction perdue
+    ou par la transition d’état qui s’est produite.'
   examples: []
   entry_status: Standard
   classification: Deprecated

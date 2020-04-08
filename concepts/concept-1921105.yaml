@@ -41,12 +41,14 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: fault mode and effects analysis
-  definition: |-
-    qualitative method of analysis that involves the study of possible failure modes and faults in sub items, and their effects at various indenture levels
-
-    Note 1 to entry: The term "fault mode and effects analysis" in IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) is deprecated, since a fault ({{192-04-01, IEV:192-04-01}}) is a state and cannot logically have a mode, whereas a failure mode ({{192-03-17, IEV:192-03-17}}) is a change of state.
+  definition: qualitative method of analysis that involves the study of possible failure
+    modes and faults in sub items, and their effects at various indenture levels
   language_code: eng
-  notes: []
+  notes:
+  - The term "fault mode and effects analysis" in IEC 60050-191:1990 (now withdrawn;
+    replaced by IEC 60050-192:2015) is deprecated, since a fault ({{192-04-01, IEV:192-04-01}})
+    is a state and cannot logically have a mode, whereas a failure mode ({{192-03-17,
+    IEV:192-03-17}}) is a change of state.
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -78,11 +80,11 @@ fre:
     niveaux dans l’arborescence
   language_code: fre
   notes:
-  - Le terme «analyse des modes de panne et de leurs effets» de l’IEC 60050-191:1990
-    (supprimée; remplacée par l'IEC 60050-192:2015) est déconseillé, parce qu’une
+  - '1 à l’article: Le terme «analyse des modes de panne et de leurs effets» de l’IEC 60050-191:1990
+    (supprimée; remplacée par l''IEC 60050-192:2015) est déconseillé, parce qu’une
     panne ({{192-04-01, IEV:192-04-01}}) est un état et ne peut pas logiquement comporter
     un mode, alors qu’un mode de défaillance ({{192-03-17, IEV:192-03-17}}) est un
-    changement d’état.
+    changement d’état.'
   examples: []
   entry_status: Standard
   classification: Preferred

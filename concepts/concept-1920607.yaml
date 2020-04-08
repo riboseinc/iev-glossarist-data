@@ -31,12 +31,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: condition-based maintenance
-  definition: |-
-    preventive maintenance based on the assessment of physical condition
-
-    Note 1 to entry: The condition assessment may be by operator observation, conducted according to a schedule, or by condition monitoring ({{192-06-28, IEV:192-06-28}}) of system parameters.
+  definition: preventive maintenance based on the assessment of physical condition
   language_code: eng
-  notes: []
+  notes:
+  - The condition assessment may be by operator observation, conducted according to
+    a schedule, or by condition monitoring ({{192-06-28, IEV:192-06-28}}) of system
+    parameters.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,9 +55,9 @@ fre:
   definition: maintenance préventive reposant sur l’évaluation de la condition physique
   language_code: fre
   notes:
-  - La condition peut être évaluée par l’observation d’un opérateur, réalisée selon
-    un échéancier, ou par la surveillance d’état ({{192-06-28, IEV:192-06-28}}) des
-    paramètres du système.
+  - '1 à l’article: La condition peut être évaluée par l’observation d’un opérateur,
+    réalisée selon un échéancier, ou par la surveillance d’état ({{192-06-28, IEV:192-06-28}})
+    des paramètres du système.'
   examples: []
   entry_status: Standard
   review_decision_event: published

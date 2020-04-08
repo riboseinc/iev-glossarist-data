@@ -31,17 +31,14 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: failure criterion
-  definition: |-
-    pre-defined condition for acceptance as conclusive evidence of failure
-
-    EXAMPLE A defined limiting state of wear, crack propagation, performance degradation, leakage, etc. beyond which it is deemed to be unsafe or uneconomic to continue operation. Note 1 to entry: In a post-failure scenario, the conclusive evidence may be regarded as proof.
+  definition: pre-defined condition for acceptance as conclusive evidence of failure
   language_code: eng
-  notes: []
+  notes:
+  - In a post-failure scenario, the conclusive evidence may be regarded as proof.
   examples:
-  - 'A defined limiting state of wear, crack propagation, performance degradation,
+  - A defined limiting state of wear, crack propagation, performance degradation,
     leakage, etc. beyond which it is deemed to be unsafe or uneconomic to continue
-    operation. Note 1 to entry: In a post-failure scenario, the conclusive evidence
-    may be regarded as proof.'
+    operation.
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
   date_amended: '2015-02-01T00:00:00+00:00'
@@ -56,19 +53,15 @@ fre:
     designation: critère de défaillance
     gender: m
     plurality: singular
-  definition: |-
-    condition prédéfinie à accepter comme preuve péremptoire de défaillance
-
-    EXEMPLE Un état limite défini d’usure, de propagation de fissures, de dégradation des performances, de fuite, etc. au-delà duquel il est considéré comme dangereux ou non économique de poursuivre l’exploitation.
+  definition: condition prédéfinie à accepter comme preuve péremptoire de défaillance
   language_code: fre
   notes:
-  - Dans un scénario après défaillance, la preuve péremptoire peut être considérée
-    comme une preuve.
+  - '1 à l’article: Dans un scénario après défaillance, la preuve péremptoire peut
+    être considérée comme une preuve.'
   examples:
-  - 'Un état limite défini d’usure, de propagation de fissures, de dégradation des
+  - Un état limite défini d’usure, de propagation de fissures, de dégradation des
     performances, de fuite, etc. au-delà duquel il est considéré comme dangereux ou
-    non économique de poursuivre l’exploitation. Note 1 à l’article: Dans un scénario
-    après défaillance, la preuve péremptoire peut être considérée comme une preuve.'
+    non économique de poursuivre l’exploitation.
   entry_status: Standard
   review_decision_event: published
 jpn:

@@ -40,17 +40,17 @@ eng:
     normativeStatus: preferred
     designation: group velocity
   - type: symbol
-    designation: cgvg
+    designation: "$$c$$<sub>g</sub><br>$$v$$<sub>g</sub></br>"
     international: true
   definition: at a point in a medium, velocity of the envelope of a packet of superimposed
     sinusoidal waves of equal amplitude and slightly different frequencies tending
     to a common limiting frequency
   language_code: eng
   notes:
-  - 'The magnitude of the group velocity vector is equal to the derivative of the
-    frequency with respect to the wavenumber. '
-  - If both group velocities and other velocities are involved, then c should be used
-    for the former and v (vee) for the latter.
+  - '1 to entry: The magnitude of the group velocity vector is equal to the derivative
+    of the frequency with respect to the wavenumber.'
+  - '2 to entry: If both group velocities and other velocities are involved, then
+    $$c$$ should be used for the former and $$v$$ (vee) for the latter.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -71,10 +71,10 @@ fre:
     limite commune
   language_code: fre
   notes:
-  - 'La norme du vecteur vitesse de groupe est égale à la dérivée de la fréquence
-    par rapport au nombre d''onde. '
-  - En présence à la fois de vitesses de groupe et d'autres vitesses, il convient
-    d'utiliser c pour les premières et v (vé) pour les secondes.
+  - '1 à l''article: La norme du vecteur vitesse de groupe est égale à la dérivée
+    de la fréquence par rapport au nombre d''onde.'
+  - '2 à l''article: En présence à la fois de vitesses de groupe et d''autres vitesses,
+    il convient d''utiliser $$c$$ pour les premières et $$v$$ (vé) pour les secondes.'
   examples: []
   entry_status: Standard
   review_decision_event: published

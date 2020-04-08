@@ -39,11 +39,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: inverse Laplace transform
-  definition: representation of a real or complex function f(t) of the real variable
-    t by the integral transformation $$f ( t ) = (1)/(( 2 \pi j ))  ∫_(   \sigma -
-    j oo )^(   \sigma + j oo ) F ( s ) e^( s t ) ds$$ where $$F ( s )$$ is the Laplace
-    transform of the function f(t),  is greater or equal to the abscissa of convergence
-    of $$F ( s )$$ and j is the imaginary unit
+  definition: "representation of a real or complex function $$f$$($$t$$) of the real
+    variable $$t$$ by the integral transformation \n\n$$f ( t ) = (1)/(( 2 pi j ))
+    ∫_(   sigma - j oo )^(   sigma + j oo ) F ( s ) e^( s   t ) d s$$ \n\nwhere $$F
+    ( s )$$ is the Laplace transform of the function $$f$$($$t$$), $$$$ is greater
+    or equal to the abscissa of convergence of $$F ( s )$$ and j is the imaginary
+    unit"
   language_code: eng
   notes: []
   examples: []
@@ -61,11 +62,12 @@ fre:
     designation: transformée inverse de Laplace
     gender: f
     plurality: singular
-  definition: représentation d'une fonction réelle ou complexe f(t) de la variable
-    réelle t par la transformation intégrale $$f ( t ) = (1)/(( 2 \pi j ))  ∫_(  
-    \sigma - j oo )^(   \sigma + j oo ) F ( s ) e^( s t ) ds$$ où $$F ( s )$$ est
-    la transformée de Laplace de la fonction f(t),  est supérieur ou égal à l'abscisse
-    de convergence de $$F ( s )$$ et j est l’unité imaginaire
+  definition: "représentation d'une fonction réelle ou complexe $$f$$($$t$$) de la
+    variable réelle $$t$$ par la transformation intégrale \n\n$$f ( t ) = (1)/(( 2
+    pi j )) ∫_(   sigma - j oo )^(   sigma + j oo ) F ( s ) e^( s   t ) d s$$ \n\noù
+    $$F ( s )$$ est la transformée de Laplace de la fonction $$f$$($$t$$), $$$$ est
+    supérieur ou égal à l'abscisse de convergence de $$F ( s )$$ et j est l’unité
+    imaginaire"
   language_code: fre
   notes: []
   examples: []

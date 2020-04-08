@@ -59,8 +59,9 @@ eng:
     reasons. It stems from the fact that all exponents are zero in the symbolic representation
     of the dimension for such quantities. The term "quantity of dimension one" reflects
     the convention in which the symbolic representation of the dimension for such
-    quantities is the symbol 1, printed in sans-serif type. This dimension is not
-    the number one, but the neutral element for the multiplication of dimensions.
+    quantities is the symbol <font style="font-family:sans-serif;">1</font>, printed
+    in sans-serif type. This dimension is not the number one, but the neutral element
+    for the multiplication of dimensions.
   - The measurement units and values of quantities of dimension one are numbers, but
     such quantities convey more information than a number.
   - "Some quantities of dimension one are defined as the ratios of two quantities
@@ -69,9 +70,11 @@ eng:
     exists, the name of such a quantity often includes one of the terms factor or
     ratio, or sometimes number, fraction, or index, or the adjective relative (see
     section 112-03). The coherent derived unit is one. The dimension of such quantities
-    may be denoted by the dimension of the dividend raised to power zero. Examples:\n\ndim(plane
-    angle) = L0,  \n\ndim(refractive index n = c0/c) = (LT–1)0,  \n\ndim(mass fraction)
-    = M0, \n\ndim(friction factor μ = Fr /Fn) = dim(force)0 = (MLT–2)0."
+    may be denoted by the dimension of the dividend raised to power zero. Examples:\n\n\n\ndim(plane
+    angle) = L<sup>0</sup>, \n\n \n\ndim(refractive index $$n$$ = $$c$$<sub>0</sub>/$$c$$)
+    = (LT<sup>–1</sup>)<sup>0</sup>, \n\n \n\ndim(mass fraction) = M<sup>0</sup>,
+    \n\n\n\ndim(friction factor $$μ$$ = $$F$$<sub>r</sub> /$$F$$<sub>n</sub>) = dim(force)<sup>0</sup>
+    = (MLT<sup>–2</sup>)<sup>0</sup>."
   - Quantities of dimension one can also be numbers of entities (IEV 112-01-09).
   examples: []
   entry_status: Standard
@@ -106,8 +109,9 @@ fre:
     du fait que tous les exposants sont nuls dans la représentation symbolique de
     la dimension de telles grandeurs. Le terme « grandeur de dimension un » reflète
     la convention selon laquelle la représentation de la dimension de telles grandeurs
-    est le symbole 1, imprimé sans empattement. Cette dimension n’est pas le nombre
-    un, mais l’élément neutre pour la multiplication des dimensions.
+    est le symbole <font style="font-family:sans-serif;">1</font>, imprimé sans empattement.
+    Cette dimension n’est pas le nombre un, mais l’élément neutre pour la multiplication
+    des dimensions.
   - Les unités de mesure et les valeurs des grandeurs sans dimension sont des nombres,
     mais ces grandeurs portent plus d'information qu'un nombre.
   - "Certaines grandeurs sans dimension sont définies comme des rapports de deux grandeurs
@@ -117,9 +121,10 @@ fre:
     facteur ou rapport, ou parfois nombre, fraction ou indice, ou encore l'adjectif
     relatif (voir la section 112-03). L’unité dérivée cohérente est un. La dimension
     de ces grandeurs peut être notée comme celle du dividende élevée à la puissance
-    zéro. Exemples:\n\ndim(angle plan) = L0, \n\ndim(indice de réfraction n = c0/c)
-    = (LT–1)0, \n\ndim(fraction massique) = M0, \n\ndim(facteur de frottement μ =
-    Fr /Fn) = dim(force)0 = (MLT–2)0."
+    zéro. Exemples:\n\n\n\ndim(angle plan) = L<sup>0</sup>, \n\n\n\ndim(indice de
+    réfraction $$n$$ = $$c$$<sub>0</sub>/$$c$$) = (LT<sup>–1</sup>)<sup>0</sup>, \n\n\n\ndim(fraction
+    massique) = M<sup>0</sup>, \n\n\n\ndim(facteur de frottement $$μ$$ = $$F$$<sub>r</sub>
+    /$$F$$<sub>n</sub>) = dim(force)<sup>0</sup> = (MLT<sup>–2</sup>)<sup>0</sup>."
   - Les grandeurs sans dimension peuvent aussi être des nombres d'entités (IEV 112-01-09).
   examples: []
   entry_status: Standard

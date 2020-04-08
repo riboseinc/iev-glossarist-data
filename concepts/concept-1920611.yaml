@@ -39,10 +39,7 @@ eng:
     designation: maintenance action
   - type: expression
     designation: maintenance task
-  definition: |-
-    sequence of elementary maintenance activities
-
-    EXAMPLE Fault localization, fault diagnosis, repair, and function checkout.
+  definition: sequence of elementary maintenance activities
   language_code: eng
   notes: []
   examples:
@@ -61,10 +58,7 @@ fre:
     designation: tâche de maintenance
     gender: f
     plurality: singular
-  definition: |-
-    succession d’opérations de maintenance élémentaires
-
-    EXEMPLE Localisation de panne, diagnostic de panne, réparation, essai de fonctionnement.
+  definition: succession d’opérations de maintenance élémentaires
   language_code: fre
   notes: []
   examples:

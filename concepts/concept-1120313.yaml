@@ -55,14 +55,13 @@ eng:
     usageInfo: for flux or current
     designation: areic
     partOfSpeech: adj
-  definition: |-
-    supplements a {{quantity name, IEV:112-01-02}} for a quantity expressing a flux or a current within three-dimensional space to indicate the quotient of such a quantity by the area of a surface
-
-    EXAMPLE {{density of heat flow rate, IEV:113-04-37}} or areic heat flow rate, electric current density (see {{IEV 121-11-11, IEV:121-11-11}}), {{magnetic flux density, IEV:121-11-19}}.
+  definition: supplements a {{quantity name, IEV:112-01-02}} for a quantity expressing
+    a flux or a current within three-dimensional space to indicate the quotient of
+    such a quantity by the area of a surface
   language_code: eng
   notes:
-  - In English, "density" also, and more commonly, means specific mass. In French,
-    the term "densité" means relative mass density (or relative density).
+  - '1 to entry: In English, "density" also, and more commonly, means specific mass.
+    In French, the term "densité" means relative mass density (or relative density).'
   examples:
   - "{{density of heat flow rate, IEV:113-04-37}} or areic heat flow rate, electric
     current density (see {{IEV 121-11-11, IEV:121-11-11}}), {{magnetic flux density,
@@ -88,14 +87,13 @@ fre:
     usageInfo: flux ou courant
     designation: surfacique
     partOfSpeech: adj
-  definition: |-
-    complète un {{nom de grandeur, IEV:112-01-02}} pour une grandeur exprimant un flux ou un courant dans l'espace tridimensionnel pour désigner le quotient d’une telle grandeur par l'aire d'une surface
-
-    EXEMPLE {{flux thermique surfacique, IEV:113-04-37}} ou densité de flux thermique, densité de courant électrique  (voir {{IEV 121-11-11, IEV:121-11-11}}). La densité de flux magnétique est nommée "{{induction magnétique, IEV:121-11-19}}".
+  definition: complète un {{nom de grandeur, IEV:112-01-02}} pour une grandeur exprimant
+    un flux ou un courant dans l'espace tridimensionnel pour désigner le quotient
+    d’une telle grandeur par l'aire d'une surface
   language_code: fre
   notes:
-  - En anglais, le terme "density" signifie aussi, et plus couramment, masse volumique.
-    En français, le terme "densité" signifie masse volumique relative.
+  - '1 à l''article: En anglais, le terme "density" signifie aussi, et plus couramment,
+    masse volumique. En français, le terme "densité" signifie masse volumique relative.'
   examples:
   - '{{flux thermique surfacique, IEV:113-04-37}} ou densité de flux thermique, densité
     de courant électrique  (voir {{IEV 121-11-11, IEV:121-11-11}}). La densité de

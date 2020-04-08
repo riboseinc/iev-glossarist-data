@@ -42,10 +42,10 @@ eng:
   definition: representation of a real or complex quantity as a function of frequency
   language_code: eng
   notes:
-  - 'Other quantities related to frequency are often used as variables, e.g. wavelength
-    in vacuum or angular frequency. '
-  - The word "spectrum" is also used to denote the frequency band where some phenomenon
-    occurs, e.g. acoustic spectrum, visible spectrum.
+  - '1 to entry: Other quantities related to frequency are often used as variables,
+    e.g. wavelength in vacuum or angular frequency.'
+  - '2 to entry: The word "spectrum" is also used to denote the frequency band where
+    some phenomenon occurs, e.g. acoustic spectrum, visible spectrum.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -64,10 +64,11 @@ fre:
   definition: représentation d'une grandeur réelle ou complexe en fonction de la fréquence
   language_code: fre
   notes:
-  - 'D''autres grandeurs liées à la fréquence sont souvent utilisées comme variables,
-    par exemple la longueur d''onde dans le vide ou la pulsation. '
-  - Le mot «spectre» est aussi utilisé pour désigner la bande de fréquences dans laquelle
-    un certain phénomène se produit, par exemple spectre acoustique, spectre visible.
+  - '1 à l''article: D''autres grandeurs liées à la fréquence sont souvent utilisées
+    comme variables, par exemple la longueur d''onde dans le vide ou la pulsation.'
+  - '2 à l''article: Le mot «spectre» est aussi utilisé pour désigner la bande de
+    fréquences dans laquelle un certain phénomène se produit, par exemple spectre
+    acoustique, spectre visible.'
   examples: []
   entry_status: Standard
   review_decision_event: published

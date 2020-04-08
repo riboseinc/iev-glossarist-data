@@ -35,16 +35,16 @@ eng:
     normativeStatus: preferred
     designation: average unavailability
   - type: symbol
-    designation: "$$bar U ( t_1 ,  t_2 ) MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbbjxAHXgarqqtubsr4rNCHbGeaGqipG0dh9qqWrVepG0dbbL8F4rqqrVepeea0xe9LqFf0xc9q8qqaqFn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpeWZqaaeqabiGaciGacaqadmaadaqaaqaaaOqaaiqadwfagaqeaiaacIcacaWG0bWaaSbaaSqaaiaaigdaaeqaaOGaaiilaiaaysW7caWG0bWaaSbaaSqaaiaaikdaaeqaaOGaaiykaaaa@3DA9@$$"
+    designation: "$$bar U ( t_1 ,   t_2 )$$"
     international: true
-  definition: |-
-    average value of the instantaneous unavailability over a given time interval (t1, t2)
-
-    Note 1 to entry: The mean unavailability is related to the instantaneous unavailability U(t) as:
-
-    $$bar U  ( t_1   ,  t_2   ) = (1)/((  t_2   - t_1  ))     ∫_(   t_1  )^(    t_2  )    U ( t )  dt        $$
+  definition: average value of the instantaneous unavailability over a given time
+    interval ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)
   language_code: eng
-  notes: []
+  notes:
+  - |-
+    The mean unavailability is related to the instantaneous unavailability $$U$$($$t$$) as:
+
+    $$bar U ( t_1 ,   t_2 ) = (1)/(( t_2 - t_1 )) ∫_(   t_1 )^(     t_2 ) U ( t )   d t$$
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -62,15 +62,16 @@ fre:
     gender: f
     plurality: singular
   - type: symbol
-    designation: 192-08-061.gif>
+    designation: "<img/>192-08-061.gif&gt;"
     international: true
   definition: moyenne de l’indisponibilité instantanée sur un intervalle de temps
-    donné (t1, t2)
+    donné ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)
   language_code: fre
   notes:
-  - L’indisponibilité moyenne est liée à l’indisponibilité instantanée U(t) par la
-    formule:$$bar U  ( t_1   ,  t_2   ) = (1)/((  t_2   - t_1  ))     ∫_(   t_1  )^(    t_2  )    U
-    ( t )  dt        $$
+  - |-
+    1 à l’article: L’indisponibilité moyenne est liée à l’indisponibilité instantanée $$U$$($$t$$) par la formule:
+
+    $$bar U ( t_1 ,   t_2 ) = (1)/(( t_2 - t_1 )) ∫_(   t_1 )^(     t_2 ) U ( t )   d t$$
   examples: []
   entry_status: Standard
   review_decision_event: published

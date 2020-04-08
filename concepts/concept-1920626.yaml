@@ -31,12 +31,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: on-site maintenance
-  definition: |-
-    maintenance performed at the place of use or storage
-
-    Note 1 to entry: On-site maintenance is sometimes referred to as “in situ maintenance” or “field maintenance”, although they are not strictly synonyms.
+  definition: maintenance performed at the place of use or storage
   language_code: eng
-  notes: []
+  notes:
+  - On-site maintenance is sometimes referred to as “in situ maintenance” or “field
+    maintenance”, although they are not strictly synonyms.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,8 +54,9 @@ fre:
   definition: maintenance effectuée sur le lieu d’utilisation ou de stockage
   language_code: fre
   notes:
-  - En anglais, la maintenance sur site est parfois appelée «in situ maintenance»
-    ou «field maintenance», même si ces termes ne sont pas exactement synonymes.
+  - '1 à l’article: En anglais, la maintenance sur site est parfois appelée «in situ
+    maintenance» ou «field maintenance», même si ces termes ne sont pas exactement
+    synonymes.'
   examples: []
   entry_status: Standard
   review_decision_event: published

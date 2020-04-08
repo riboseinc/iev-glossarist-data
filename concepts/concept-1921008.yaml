@@ -31,12 +31,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: fault avoidance
-  definition: |-
-    techniques and procedures aimed to prevent the introduction of faults
-
-    Note 1 to entry: Fault avoidance may be applied during specification, design or modification. Note 2 to entry: The term is usually applied to software, but may be used for any type of item.
+  definition: techniques and procedures aimed to prevent the introduction of faults
   language_code: eng
-  notes: []
+  notes:
+  - Fault avoidance may be applied during specification, design or modification.
+  - The term is usually applied to software, but may be used for any type of item.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,10 +54,10 @@ fre:
   definition: utilisation de techniques et procédures visant à empêcher les pannes
   language_code: fre
   notes:
-  - 'L’évitement des pannes peut être appliqué pendant la spécification, la conception
-    ou la modification. '
-  - Le terme s’applique généralement au logiciel, mais il peut être utilisé pour tout
-    type d’entité.
+  - '1 à l’article: L’évitement des pannes peut être appliqué pendant la spécification,
+    la conception ou la modification.'
+  - '2 à l’article: Le terme s’applique généralement au logiciel, mais il peut être
+    utilisé pour tout type d’entité.'
   examples: []
   entry_status: Standard
   review_decision_event: published

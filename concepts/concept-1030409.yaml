@@ -35,12 +35,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: Z-transform
-  definition: for a real function f(n) of an integer variable n, function F(z) of
-    a complex variable z given by the transformation  $$F ( z ) =  sum_(( n = 0))^(
-    oo ) f ( n ) z^( - n)$$
+  definition: "for a real function $$f$$($$n$$) of an integer variable $$n$$, function
+    $$F$$($$z$$) of a complex variable $$z$$ given by the transformation \n\n $$F
+    ( z ) = sum_(( n = 0))^( oo ) f ( n ) z^( - n)$$"
   language_code: eng
   notes:
-  - The Z-transform of the function f is also denoted Zf or ℨf.
+  - '1 to entry: The Z-transform of the function $$f$$ is also denoted Z$$f$$ or ℨ$$f$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2017-07-01T00:00:00+00:00'
@@ -57,12 +57,13 @@ fre:
     designation: transformée en Z
     gender: f
     plurality: singular
-  definition: pour une fonction réelle f(n) d'une variable entière n, fonction F(z)
-    d'une variable complexe z, donnée par la transformation  $$F ( z ) =  sum_(( n
-    = 0))^( oo ) f ( n ) z^( - n)$$
+  definition: "pour une fonction réelle $$f$$($$n$$) d'une variable entière $$n$$,
+    fonction $$F$$($$z$$) d'une variable complexe $$z$$, donnée par la transformation
+    \n\n $$F ( z ) = sum_(( n = 0))^( oo ) f ( n ) z^( - n)$$"
   language_code: fre
   notes:
-  - La transformée en Z de la fonction f est notée aussi Zf ou ℨf.
+  - '1 à l''article: La transformée en Z de la fonction $$f$$ est notée aussi Z$$f$$
+    ou ℨ$$f$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

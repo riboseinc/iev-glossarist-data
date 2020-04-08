@@ -34,12 +34,13 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: MMH
-  definition: |-
-    sum of the times spent by individual persons to carry out a maintenance action
-
-    Note 1 to entry: Maintenance man-hours is a measure of resource use, either estimated or actual, and not the real time duration of the maintenance action. Note 2 to entry: In some applications, this measure is referred to as “maintenance person hours”.
+  definition: sum of the times spent by individual persons to carry out a maintenance
+    action
   language_code: eng
-  notes: []
+  notes:
+  - Maintenance man-hours is a measure of resource use, either estimated or actual,
+    and not the real time duration of the maintenance action.
+  - In some applications, this measure is referred to as “maintenance person hours”.
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -64,9 +65,9 @@ fre:
     de maintenance
   language_code: fre
   notes:
-  - 'La durée équivalente de maintenance est une mesure de l’utilisation des ressources,
-    réelles ou estimées, et non la durée de la tâche de maintenance. '
-  - Cette note ne s’applique qu’à la langue anglaise.
+  - '1 à l’article: La durée équivalente de maintenance est une mesure de l’utilisation
+    des ressources, réelles ou estimées, et non la durée de la tâche de maintenance.'
+  - '2 à l’article: Cette note ne s’applique qu’à la langue anglaise.'
   examples: []
   entry_status: Standard
   review_decision_event: published

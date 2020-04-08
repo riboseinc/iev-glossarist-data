@@ -34,12 +34,10 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: self-recoverability
-  definition: |-
-    ability to recover from a failure, without external action
-
-    Note 1 to entry: Self-recoverability is a special case of recoverability ({{192-01-25, IEV:192-01-25}}).
+  definition: ability to recover from a failure, without external action
   language_code: eng
-  notes: []
+  notes:
+  - Self-recoverability is a special case of recoverability ({{192-01-25, IEV:192-01-25}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,8 +57,8 @@ fre:
   definition: aptitude à se rétablir sans intervention extérieure après une défaillance
   language_code: fre
   notes:
-  - L’autorécupérabilité est un cas particulier de la récupérabilité ({{192-01-25,
-    IEV:192-01-25}}).
+  - '1 à l’article: L’autorécupérabilité est un cas particulier de la récupérabilité
+    ({{192-01-25, IEV:192-01-25}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

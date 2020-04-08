@@ -46,12 +46,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: mean time to recovery
-  definition: |-
-    expectation of the time to restoration
-
-    Note 1 to entry: IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) defined the term ”mean time to recovery” as a synonym, but restoration and recovery are not synonyms.
+  definition: expectation of the time to restoration
   language_code: eng
-  notes: []
+  notes:
+  - IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) defined the
+    term ”mean time to recovery” as a synonym, but restoration and recovery are not
+    synonyms.
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -79,7 +79,7 @@ fre:
   definition: espérance mathématique de la durée du temps de panne
   language_code: fre
   notes:
-  - Cette note ne concerne que la langue anglaise.
+  - '1 à l’article: Cette note ne concerne que la langue anglaise.'
   examples: []
   entry_status: Standard
   review_decision_event: published

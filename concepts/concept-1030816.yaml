@@ -39,8 +39,8 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: variation coefficient
-  definition: ratio of the standard deviation to the expectation of a non-negative
-    random variable $$\sigma // E ( X )$$
+  definition: "ratio of the standard deviation to the expectation of a non-negative
+    random variable \n\n$$sigma // E ( X )$$"
   language_code: eng
   notes: []
   examples: []
@@ -58,8 +58,8 @@ fre:
     designation: coefficient de variation
     gender: m
     plurality: singular
-  definition: rapport de l'écart-type à l'espérance mathématique d'une variable aléatoire
-    non négative  $$\sigma // E ( X )$$
+  definition: "rapport de l'écart-type à l'espérance mathématique d'une variable aléatoire
+    non négative \n\n $$sigma // E ( X )$$"
   language_code: fre
   notes: []
   examples: []

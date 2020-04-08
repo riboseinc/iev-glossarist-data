@@ -33,12 +33,11 @@ eng:
     normativeStatus: preferred
     usageInfo: in dependability;
     designation: subsystem
-  definition: |-
-    part of a system, which is itself, a system
-
-    Note 1 to entry: A subsystem is normally at a lower indenture level than the system of which it is a part.
+  definition: part of a system, which is itself, a system
   language_code: eng
-  notes: []
+  notes:
+  - A subsystem is normally at a lower indenture level than the system of which it
+    is a part.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -58,8 +57,8 @@ fre:
   definition: partie d’un système, qui est elle-même un système
   language_code: fre
   notes:
-  - Un sous-système est normalement à un niveau dans l’arborescence plus bas que le
-    système dont il fait partie.
+  - '1 à l’article: Un sous-système est normalement à un niveau dans l’arborescence
+    plus bas que le système dont il fait partie.'
   examples: []
   entry_status: Standard
   review_decision_event: published

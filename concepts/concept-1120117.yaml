@@ -67,123 +67,37 @@ eng:
 
 
 
+    <table style="width: 352.033px;" cellpadding="10" border="solid">
 
+    <tbody>
 
+    <tr>
 
+    <td style="text-align: center; width: 204px;">
 
+    <strong><span>Unit name</span></strong></td>
 
+    </tr>
 
+    <td style="text-align: center; width: 115.033px;">
 
+    <strong><span>Symbol</span></strong></td>
 
-    Unit name
+    </tbody>
 
+    </table>
 
+    <tr>
 
+    <td style="width: 204px;">
 
+    <span>seconde</span></td>
 
-    Symbol
+    </tr>
 
+    <td style="width: 115.033px;">
 
-
-
-
-
-
-
-
-    seconde
-
-
-
-
-
-    s
-
-
-
-
-
-
-
-
-
-    microampre
-
-
-
-
-
-    A
-
-
-
-
-
-
-
-
-
-    ohm
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    mtre par seconde carre
-
-
-
-
-
-    m/s2 ou ms2
-
-
-
-
-
-
-
-
-
-    mole
-
-
-
-
-
-    mol
-
-
-
-
-
-
-
-
-
-    pascal
-
-
-
-
-
-    Pa
-
-
-
-
-
-
+    <span>s</span></td>
 
   examples: []
   entry_status: Standard
@@ -218,123 +132,37 @@ fre:
 
 
 
+    <table style="width: 352.033px;" cellpadding="10" border="solid">
 
+    <tbody>
 
+    <tr>
 
+    <td style="text-align: center; width: 204px;">
 
+    <strong><span>Nom d'unit</span></strong></td>
 
+    </tr>
 
+    <td style="text-align: center; width: 115.033px;">
 
+    <strong><span>Symbole</span></strong></td>
 
-    Nom d'unit
+    </tbody>
 
+    </table>
 
+    <tr>
 
+    <td style="width: 204px;">
 
+    <span>seconde</span></td>
 
-    Symbole
+    </tr>
 
+    <td style="width: 115.033px;">
 
-
-
-
-
-
-
-
-    seconde
-
-
-
-
-
-    s
-
-
-
-
-
-
-
-
-
-    microampre
-
-
-
-
-
-    A
-
-
-
-
-
-
-
-
-
-    ohm
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    mtre par seconde carre
-
-
-
-
-
-    m/s2 ou ms2
-
-
-
-
-
-
-
-
-
-    mole
-
-
-
-
-
-    mol
-
-
-
-
-
-
-
-
-
-    pascal
-
-
-
-
-
-    Pa
-
-
-
-
-
-
+    <span>s</span></td>
 
   examples: []
   entry_status: Standard

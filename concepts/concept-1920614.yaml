@@ -31,12 +31,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: repair
-  definition: |-
-    direct action taken to effect {{restoration, IEV:192-06-23}}
-
-    Note 1 to entry: Repair includes fault localization ({{192-06-19, IEV:192-06-19}}), fault diagnosis ({{192-06-20, IEV:192-06-20}}); fault correction ({{192-06-21, IEV:192-06-21}}); and function checkout ({{192-06-22, IEV:192-06-22}}).
+  definition: direct action taken to effect {{restoration, IEV:192-06-23}}
   language_code: eng
-  notes: []
+  notes:
+  - Repair includes fault localization ({{192-06-19, IEV:192-06-19}}), fault diagnosis
+    ({{192-06-20, IEV:192-06-20}}); fault correction ({{192-06-21, IEV:192-06-21}});
+    and function checkout ({{192-06-22, IEV:192-06-22}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,9 +55,9 @@ fre:
   definition: opération directe réalisée pour procéder à un {{rétablissement, IEV:192-06-23}}
   language_code: fre
   notes:
-  - La réparation inclut la localisation de panne ({{192-06-19, IEV:192-06-19}}),
+  - '1 à l’article: La réparation inclut la localisation de panne ({{192-06-19, IEV:192-06-19}}),
     le diagnostic de panne ({{192-06-20, IEV:192-06-20}}), la correction de panne
-    ({{192-06-21, IEV:192-06-21}}) et l’essai de fonctionnement ({{192-06-22, IEV:192-06-22}}).
+    ({{192-06-21, IEV:192-06-21}}) et l’essai de fonctionnement ({{192-06-22, IEV:192-06-22}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

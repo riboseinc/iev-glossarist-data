@@ -34,12 +34,11 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: manufacturing fault
-  definition: |-
-    fault due to inadequate manufacture
-
-    Note 1 to entry: A manufacturing fault may arise from incorrect specification or performance of a manufacturing process.
+  definition: fault due to inadequate manufacture
   language_code: eng
-  notes: []
+  notes:
+  - A manufacturing fault may arise from incorrect specification or performance of
+    a manufacturing process.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,8 +58,8 @@ fre:
   definition: panne due à une fabrication inadéquate
   language_code: fre
   notes:
-  - Une panne due à la fabrication peut se produire par suite de la spécification
-    ou de la réalisation incorrecte d’un processus de fabrication.
+  - '1 à l’article: Une panne due à la fabrication peut se produire par suite de la
+    spécification ou de la réalisation incorrecte d’un processus de fabrication.'
   examples: []
   entry_status: Standard
   review_decision_event: published

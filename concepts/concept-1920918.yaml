@@ -31,12 +31,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: simulation test
-  definition: |-
-    test that imposes anticipated environmental and operating stresses of intended use
-
-    Note 1 to entry: In practice, the test conditions only approximate to the true conditions of use, the accuracy of their reproduction being known as the degree of simulation.
+  definition: test that imposes anticipated environmental and operating stresses of
+    intended use
   language_code: eng
-  notes: []
+  notes:
+  - In practice, the test conditions only approximate to the true conditions of use,
+    the accuracy of their reproduction being known as the degree of simulation.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,9 +56,9 @@ fre:
     anticipées liées à l’utilisation prévue
   language_code: fre
   notes:
-  - Dans la pratique, les conditions d’essai se rapprochent uniquement des conditions
-    vraies d’utilisation, l’exactitude de leur reproduction étant appelée «degré de
-    simulation».
+  - '1 à l’article: Dans la pratique, les conditions d’essai se rapprochent uniquement
+    des conditions vraies d’utilisation, l’exactitude de leur reproduction étant appelée
+    «degré de simulation».'
   examples: []
   entry_status: Standard
   review_decision_event: published

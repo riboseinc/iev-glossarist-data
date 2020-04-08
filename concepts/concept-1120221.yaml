@@ -78,7 +78,7 @@ jpn:
     designation: デカ
   - type: expression
     normativeStatus: preferred
-    designation: "$$^$$"
+    designation: 10<sup>1</sup>
   language_code: jpn
   notes: []
   examples: []

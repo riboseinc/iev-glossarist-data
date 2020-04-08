@@ -42,20 +42,18 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: universal constant
-  definition: |-
-    {{quantity, IEV:112-01-01}} that has the same value under all circumstances
-
-    EXAMPLE  {{speed of light, IEV:113-01-34}} c0,  {{elementary electric charge, IEV:113-05-16}} e,  {{Planck constant, IEV:113-05-07}} h.
+  definition: "{{quantity, IEV:112-01-01}} that has the same value under all circumstances"
   language_code: eng
   notes:
-  - "Recommended values of the fundamental physical constants are published by CODATA.\n\n"
-  - Fundamental physical constants are sometimes used as reference quantities to express
-    the values of other quantities of the same kind as if they were units of measurement.
-    For example, in the field of relativity, it is common practice to express all
-    velocities in terms of the speed of light c0.
+  - '1 to entry: Recommended values of the fundamental physical constants are published
+    by CODATA.'
+  - '2 to entry: Fundamental physical constants are sometimes used as reference quantities
+    to express the values of other quantities of the same kind as if they were units
+    of measurement. For example, in the field of relativity, it is common practice
+    to express all velocities in terms of the speed of light $$c$$<sub>0</sub>.'
   examples:
-  - "{{speed of light, IEV:113-01-34}} c0,  {{elementary electric charge, IEV:113-05-16}}
-    e,  {{Planck constant, IEV:113-05-07}} h."
+  - "{{speed of light, IEV:113-01-34}} $$c$$<sub>0</sub>,  {{elementary electric charge,
+    IEV:113-05-16}} $$e$$,  {{Planck constant, IEV:113-05-07}} $$h$$."
   entry_status: Standard
   classification: Preferred
   date_accepted: '2019-01-01T00:00:00+00:00'
@@ -77,21 +75,19 @@ fre:
     designation: constante universelle
     gender: f
     plurality: singular
-  definition: |-
-    {{grandeur, IEV:112-01-01}} qui a la même valeur en toutes circonstances
-
-    EXEMPLE  {{vitesse de la lumière, IEV:113-01-34}} c0,  {{charge électrique élémentaire, IEV:113-05-16}} e,  {{constante de Planck, IEV:113-05-07}} h.
+  definition: "{{grandeur, IEV:112-01-01}} qui a la même valeur en toutes circonstances"
   language_code: fre
   notes:
-  - "Des valeurs recommandées des constantes physiques fondamentales sont publiées
-    par le CODATA.\n\n"
-  - Les constantes physiques fondamentales sont quelquefois utilisées comme grandeurs
-    de référence pour exprimer les valeurs d'autres grandeurs de même nature, comme
-    si elles étaient des unités de mesure. En relativité par exemple, il est d'usage
-    courant d'exprimer les vitesses en fonction de la vitesse de la lumière c0.
+  - '1 à l''article: Des valeurs recommandées des constantes physiques fondamentales
+    sont publiées par le CODATA.'
+  - '2 à l''article: Les constantes physiques fondamentales sont quelquefois utilisées
+    comme grandeurs de référence pour exprimer les valeurs d''autres grandeurs de
+    même nature, comme si elles étaient des unités de mesure. En relativité par exemple,
+    il est d''usage courant d''exprimer les vitesses en fonction de la vitesse de
+    la lumière $$c$$<sub>0</sub>.'
   examples:
-  - "{{vitesse de la lumière, IEV:113-01-34}} c0,  {{charge électrique élémentaire,
-    IEV:113-05-16}} e,  {{constante de Planck, IEV:113-05-07}} h."
+  - "{{vitesse de la lumière, IEV:113-01-34}} $$c$$<sub>0</sub>,  {{charge électrique
+    élémentaire, IEV:113-05-16}} $$e$$,  {{constante de Planck, IEV:113-05-07}} $$h$$."
   entry_status: Standard
   classification: Preferred
   review_decision_event: published

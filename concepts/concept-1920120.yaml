@@ -34,12 +34,14 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: degradation
-  definition: |-
-    detrimental change in ability to meet requirements SEE: degraded state ({{192-02-25, IEV:192-02-25}}).
-
-    Note 1 to entry: Degradation may occur with storage or use, brought about by internal processes or effects of the environment. Note 2 to entry: Degradation beyond specified limits may constitute a degraded state or failure. Note 3 to entry: In a system context, degradation may also be caused by failures within the system.
+  definition: "detrimental change in ability to meet requirements \n\nSEE: degraded
+    state ({{192-02-25, IEV:192-02-25}})."
   language_code: eng
-  notes: []
+  notes:
+  - Degradation may occur with storage or use, brought about by internal processes
+    or effects of the environment.
+  - Degradation beyond specified limits may constitute a degraded state or failure.
+  - In a system context, degradation may also be caused by failures within the system.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,16 +58,16 @@ fre:
     designation: dégradation
     gender: f
     plurality: singular
-  definition: 'modification préjudiciable de l’aptitude à satisfaire à des exigences
-    VOIR: état dégradé ({{192-02-25, IEV:192-02-25}}).'
+  definition: "modification préjudiciable de l’aptitude à satisfaire à des exigences
+    \n\nVOIR: état dégradé ({{192-02-25, IEV:192-02-25}})."
   language_code: fre
   notes:
-  - 'Une dégradation peut se produire lors du stockage ou de l’utilisation, par suite
-    de processus internes ou des effets de l’environnement. '
-  - 'Une dégradation au-delà des limites spécifiées peut constituer un état dégradé
-    ou une défaillance. '
-  - Dans le contexte d’un système, une dégradation peut aussi être provoquée par des
-    défaillances à l’intérieur du système.
+  - '1 à l’article: Une dégradation peut se produire lors du stockage ou de l’utilisation,
+    par suite de processus internes ou des effets de l’environnement.'
+  - '2 à l’article: Une dégradation au-delà des limites spécifiées peut constituer
+    un état dégradé ou une défaillance.'
+  - '3 à l’article: Dans le contexte d’un système, une dégradation peut aussi être
+    provoquée par des défaillances à l’intérieur du système.'
   examples: []
   entry_status: Standard
   review_decision_event: published

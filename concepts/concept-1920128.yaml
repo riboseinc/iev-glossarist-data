@@ -31,12 +31,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: maintenance support
-  definition: |-
-    provision of resources to maintain an item
-
-    Note 1 to entry: Resources include human resources, support equipment, materials and spare parts, maintenance facilities, documentation and information, and maintenance information systems.
+  definition: provision of resources to maintain an item
   language_code: eng
-  notes: []
+  notes:
+  - Resources include human resources, support equipment, materials and spare parts,
+    maintenance facilities, documentation and information, and maintenance information
+    systems.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,9 +55,9 @@ fre:
   definition: mise à disposition des ressources permettant la maintenance d’une entité
   language_code: fre
   notes:
-  - Les ressources incluent les ressources humaines, les équipements logistiques,
-    les matériels et pièces détachées, les installations de maintenance, la documentation
-    et les informations, et les systèmes d’information de maintenance.
+  - '1 à l’article: Les ressources incluent les ressources humaines, les équipements
+    logistiques, les matériels et pièces détachées, les installations de maintenance,
+    la documentation et les informations, et les systèmes d’information de maintenance.'
   examples: []
   entry_status: Standard
   review_decision_event: published

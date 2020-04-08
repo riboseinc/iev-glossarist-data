@@ -31,15 +31,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: off-site maintenance
-  definition: |-
-    maintenance performed away from the location where the item is used
-
-    EXAMPLE Repair carried out at a maintenance centre. Note 1 to entry: Off-site maintenance may apply to items in storage.
+  definition: maintenance performed away from the location where the item is used
   language_code: eng
-  notes: []
+  notes:
+  - Off-site maintenance may apply to items in storage.
   examples:
-  - 'Repair carried out at a maintenance centre. Note 1 to entry: Off-site maintenance
-    may apply to items in storage.'
+  - Repair carried out at a maintenance centre.
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
   date_amended: '2015-02-01T00:00:00+00:00'
@@ -54,16 +51,13 @@ fre:
     designation: maintenance hors site
     gender: f
     plurality: singular
-  definition: |-
-    maintenance effectuée à un endroit différent de celui où l’entité est utilisée
-
-    EXEMPLE Réparation effectuée dans un centre de maintenance.
+  definition: maintenance effectuée à un endroit différent de celui où l’entité est
+    utilisée
   language_code: fre
   notes:
-  - La maintenance hors site peut s’appliquer aux entités stockées.
+  - '1 à l’article: La maintenance hors site peut s’appliquer aux entités stockées.'
   examples:
-  - 'Réparation effectuée dans un centre de maintenance. Note 1 à l’article: La maintenance
-    hors site peut s’appliquer aux entités stockées.'
+  - Réparation effectuée dans un centre de maintenance.
   entry_status: Standard
   review_decision_event: published
 jpn:

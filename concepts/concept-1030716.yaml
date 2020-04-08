@@ -44,12 +44,12 @@ eng:
   - type: expression
     designation: complex pulsatance
   - type: symbol
-    designation: s
+    designation: "$$s$$"
     international: true
-  definition: complex quantity $$s = \sigma + j \omega$$ associated with a quantity
-    represented by $$a ( t ) = A_0 e^( \sigma  t) cos ( \omega  t + \vartheta_0 )$$,
-    where $$A_0$$ is the initial amplitude,  is the angular frequency, t is time,
-    and $$\vartheta_0$$ is initial phase
+  definition: complex quantity $$s = sigma + j omega$$ associated with a quantity
+    represented by $$a ( t ) = A_0 e^( sigma   t) cos ( omega   t + vartheta_0 )$$,
+    where $$A_0$$ is the initial amplitude, $$$$ is the angular frequency, $$t$$ is
+    time, and $$vartheta_0$$ is initial phase
   language_code: eng
   notes: []
   examples: []
@@ -67,9 +67,9 @@ fre:
     designation: pulsation complexe
     gender: f
     plurality: singular
-  definition: grandeur complexe $$s = \sigma + j \omega$$ associée à une grandeur
-    de la forme $$a ( t ) = A_0 e^( \sigma  t) cos ( \omega  t + \vartheta_0 )$$,
-    où $$A_0$$ est l'amplitude à l'origine,  est la pulsation, t le temps et $$\vartheta_0$$
+  definition: grandeur complexe $$s = sigma + j omega$$ associée à une grandeur de
+    la forme $$a ( t ) = A_0 e^( sigma   t) cos ( omega   t + vartheta_0 )$$, où $$A_0$$
+    est l'amplitude à l'origine, $$$$ est la pulsation, $$t$$ le temps et $$vartheta_0$$
     la phase à l'origine
   language_code: fre
   notes: []

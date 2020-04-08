@@ -31,12 +31,14 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: censoring
-  definition: |-
-    excluding from a particular assessment, data obtained either after a given duration or a given number of events
-
-    Note 1 to entry: Events are usually failures, but, in a maintainability test, the events would be restorations. Note 2 to entry: A test terminated when there are still unfailed items may be called a “censored test", and test duration data from such a test referred to as censored data.
+  definition: excluding from a particular assessment, data obtained either after a
+    given duration or a given number of events
   language_code: eng
-  notes: []
+  notes:
+  - Events are usually failures, but, in a maintainability test, the events would
+    be restorations.
+  - A test terminated when there are still unfailed items may be called a “censored
+    test", and test duration data from such a test referred to as censored data.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,11 +58,11 @@ fre:
     une durée donnée ou un nombre d’événements donné
   language_code: fre
   notes:
-  - 'En général, les événements sont des défaillances, mais, dans un essai de maintenabilité,
-    il peut s’agir de rétablissements. '
-  - Un essai terminé alors qu’il reste encore des entités non défaillantes peut être
-    appelé «essai censuré»; les données de durée d’essai provenant de ces essais sont
-    appelées «données censurées».
+  - '1 à l’article: En général, les événements sont des défaillances, mais, dans un
+    essai de maintenabilité, il peut s’agir de rétablissements.'
+  - '2 à l’article: Un essai terminé alors qu’il reste encore des entités non défaillantes
+    peut être appelé «essai censuré»; les données de durée d’essai provenant de ces
+    essais sont appelées «données censurées».'
   examples: []
   entry_status: Standard
   review_decision_event: published

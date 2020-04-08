@@ -34,12 +34,12 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: degraded state
-  definition: |-
-    state of reduced ability to perform as required, but with acceptable reduced performance
-
-    Note 1 to entry: A degraded state may be the result of faults at lower indenture levels. Note 2 to entry: The limit of acceptable reduced performance will change with the user’s needs.
+  definition: state of reduced ability to perform as required, but with acceptable
+    reduced performance
   language_code: eng
-  notes: []
+  notes:
+  - A degraded state may be the result of faults at lower indenture levels.
+  - The limit of acceptable reduced performance will change with the user’s needs.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,8 +60,10 @@ fre:
     performances réduites acceptables
   language_code: fre
   notes:
-  - 'Un état dégradé peut résulter de pannes à des niveaux d’intervention inférieurs. '
-  - La limite des performances réduites acceptables dépend des besoins de l’utilisateur.
+  - '1 à l’article: Un état dégradé peut résulter de pannes à des niveaux d’intervention
+    inférieurs.'
+  - '2 à l’article: La limite des performances réduites acceptables dépend des besoins
+    de l’utilisateur.'
   examples: []
   entry_status: Standard
   review_decision_event: published

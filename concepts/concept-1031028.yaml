@@ -43,8 +43,8 @@ eng:
     and amplitude propagating in opposite directions
   language_code: eng
   notes:
-  - A standing wave can be represented by the product of a real function of time and
-    a real function of space coordinates.
+  - '1 to entry: A standing wave can be represented by the product of a real function
+    of time and a real function of space coordinates.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -64,8 +64,8 @@ fre:
     amplitude se propageant en sens inverse
   language_code: fre
   notes:
-  - Une onde stationnaire peut être représentée par le produit d'une fonction réelle
-    du temps et d'une fonction réelle des coordonnées spatiales.
+  - '1 à l''article: Une onde stationnaire peut être représentée par le produit d''une
+    fonction réelle du temps et d''une fonction réelle des coordonnées spatiales.'
   examples: []
   entry_status: Standard
   review_decision_event: published

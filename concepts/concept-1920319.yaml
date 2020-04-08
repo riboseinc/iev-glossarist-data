@@ -34,12 +34,12 @@ eng:
     normativeStatus: preferred
     usageInfo: within a system
     designation: common mode failures
-  definition: |-
-    failures of different items characterized by the same failure mode
-
-    Note 1 to entry: Common mode failures can have different causes. Note 2 to entry: Common mode failures can also be common cause failures ({{IEV 192-03-18, IEV:192-03-18}}). Note 3 to entry: The potential for common mode failures reduces the effectiveness of system redundancy.
+  definition: failures of different items characterized by the same failure mode
   language_code: eng
-  notes: []
+  notes:
+  - Common mode failures can have different causes.
+  - Common mode failures can also be common cause failures ({{IEV 192-03-18, IEV:192-03-18}}).
+  - The potential for common mode failures reduces the effectiveness of system redundancy.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,11 +60,11 @@ fre:
     de défaillance
   language_code: fre
   notes:
-  - 'Les défaillances de mode commun peuvent avoir des causes différentes. '
-  - 'Les défaillances de mode commun peuvent également être des défaillances de cause
-    commune ({{IEV 192-03-18, IEV:192-03-18}}). '
-  - L’éventualité de défaillances de mode commun réduit l’efficacité de la redondance
-    du système.
+  - '1 à l’article: Les défaillances de mode commun peuvent avoir des causes différentes.'
+  - '2 à l’article: Les défaillances de mode commun peuvent également être des défaillances
+    de cause commune ({{IEV 192-03-18, IEV:192-03-18}}).'
+  - '3 à l’article: L’éventualité de défaillances de mode commun réduit l’efficacité
+    de la redondance du système.'
   examples: []
   entry_status: Standard
   review_decision_event: published

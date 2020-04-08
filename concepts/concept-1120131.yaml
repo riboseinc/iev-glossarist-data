@@ -39,20 +39,18 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: quantity equation
-  definition: |-
-    mathematical relation between quantities in a given system of quantities, independent of units of measurement
-
-    NOTE    The general form of a quantity equation is f(Q1, Q2, ... Qn) = 0, where Q1, Q2, ... Qn denote different quantities. A simple form of a quantity equation is Q1 =  Q2 Q3, where  is a numerical factor.  Examples:
-
-
-
-
-
-    T = (1/2) mv2, where T is the kinetic energy and v the speed of a specified particle of mass m;
-
-    n = It/F, where n is the amount of substance of a univalent component, I is the electric current and t the duration of the electrolysis, and where F is the Faraday constant.
+  definition: mathematical relation between quantities in a given system of quantities,
+    independent of units of measurement
   language_code: eng
-  notes: []
+  notes:
+  - "The general form of a quantity equation is $$f$$($$Q$$<sub>1</sub>, $$Q$$<sub>2</sub>, ... <i>Q<sub>n</sub></i>)
+    = 0, where $$Q$$<sub>1</sub>, $$Q$$<sub>2</sub>, ... <i>Q<sub>n</sub></i> denote
+    different quantities. A simple form of a quantity equation is $$Q$$<sub>1</sub> = $$$$ $$Q$$<sub>2</sub> $$Q$$<sub>3</sub>,
+    where $$$$ is a numerical factor.  \n\nExamples:\n\n\n\n<ul>\n\n<li>$$T$$ = (1/2) $$m$$$$v$$<sup>2</sup>,
+    where $$T$$ is the kinetic energy and $$v$$ the speed of a specified particle
+    of mass $$m$$;</li>\n\n<li>$$n$$ = $$I$$$$t$$/$$F$$, where $$n$$ is the amount
+    of substance of a univalent component, $$I$$ is the electric current and $$t$$
+    the duration of the electrolysis, and where $$F$$ is the Faraday constant.\n\n</li>\n\n</ul>"
   examples: []
   entry_status: Standard
   authoritative_source:
@@ -76,17 +74,14 @@ fre:
     indépendante des unités de mesure
   language_code: fre
   notes:
-  - |2+
-
-
-
-
-    T = (1/2) mv2, où T est l'énergie cinétique et v la vitesse d’une particule spécifiée de masse m;
-
-    n = It/F, où n est la quantité de matière d'un composé univalent, I est le courant électrique et t la durée de l’électrolyse, et F est la constante de Faraday.
-
-
-
+  - "La forme générale d'une équation aux grandeurs est $$f$$($$Q$$<sub>1</sub>, $$Q$$<sub>2</sub>, ... <i>Q<sub>n</sub></i>) = 0,
+    où $$Q$$<sub>1</sub>, $$Q$$<sub>2</sub>, ... <i>Q<sub>n</sub></i> notent différentes
+    grandeurs. Une forme simple d'une équation aux grandeurs est $$Q$$<sub>1</sub> = $$$$ $$Q$$<sub>2</sub> $$Q$$<sub>3</sub>,
+    où $$$$ est un facteur numérique. \n\nExemples: \n\n\n\n<ul>\n\n<li>$$T$$ = (1/2) $$m$$$$v$$<sup>2</sup>,
+    où $$T$$ est l'énergie cinétique et $$v$$ la vitesse d’une particule spécifiée
+    de masse $$m$$;</li>\n\n<li>$$n$$ = $$I$$$$t$$/$$F$$, où $$n$$ est la quantité
+    de matière d'un composé univalent, $$I$$ est le courant électrique et $$t$$ la
+    durée de l’électrolyse, et $$F$$ est la constante de Faraday.\n\n</li>\n\n</ul>"
   examples: []
   entry_status: Standard
   authoritative_source:

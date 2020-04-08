@@ -34,12 +34,11 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: time to restoration
-  definition: |-
-    time interval, from the instant of failure, until restoration
-
-    Note 1 to entry: If the instant of failure is indeterminate, the time interval is assumed to commence upon failure detection.
+  definition: time interval, from the instant of failure, until restoration
   language_code: eng
-  notes: []
+  notes:
+  - If the instant of failure is indeterminate, the time interval is assumed to commence
+    upon failure detection.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,8 +58,8 @@ fre:
   definition: intervalle de temps entre la survenue d’une défaillance et le rétablissement
   language_code: fre
   notes:
-  - Si l’instant de la défaillance est indéterminé, l’intervalle de temps est supposé
-    commencer à la détection de la défaillance.
+  - '1 à l’article: Si l’instant de la défaillance est indéterminé, l’intervalle de
+    temps est supposé commencer à la détection de la défaillance.'
   examples: []
   entry_status: Standard
   review_decision_event: published

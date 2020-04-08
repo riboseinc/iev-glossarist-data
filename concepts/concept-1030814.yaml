@@ -53,9 +53,9 @@ eng:
   - type: expression
     usageInfo: of a probability distribution;
     designation: "$$p$$-quantile"
-  definition: for a number p between 0 and 1, value of a random variable for which
-    the distribution function equals p or jumps from a value less than or equal to
-    p to a value greater than p
+  definition: for a number $$p$$ between 0 and 1, value of a random variable for which
+    the distribution function equals $$p$$ or jumps from a value less than or equal
+    to $$p$$ to a value greater than $$p$$
   language_code: eng
   notes: []
   examples: []
@@ -79,9 +79,9 @@ fre:
     designation: quantile d'ordre $$p$$
     gender: m
     plurality: singular
-  definition: "pour un nombre p compris entre 0 et 1, valeur d'une variable aléatoire
-    pour laquelle la fonction de répartition prend une valeur p o\uFEFFu saute d'une
-    valeur inférieure ou égale à p à une valeur supérieure à p"
+  definition: "pour un nombre $$p$$ compris entre 0 et 1, valeur d'une variable aléatoire
+    pour laquelle la fonction de répartition prend une valeur $$p$$ o\uFEFFu saute
+    d'une valeur inférieure ou égale à $$p$$ à une valeur supérieure à $$p$$"
   language_code: fre
   notes: []
   examples: []

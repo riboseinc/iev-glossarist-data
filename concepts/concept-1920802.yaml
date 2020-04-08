@@ -33,12 +33,12 @@ eng:
     designation: inherent availability
   - type: expression
     designation: intrinsic availability
-  definition: |-
-    availability provided by the design under ideal conditions of operation and maintenance
-
-    Note 1 to entry: Delays associated with maintenance, such as logistic and administrative delays, are excluded.
+  definition: availability provided by the design under ideal conditions of operation
+    and maintenance
   language_code: eng
-  notes: []
+  notes:
+  - Delays associated with maintenance, such as logistic and administrative delays,
+    are excluded.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -62,8 +62,8 @@ fre:
     de fonctionnement et de maintenance
   language_code: fre
   notes:
-  - Les délais liés à la maintenance, comme les délais logistiques et administratifs,
-    sont exclus.
+  - '1 à l’article: Les délais liés à la maintenance, comme les délais logistiques
+    et administratifs, sont exclus.'
   examples: []
   entry_status: Standard
   review_decision_event: published

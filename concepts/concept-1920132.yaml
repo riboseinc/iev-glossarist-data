@@ -31,10 +31,8 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: system software
-  definition: |-
-    application-independent software that supports the running of application software
-
-    EXAMPLE The operating system of a computer.
+  definition: application-independent software that supports the running of application
+    software
   language_code: eng
   notes: []
   examples:
@@ -57,10 +55,8 @@ fre:
     designation: logiciel d’exploitation
     gender: m
     plurality: singular
-  definition: |-
-    logiciel indépendant de toute application et qui soutient l’exécution des logiciels d’application
-
-    EXEMPLE Le système d’exploitation d’un ordinateur.
+  definition: logiciel indépendant de toute application et qui soutient l’exécution
+    des logiciels d’application
   language_code: fre
   notes: []
   examples:

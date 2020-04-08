@@ -41,17 +41,17 @@ eng:
     normativeStatus: preferred
     designation: relative fundamental content
   - type: symbol
-    designation: g
+    designation: "$$g$$"
     international: true
   definition: ratio of the {{RMS value, IEV:103-02-03}} of the {{fundamental component,
     IEV:103-07-19}} of an alternating quantity to the RMS value of the quantity
   language_code: eng
   notes:
-  - "For an alternating quantity x with RMS value $$X_(( eff))$$ and RMS fundamental
-    component $$X_(( 1 eff))$$, the fundamental factor is $$g = X_(( 1 eff)) // X_((
-    eff))$$.\n\n"
-  - The extension to a {{reference fundamental component, IEV:103-07-20}} is given
-    in {{IEV 551-20-17, IEV:551-20-17}}.
+  - '1 to entry: For an alternating quantity $$x$$ with RMS value $$X_(( eff))$$ and
+    RMS fundamental component $$X_(( 1 eff))$$, the fundamental factor is $$g = X_((
+    1 eff)) // X_(( eff))$$.'
+  - '2 to entry: The extension to a {{reference fundamental component, IEV:103-07-20}}
+    is given in {{IEV 551-20-17, IEV:551-20-17}}.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -73,11 +73,11 @@ fre:
     d’une grandeur alternative à la valeur efficace de la grandeur
   language_code: fre
   notes:
-  - "Pour une grandeur alternative x de valeur efficace $$X_(( eff))$$ dont le fondamental
-    a pour valeur efficace $$X_(( 1 eff))$$, le taux de fondamental est $$g = X_((
-    1 eff)) // X_(( eff))$$.\n\n"
-  - L’extension à une {{composante fondamentale de référence, IEV:103-07-20}} est
-    donnée en {{IEV 551-20-17, IEV:551-20-17}}.
+  - '1 à l''article: Pour une grandeur alternative $$x$$ de valeur efficace $$X_((
+    eff))$$ dont le fondamental a pour valeur efficace $$X_(( 1 eff))$$, le taux de
+    fondamental est $$g = X_(( 1 eff)) // X_(( eff))$$.'
+  - '2 à l''article: L’extension à une {{composante fondamentale de référence, IEV:103-07-20}}
+    est donnée en {{IEV 551-20-17, IEV:551-20-17}}.'
   examples: []
   entry_status: Standard
   review_decision_event: published

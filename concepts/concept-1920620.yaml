@@ -31,12 +31,10 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: fault diagnosis
-  definition: |-
-    action to identify and characterize the fault
-
-    Note 1 to entry: Fault diagnosis may also localize the fault and/or indicate its cause.
+  definition: action to identify and characterize the fault
   language_code: eng
-  notes: []
+  notes:
+  - Fault diagnosis may also localize the fault and/or indicate its cause.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,8 +53,8 @@ fre:
   definition: opération destinée à identifier et caractériser la panne
   language_code: fre
   notes:
-  - Le diagnostic de panne peut également permettre de localiser la panne ou d’indiquer
-    sa cause.
+  - '1 à l’article: Le diagnostic de panne peut également permettre de localiser la
+    panne ou d’indiquer sa cause.'
   examples: []
   entry_status: Standard
   review_decision_event: published

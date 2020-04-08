@@ -42,9 +42,9 @@ eng:
   definition: relation between two or more variables expressed in the form of an equality
   language_code: eng
   notes:
-  - "$$F ( x ,  y ,  z ) = 0$$ is a functional relation between the variables $$x
-    ,  y ,  z$$. Any function of n variables is a functional relation between n +
-    1 variables."
+  - '1 to entry: $$F ( x ,   y ,   z ) = 0$$ is a functional relation between the
+    variables $$x ,   y ,   z$$. Any function of $$n$$ variables is a functional relation
+    between $$n$$ + 1 variables.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -63,9 +63,9 @@ fre:
   definition: relation entre deux variables ou plus exprimée sous la forme d'une égalité
   language_code: fre
   notes:
-  - "$$F ( x ,  y ,  z ) = 0$$ est une relation fonctionnelle entre les variables
-    $$x ,  y ,  z$$. Toute fonction de n variables est une relation fonctionnelle
-    entre n + 1 variables."
+  - '1 à l''article: $$F ( x ,   y ,   z ) = 0$$ est une relation fonctionnelle entre
+    les variables $$x ,   y ,   z$$. Toute fonction de $$n$$ variables est une relation
+    fonctionnelle entre $$n$$ + 1 variables.'
   examples: []
   entry_status: Standard
   review_decision_event: published

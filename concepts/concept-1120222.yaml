@@ -42,7 +42,7 @@ eng:
   - type: symbol
     designation: h
     international: true
-  definition: SI prefix used to form the multiple 102 of a unit of measurement
+  definition: SI prefix used to form the multiple 10<sup>2</sup> of a unit of measurement
   language_code: eng
   notes: []
   examples: []
@@ -59,7 +59,8 @@ fre:
     prefix: true
     normativeStatus: preferred
     designation: hecto
-  definition: préfixe SI utilisé pour former le multiple 102 d’une unité de mesure
+  definition: préfixe SI utilisé pour former le multiple 10<sup>2</sup> d’une unité
+    de mesure
   language_code: fre
   notes: []
   examples: []
@@ -78,7 +79,7 @@ jpn:
     designation: ヘクト
   - type: expression
     normativeStatus: preferred
-    designation: "$$^$$"
+    designation: 10<sup>2</sup>
   language_code: jpn
   notes: []
   examples: []

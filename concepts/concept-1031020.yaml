@@ -47,13 +47,15 @@ eng:
   - type: symbol
     designation: ''
     international: true
-  definition: imaginary part of the propagation coefficient $$\beta = Imunderset(_)(
-    \gamma )$$
+  definition: |-
+    imaginary part of the propagation coefficient
+
+     $$beta = Im underset(_)( gamma )$$
   language_code: eng
   notes:
-  - For a transmission line the phase coefficient is the limit of the quotient of
-    the phase change of a field quantity between two points on the axis by the distance
-    between the points, when this distance tends to zero.
+  - '1 to entry: For a transmission line the phase coefficient is the limit of the
+    quotient of the phase change of a field quantity between two points on the axis
+    by the distance between the points, when this distance tends to zero.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -70,13 +72,16 @@ fre:
     designation: déphasage linéique
     gender: m
     plurality: singular
-  definition: partie imaginaire de l'exposant linéique de propagation $$\beta = Imunderset(_)(
-    \gamma )$$
+  definition: |-
+    partie imaginaire de l'exposant linéique de propagation
+
+     $$beta = Im underset(_)( gamma )$$
   language_code: fre
   notes:
-  - Pour une ligne de transmission, le déphasage linéique est la limite du quotient
-    de la variation de phase d'une grandeur de champ entre deux points sur l'axe par
-    la distance des points, lorsque cette distance tend vers zéro.
+  - '1 à l''article: Pour une ligne de transmission, le déphasage linéique est la
+    limite du quotient de la variation de phase d''une grandeur de champ entre deux
+    points sur l''axe par la distance des points, lorsque cette distance tend vers
+    zéro.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -39,16 +39,15 @@ eng:
     designation: line of maintenance
   - type: expression
     designation: maintenance echelon
-  definition: |-
-    position in an organization where specified levels of maintenance are to be carried out
-
-    EXAMPLE 1st line – field; 2nd line – repair shop; and 3rd line – manufacturer’s facility. Note 1 to entry: The line of maintenance is characterized by the level of skill of the personnel, the facilities provided, the location, etc.
+  definition: position in an organization where specified levels of maintenance are
+    to be carried out
   language_code: eng
-  notes: []
+  notes:
+  - The line of maintenance is characterized by the level of skill of the personnel,
+    the facilities provided, the location, etc.
   examples:
-  - '1st line – field; 2nd line – repair shop; and 3rd line – manufacturer’s facility.
-    Note 1 to entry: The line of maintenance is characterized by the level of skill
-    of the personnel, the facilities provided, the location, etc.'
+  - 1<sup>st</sup> line – field; 2<sup>nd</sup> line – repair shop; and 3<sup>rd</sup>
+    line – manufacturer’s facility.
   entry_status: Standard
   authoritative_source:
     ref: EN 13306
@@ -65,19 +64,15 @@ fre:
     designation: échelon de maintenance
     gender: m
     plurality: singular
-  definition: |-
-    position au sein d’une organisation où des niveaux de maintenance spécifiés doivent être effectués
-
-    EXEMPLE 1ère échelon – sur site, 2ème échelon – atelier de réparation, 3ème échelon – chez le constructeur.
+  definition: position au sein d’une organisation où des niveaux de maintenance spécifiés
+    doivent être effectués
   language_code: fre
   notes:
-  - L’échelon de maintenance est caractérisé par le niveau de compétence du personnel,
-    les moyens disponibles, l’emplacement, etc.
+  - '1 à l’article: L’échelon de maintenance est caractérisé par le niveau de compétence
+    du personnel, les moyens disponibles, l’emplacement, etc.'
   examples:
-  - '1ère échelon – sur site, 2ème échelon – atelier de réparation, 3ème échelon – chez
-    le constructeur. Note 1 à l’article: L’échelon de maintenance est caractérisé
-    par le niveau de compétence du personnel, les moyens disponibles, l’emplacement,
-    etc.'
+  - 1<sup>ère</sup> échelon – sur site, 2<sup>ème</sup> échelon – atelier de réparation,
+    3<sup>ème</sup> échelon – chez le constructeur.
   entry_status: Standard
   authoritative_source:
     ref: EN 13306

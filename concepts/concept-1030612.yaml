@@ -28,15 +28,15 @@ eng:
     normativeStatus: preferred
     designation: relative ripple content
   - type: symbol
-    designation: r
+    designation: "$$r$$"
     international: true
   definition: ratio of the RMS value of the alternating component of a {{pulsating,
     IEV:103-06-07}} quantity to the absolute value of the direct component
   language_code: eng
   notes:
-  - For a pulsating quantity x with direct component $$bar X$$ and alternating component
-    $$x_( ∼ )$$, the RMS-ripple factor is $$r = (( X_( ∼ ) ()_(( eff)) ))/(( | bar
-    X | ))$$.
+  - '1 to entry: For a pulsating quantity $$x$$ with direct component $$bar X$$ and
+    alternating component $$x_( ∼ )$$, the RMS-ripple factor is $$r = (( X_( ∼ ) ()_((
+    eff)) ))/(( | bar X |))$$.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -58,9 +58,9 @@ fre:
     {{ondulée, IEV:103-06-07}} à la valeur absolue de la composante continue
   language_code: fre
   notes:
-  - Pour une grandeur ondulée x de composante continue $$bar X$$ et de composante
-    alternative $$x_( ∼ )$$, le taux d'ondulation efficace est $$r = (( X_( ∼ ) ()_((
-    eff)) ))/(( | bar X | ))$$.
+  - '1 à l''article: Pour une grandeur ondulée $$x$$ de composante continue $$bar
+    X$$ et de composante alternative $$x_( ∼ )$$, le taux d''ondulation efficace est
+    $$r = (( X_( ∼ ) ()_(( eff)) ))/(( | bar X |))$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

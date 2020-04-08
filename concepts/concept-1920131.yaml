@@ -37,12 +37,13 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: supportability
-  definition: |-
-    ability to be supported to sustain the required availability with a defined operational profile and given logistic and maintenance resources
-
-    Note 1 to entry: Supportability of an item results from the inherent maintainability ({{192-01-27, IEV:192-01-27}}), combined with factors external to the item that affect the relative ease of providing the required maintenance and logistic support.
+  definition: ability to be supported to sustain the required availability with a
+    defined operational profile and given logistic and maintenance resources
   language_code: eng
-  notes: []
+  notes:
+  - Supportability of an item results from the inherent maintainability ({{192-01-27,
+    IEV:192-01-27}}), combined with factors external to the item that affect the relative
+    ease of providing the required maintenance and logistic support.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -64,9 +65,9 @@ fre:
     maintenance données
   language_code: fre
   notes:
-  - La supportabilité d’une entité dépend de sa maintenabilité ({{192-01-27, IEV:192-01-27}})
-    intrinsèque, combinée à des facteurs externes qui influencent la facilité relative
-    à disposer des ressources logistiques et de maintenance requises.
+  - '1 à l’article: La supportabilité d’une entité dépend de sa maintenabilité ({{192-01-27,
+    IEV:192-01-27}}) intrinsèque, combinée à des facteurs externes qui influencent
+    la facilité relative à disposer des ressources logistiques et de maintenance requises.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -40,17 +40,18 @@ eng:
     normativeStatus: preferred
     designation: phase difference
   - type: symbol
-    designation: ''
+    designation: "$$$$"
     international: true
   definition: for two sinusoidal quantities of the same frequency in a given order,
     difference between their initial phases with possible addition of a multiple of
     2 so that the difference is greater than  and not greater than
   language_code: eng
   notes:
-  - For the quantities $$a^( ' ) ( t ) = hat A^( ' ) cos ( \omega  t + \vartheta^(
-    ' )_0 )$$ and $$a^( ″ ) ( t ) = hat A^( ″ ) cos ( \omega  t + \vartheta^( ″ )_0
-    )$$, the phase difference is $$\varphi = \vartheta^( ″ )_0 - \vartheta^( ' )_0
-    + 2 \pi n$$, where n is an integer, chosen so that $$- \pi  \varphi <= \pi$$.
+  - '1 to entry: For the quantities $$a^( '' ) ( t ) = hat A^( '' ) cos ( omega  
+    t + vartheta^( '' )_0 )$$ and $$a^( ″ ) ( t ) = hat A^( ″ ) cos ( omega   t +
+    vartheta^( ″ )_0 )$$, the phase difference is $$varphi = vartheta^( ″ )_0 - vartheta^(
+    '' )_0 + 2 pi n$$, where $$n$$ is an integer, chosen so that $$- pi varphi &lt;=
+    pi$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -76,11 +77,11 @@ fre:
     égale à
   language_code: fre
   notes:
-  - Pour les grandeurs $$a^( ' ) ( t ) = hat A^( ' ) cos ( \omega  t + \vartheta^(
-    ' )_0 )$$ et $$a^( ″ ) ( t ) = hat A^( ″ ) cos ( \omega  t + \vartheta^( ″ )_0
-    )$$, la différence de phase est $$\varphi = \vartheta^( ″ )_0 - \vartheta^( '
-    )_0 + 2 \pi n$$, où n est un entier choisi de telle sorte que $$- \pi  \varphi
-    <= \pi$$.
+  - '1 à l''article: Pour les grandeurs $$a^( '' ) ( t ) = hat A^( '' ) cos ( omega
+      t + vartheta^( '' )_0 )$$ et $$a^( ″ ) ( t ) = hat A^( ″ ) cos ( omega   t +
+    vartheta^( ″ )_0 )$$, la différence de phase est $$varphi = vartheta^( ″ )_0 -
+    vartheta^( '' )_0 + 2 pi n$$, où $$n$$ est un entier choisi de telle sorte que
+    $$- pi varphi &lt;= pi$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

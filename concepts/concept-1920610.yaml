@@ -31,12 +31,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: deferred maintenance
-  definition: |-
-    maintenance postponed after identification of its need, in accordance with given maintenance rules
-
-    Note 1 to entry: Deferred maintenance can apply to preventive and corrective maintenance. Note 2 to entry: Maintenance may be deferred for availability, logistic, economic or other reasons.
+  definition: maintenance postponed after identification of its need, in accordance
+    with given maintenance rules
   language_code: eng
-  notes: []
+  notes:
+  - Deferred maintenance can apply to preventive and corrective maintenance.
+  - Maintenance may be deferred for availability, logistic, economic or other reasons.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,10 +56,10 @@ fre:
     à des règles de maintenance données
   language_code: fre
   notes:
-  - 'La maintenance différée peut s’appliquer à la maintenance préventive et à la
-    maintenance corrective. '
-  - La maintenance peut être différée pour des raisons de disponibilité, des raisons
-    logistiques, économiques ou autres.
+  - '1 à l’article: La maintenance différée peut s’appliquer à la maintenance préventive
+    et à la maintenance corrective.'
+  - '2 à l’article: La maintenance peut être différée pour des raisons de disponibilité,
+    des raisons logistiques, économiques ou autres.'
   examples: []
   entry_status: Standard
   review_decision_event: published

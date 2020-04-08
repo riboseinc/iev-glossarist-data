@@ -34,12 +34,17 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: fault
-  definition: |-
-    inability to perform as required, due to an internal state
-
-    Note 1 to entry: A fault of an item results from a failure, either of the item itself, or from a deficiency in an earlier stage of the life cycle, such as specification, design, manufacture or maintenance. See latent fault ({{192-04-08, IEV:192-04-08}}). Note 2 to entry: Qualifiers, such as specification, design, manufacture, maintenance or misuse, may be used to indicate the cause of a fault. Note 3 to entry: The type of fault may be associated with the type of associated failure, e.g. wear-out fault and wear-out failure. Note 4 to entry: The adjective “faulty” designates an item having one or more faults.
+  definition: inability to perform as required, due to an internal state
   language_code: eng
-  notes: []
+  notes:
+  - A fault of an item results from a failure, either of the item itself, or from
+    a deficiency in an earlier stage of the life cycle, such as specification, design,
+    manufacture or maintenance. See latent fault ({{192-04-08, IEV:192-04-08}}).
+  - Qualifiers, such as specification, design, manufacture, maintenance or misuse,
+    may be used to indicate the cause of a fault.
+  - The type of fault may be associated with the type of associated failure, e.g.
+    wear-out fault and wear-out failure.
+  - The adjective “faulty” designates an item having one or more faults.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,16 +64,17 @@ fre:
   definition: inaptitude à fonctionner tel que requis, due à un état interne
   language_code: fre
   notes:
-  - 'La panne d’une entité est due soit à une défaillance de l’entité elle-même, soit
-    à une imperfection lors d’une étape précédente du cycle de vie, telle que la spécification,
-    la conception, la fabrication ou la maintenance. Voir panne latente ({{192-04-08,
-    IEV:192-04-08}}). '
-  - 'La cause d’une panne peut être indiquée par un complément, par exemple, panne
-    due à la spécification, à la conception, à la fabrication, à la maintenance, à
-    un mauvais emploi ou une fausse manoeuvre. '
-  - 'Le type de panne peut être associé au type de la défaillance correspondante,
-    par exemple, panne par usure et défaillance par usure. '
-  - Le terme «en panne» qualifie une entité faisant l’objet d’une ou plusieurs pannes.
+  - '1 à l’article: La panne d’une entité est due soit à une défaillance de l’entité
+    elle-même, soit à une imperfection lors d’une étape précédente du cycle de vie,
+    telle que la spécification, la conception, la fabrication ou la maintenance. Voir
+    panne latente ({{192-04-08, IEV:192-04-08}}).'
+  - '2 à l’article: La cause d’une panne peut être indiquée par un complément, par
+    exemple, panne due à la spécification, à la conception, à la fabrication, à la
+    maintenance, à un mauvais emploi ou une fausse manoeuvre.'
+  - '3 à l’article: Le type de panne peut être associé au type de la défaillance correspondante,
+    par exemple, panne par usure et défaillance par usure.'
+  - '4 à l’article: Le terme «en panne» qualifie une entité faisant l’objet d’une
+    ou plusieurs pannes.'
   examples: []
   entry_status: Standard
   review_decision_event: published

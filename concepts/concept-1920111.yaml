@@ -38,12 +38,13 @@ eng:
   - type: expression
     normativeStatus: deprecated
     designation: repaired item
-  definition: |-
-    item that can, under given conditions, after a failure, be returned to a state in which it can perform as required
-
-    Note 1 to entry: The “given conditions” may include technical, economic and other considerations. Note 2 to entry: An item that is repairable under some conditions may be non-repairable under other conditions.
+  definition: item that can, under given conditions, after a failure, be returned
+    to a state in which it can perform as required
   language_code: eng
-  notes: []
+  notes:
+  - The “given conditions” may include technical, economic and other considerations.
+  - An item that is repairable under some conditions may be non-repairable under other
+    conditions.
   examples: []
   entry_status: Standard
   classification: Deprecated
@@ -69,10 +70,10 @@ fre:
     être remise dans un état lui permettant de fonctionner tel que requis
   language_code: fre
   notes:
-  - 'Les «conditions données» peuvent inclure des considérations techniques, économiques
-    et autres. '
-  - Une entité réparable dans certaines conditions données peut être non réparable
-    dans d’autres conditions.
+  - '1 à l’article: Les «conditions données» peuvent inclure des considérations techniques,
+    économiques et autres.'
+  - '2 à l’article: Une entité réparable dans certaines conditions données peut être
+    non réparable dans d’autres conditions.'
   examples: []
   entry_status: Standard
   classification: Deprecated

@@ -56,7 +56,10 @@ eng:
   - type: symbol
     designation: ''
     international: true
-  definition: reciprocal of the wavelength $$\sigma = 1 // \lambda$$
+  definition: |-
+    reciprocal of the wavelength
+
+     $$sigma = 1 // lambda$$
   language_code: eng
   notes: []
   examples: []
@@ -80,7 +83,10 @@ fre:
     designation: répétence
     gender: f
     plurality: singular
-  definition: inverse de la longueur d'onde $$\sigma = 1 // \lambda$$
+  definition: |-
+    inverse de la longueur d'onde
+
+     $$sigma = 1 // lambda$$
   language_code: fre
   notes: []
   examples: []

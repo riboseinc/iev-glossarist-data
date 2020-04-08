@@ -34,12 +34,13 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: condition monitoring
-  definition: |-
-    obtaining information about physical state or operational parameters
-
-    Note 1 to entry: Condition monitoring is used to determine when preventive maintenance may be required. Note 2 to entry: Condition monitoring may be conducted automatically during operation or at planned intervals. Note 3 to entry: Condition monitoring methods include: vibration analysis, tribology and thermography.
+  definition: obtaining information about physical state or operational parameters
   language_code: eng
-  notes: []
+  notes:
+  - Condition monitoring is used to determine when preventive maintenance may be required.
+  - Condition monitoring may be conducted automatically during operation or at planned
+    intervals.
+  - 'Condition monitoring methods include: vibration analysis, tribology and thermography.'
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,12 +61,12 @@ fre:
     opérationnels
   language_code: fre
   notes:
-  - 'La surveillance d’état permet de prévoir le moment où une maintenance préventive
-    devient nécessaire. '
-  - 'La surveillance d’état peut être réalisée de manière automatique pendant le fonctionnement
-    ou à intervalles planifiés. '
-  - 'Les méthodes de surveillance d’état incluent: l’analyse des vibrations, la tribologie
-    et la thermographie.'
+  - '1 à l’article: La surveillance d’état permet de prévoir le moment où une maintenance
+    préventive devient nécessaire.'
+  - '2 à l’article: La surveillance d’état peut être réalisée de manière automatique
+    pendant le fonctionnement ou à intervalles planifiés.'
+  - '3 à l’article: Les méthodes de surveillance d’état incluent: l’analyse des vibrations,
+    la tribologie et la thermographie.'
   examples: []
   entry_status: Standard
   review_decision_event: published

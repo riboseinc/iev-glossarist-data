@@ -40,16 +40,16 @@ eng:
     normativeStatus: preferred
     designation: phase velocity
   - type: symbol
-    designation: cvcv
+    designation: "$$c$$<sub>$$$$</sub><br>$$v$$<sub>$$$$</sub><br>$$c$$<br>$$v$$</br></br></br>"
     international: true
   definition: for a sinusoidal wave at a given point, velocity in the direction of
     propagation of the wavefront corresponding to a specified phase
   language_code: eng
   notes:
-  - 'The magnitude of the phase velocity is equal to the product of frequency and
-    wavelength, and to the quotient of angular frequency by angular wavenumber. '
-  - If both phase velocities and other velocities are involved, then c should be used
-    for the former and v (vee) for the latter.
+  - '1 to entry: The magnitude of the phase velocity is equal to the product of frequency
+    and wavelength, and to the quotient of angular frequency by angular wavenumber.'
+  - '2 to entry: If both phase velocities and other velocities are involved, then
+    $$c$$ should be used for the former and $$v$$ (vee) for the latter.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -69,10 +69,10 @@ fre:
     de propagation, de la surface d'onde correspondant à une phase déterminée
   language_code: fre
   notes:
-  - 'La norme de la vitesse de phase est égale au produit de la fréquence par la longueur
-    d''onde et au quotient de la pulsation par le nombre d''onde angulaire. '
-  - En présence à la fois de vitesses de phase et d'autres vitesses, il convient d'utiliser
-    c pour les premières et v (vé) pour les secondes.
+  - '1 à l''article: La norme de la vitesse de phase est égale au produit de la fréquence
+    par la longueur d''onde et au quotient de la pulsation par le nombre d''onde angulaire.'
+  - '2 à l''article: En présence à la fois de vitesses de phase et d''autres vitesses,
+    il convient d''utiliser $$c$$ pour les premières et $$v$$ (vé) pour les secondes.'
   examples: []
   entry_status: Standard
   review_decision_event: published

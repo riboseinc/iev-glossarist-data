@@ -47,8 +47,9 @@ eng:
     quantity
   language_code: eng
   notes:
-  - For an alternating quantity $$x ( t )$$, the rectified value is $$bar  | x |  =
-    (1)/(T)  ∫_(  t_0 )^(  t_0 + T )  | x ( t )  |  dt$$, where T is the period.
+  - '1 to entry: For an alternating quantity $$x ( t )$$, the rectified value is $$bar
+    | x | = (1)/(T) ∫_(   t_0 )^(   t_0 + T ) | x ( t ) | d t$$, where $$T$$ is the
+    period.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -72,8 +73,9 @@ fre:
     alternative
   language_code: fre
   notes:
-  - Pour une grandeur alternative $$x ( t )$$, la valeur redressée est $$bar  | x
-    |  = (1)/(T)  ∫_(  t_0 )^(  t_0 + T )  | x ( t )  |  dt$$, où T est la période.
+  - '1 à l''article: Pour une grandeur alternative $$x ( t )$$, la valeur redressée
+    est $$bar | x | = (1)/(T) ∫_(   t_0 )^(   t_0 + T ) | x ( t ) | d t$$, où $$T$$
+    est la période.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -31,12 +31,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: failure cause
-  definition: |-
-    set of circumstances that leads to failure
-
-    Note 1 to entry: A failure cause may originate during specification, design, manufacture, installation, operation or maintenance of an item.
+  definition: set of circumstances that leads to failure
   language_code: eng
-  notes: []
+  notes:
+  - A failure cause may originate during specification, design, manufacture, installation,
+    operation or maintenance of an item.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,9 +54,9 @@ fre:
   definition: ensemble de circonstances qui entraîne une défaillance
   language_code: fre
   notes:
-  - La cause d’une défaillance peut trouver son origine pendant la spécification,
-    la conception, la fabrication, l’installation, l’exploitation ou la maintenance
-    d’une entité.
+  - '1 à l’article: La cause d’une défaillance peut trouver son origine pendant la
+    spécification, la conception, la fabrication, l’installation, l’exploitation ou
+    la maintenance d’une entité.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -53,11 +53,12 @@ eng:
   definition: greatest value of a function in a given interval of values of its argument
   language_code: eng
   notes:
-  - 'For a periodic function, the given interval has a range equal to the period. '
-  - 'The term peak value is mostly used for the global maximum value of a function
-    of time. '
-  - A global maximum value of function f is denoted by $$f_(( mm))$$ or $$hat hat
-    f$$.
+  - '1 to entry: For a periodic function, the given interval has a range equal to
+    the period.'
+  - '2 to entry: The term peak value is mostly used for the global maximum value of
+    a function of time.'
+  - '3 to entry: A global maximum value of function $$f$$ is denoted by $$f_(( m m))$$
+    or $$hat hat f$$.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -83,12 +84,12 @@ fre:
     de son argument
   language_code: fre
   notes:
-  - 'Dans le cas d''une fonction périodique, l''intervalle donné a une étendue égale
-    à la période. '
-  - 'Le terme valeur de crête est surtout employé pour la valeur maximale globale
-    d''une fonction du temps. '
-  - Une valeur maximale globale de la fonction f est notée $$f_(( mm))$$ ou $$hat
-    hat f$$.
+  - '1 à l''article: Dans le cas d''une fonction périodique, l''intervalle donné a
+    une étendue égale à la période.'
+  - '2 à l''article: Le terme valeur de crête est surtout employé pour la valeur maximale
+    globale d''une fonction du temps.'
+  - '3 à l''article: Une valeur maximale globale de la fonction $$f$$ est notée $$f_((
+    m m))$$ ou $$hat hat f$$.'
   examples: []
   entry_status: Standard
   classification: Preferred

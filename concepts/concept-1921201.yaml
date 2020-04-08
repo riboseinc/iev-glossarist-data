@@ -35,12 +35,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: burn-in
-  definition: |-
-    process conducted with the sole intention of stabilizing parameters
-
-    Note 1 to entry: Burn-in is an accelerated conditioning by operating the item under its operating electrical load at an elevated temperature, which is generally the maximum operating temperature that does not exceed the thermal rating of the device.
+  definition: process conducted with the sole intention of stabilizing parameters
   language_code: eng
-  notes: []
+  notes:
+  - Burn-in is an accelerated conditioning by operating the item under its operating
+    electrical load at an elevated temperature, which is generally the maximum operating
+    temperature that does not exceed the thermal rating of the device.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,10 +59,10 @@ fre:
   definition: processus mené avec la seule intention de stabiliser les paramètres
   language_code: fre
   notes:
-  - Le rodage est un conditionnement accéléré, réalisé en faisant fonctionner l’entité
-    sous sa charge électrique de fonctionnement à une température élevée, qui est
-    généralement la température de fonctionnement maximale compatible avec les caractéristiques
-    thermiques assignées du dispositif.
+  - '1 à l’article: Le rodage est un conditionnement accéléré, réalisé en faisant
+    fonctionner l’entité sous sa charge électrique de fonctionnement à une température
+    élevée, qui est généralement la température de fonctionnement maximale compatible
+    avec les caractéristiques thermiques assignées du dispositif.'
   examples: []
   entry_status: Standard
   review_decision_event: published

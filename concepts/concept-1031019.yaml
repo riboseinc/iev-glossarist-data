@@ -42,13 +42,15 @@ eng:
   - type: symbol
     designation: ''
     international: true
-  definition: real part of the propagation coefficient $$\alpha = Reunderset(_)( \gamma
-    )$$
+  definition: |-
+    real part of the propagation coefficient
+
+     $$alpha = Re underset(_)( gamma )$$
   language_code: eng
   notes:
-  - For a transmission line the attenuation coefficient is the limit of the quotient
-    of the relative change of a field quantity between two points on the axis by the
-    distance between the points, when this distance tends to zero.
+  - '1 to entry: For a transmission line the attenuation coefficient is the limit
+    of the quotient of the relative change of a field quantity between two points
+    on the axis by the distance between the points, when this distance tends to zero.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -64,13 +66,16 @@ fre:
     designation: affaiblissement linéique
     gender: m
     plurality: singular
-  definition: partie réelle de l'exposant linéique de propagation $$\alpha = Reunderset(_)(
-    \gamma )$$
+  definition: |-
+    partie réelle de l'exposant linéique de propagation
+
+     $$alpha = Re underset(_)( gamma )$$
   language_code: fre
   notes:
-  - Pour une ligne de transmission, l'affaiblissement linéique est la limite du quotient
-    de la variation relative d'une grandeur de champ entre deux points sur l'axe par
-    la distance des points, lorsque cette distance tend vers zéro.
+  - '1 à l''article: Pour une ligne de transmission, l''affaiblissement linéique est
+    la limite du quotient de la variation relative d''une grandeur de champ entre
+    deux points sur l''axe par la distance des points, lorsque cette distance tend
+    vers zéro.'
   examples: []
   entry_status: Standard
   review_decision_event: published

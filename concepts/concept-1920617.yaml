@@ -34,12 +34,12 @@ eng:
     normativeStatus: preferred
     usageInfo: of software;
     designation: perfective maintenance
-  definition: |-
-    software maintenance performed to improve the performance, maintainability, or other attributes of a computer program
-
-    Note 1 to entry: Perfective maintenance that adds new required functions is often referred to as enhancement.
+  definition: software maintenance performed to improve the performance, maintainability,
+    or other attributes of a computer program
   language_code: eng
-  notes: []
+  notes:
+  - Perfective maintenance that adds new required functions is often referred to as
+    enhancement.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -64,8 +64,8 @@ fre:
     ou d’autres attributs d’un programme informatique
   language_code: fre
   notes:
-  - La maintenance améliorante qui ajoute de nouvelles fonctions requises est souvent
-    appelée amélioration.
+  - '1 à l’article: La maintenance améliorante qui ajoute de nouvelles fonctions requises
+    est souvent appelée amélioration.'
   examples: []
   entry_status: Standard
   review_decision_event: published

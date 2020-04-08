@@ -31,12 +31,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: maintenance
-  definition: |-
-    combination of all technical and management actions intended to retain an item in, or restore it to, a state in which it can perform as required
-
-    Note 1 to entry: Management is assumed to include supervision activities.
+  definition: combination of all technical and management actions intended to retain
+    an item in, or restore it to, a state in which it can perform as required
   language_code: eng
-  notes: []
+  notes:
+  - Management is assumed to include supervision activities.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -57,7 +56,7 @@ fre:
     tel que requis
   language_code: fre
   notes:
-  - La gestion est supposée inclure les activités de supervision.
+  - '1 à l’article: La gestion est supposée inclure les activités de supervision.'
   examples: []
   entry_status: Standard
   review_decision_event: published

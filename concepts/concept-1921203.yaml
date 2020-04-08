@@ -33,12 +33,11 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: reliability growth
-  definition: |-
-    iterative process for reliability improvement by addressing design and manufacturing weaknesses
-
-    Note 1 to entry: See also reliability growth testing ({{192-12-06, IEV:192-12-06}}).
+  definition: iterative process for reliability improvement by addressing design and
+    manufacturing weaknesses
   language_code: eng
-  notes: []
+  notes:
+  - See also reliability growth testing ({{192-12-06, IEV:192-12-06}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,7 +58,7 @@ fre:
     faiblesses de conception et de fabrication
   language_code: fre
   notes:
-  - Voir aussi essai de croissance de la fiabilité ({{192-12-06, IEV:192-12-06}}).
+  - '1 à l’article: Voir aussi essai de croissance de la fiabilité ({{192-12-06, IEV:192-12-06}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

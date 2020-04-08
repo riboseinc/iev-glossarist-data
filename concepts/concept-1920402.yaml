@@ -39,12 +39,13 @@ eng:
     designation: software fault
   - type: expression
     designation: bug
-  definition: |-
-    state of a software item that prevents it from performing as required
-
-    Note 1 to entry: Software faults are specification faults, design faults, programming faults, compiler-inserted faults, or faults introduced during software maintenance. Note 2 to entry: A software fault may be dormant until activated by a specific trigger ({{192-03-23, IEV:192-03-23}}).
+  definition: state of a software item that prevents it from performing as required
   language_code: eng
-  notes: []
+  notes:
+  - Software faults are specification faults, design faults, programming faults, compiler-inserted
+    faults, or faults introduced during software maintenance.
+  - A software fault may be dormant until activated by a specific trigger ({{192-03-23,
+    IEV:192-03-23}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -67,11 +68,11 @@ fre:
   definition: état d’une entité logicielle qui l’empêche de fonctionner tel que requis
   language_code: fre
   notes:
-  - 'Les pannes logicielles sont des pannes dues à la spécification, à la conception,
-    à la programmation, à la compilation, ou des pannes introduites lors de la maintenance
-    logicielle. '
-  - Une panne logicielle peut être dormante tant qu’elle n’a pas été activée par un
-    déclencheur ({{192-03-23, IEV:192-03-23}}) particulier.
+  - '1 à l’article: Les pannes logicielles sont des pannes dues à la spécification,
+    à la conception, à la programmation, à la compilation, ou des pannes introduites
+    lors de la maintenance logicielle.'
+  - '2 à l’article: Une panne logicielle peut être dormante tant qu’elle n’a pas été
+    activée par un déclencheur ({{192-03-23, IEV:192-03-23}}) particulier.'
   examples: []
   entry_status: Standard
   review_decision_event: published

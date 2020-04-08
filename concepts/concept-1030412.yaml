@@ -48,12 +48,13 @@ eng:
   definition: integral of the product of a function and a shifted and scaled wavelet
   language_code: eng
   notes:
-  - 'For a function $$f ( t )$$ and a wavelet $$\psi ( t )$$:  $$C_f ( a , b ) =  ∫_(
-    - oo )^( + oo ) f ( t )    \psi_( a , b)^( ** ) ( t ) dt$$ where a is the scale
-    parameter, b is the position parameter, and * denotes the complex conjugate. '
-  - A discrete wavelet transform is obtained by choosing a finite number of values
-    of the two parameters. The inverse transform expresses the function of time as
-    a superposition of wavelets.
+  - "1 to entry: For a function $$f ( t )$$ and a wavelet $$psi ( t )$$: \n\n $$C_f
+    ( a , b ) = ∫_( - oo)^( + oo) f ( t )   psi_( a , b)^( ** ) ( t ) d t$$ \n\nwhere
+    $$a$$ is the scale parameter, $$b$$ is the position parameter, and * denotes the
+    complex conjugate."
+  - '2 to entry: A discrete wavelet transform is obtained by choosing a finite number
+    of values of the two parameters. The inverse transform expresses the function
+    of time as a superposition of wavelets.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -73,12 +74,13 @@ fre:
     ou comprimée
   language_code: fre
   notes:
-  - 'Pour une fonction $$f ( t )$$ et une ondelette $$\psi ( t )$$:  $$C_f ( a , b
-    ) =  ∫_( - oo )^( + oo ) f ( t )    \psi_( a , b)^( ** ) ( t ) dt$$ où a est le
-    paramètre d’échelle, b est le paramètre de position et *'
-  - Une transformée discrète en ondelettes est obtenue en choisissant un nombre fini
-    de valeurs des deux paramètres. La transformée inverse exprime la fonction du
-    temps comme une superposition d'ondelettes.
+  - "1 à l'article: Pour une fonction $$f ( t )$$ et une ondelette $$psi ( t )$$:
+    \n\n $$C_f ( a , b ) = ∫_( - oo)^( + oo) f ( t )   psi_( a , b)^( ** ) ( t ) d
+    t$$ \n\noù $$a$$ est le paramètre d’échelle, $$b$$ est le paramètre de position
+    et * note le complexe conjugué."
+  - '2 à l''article: Une transformée discrète en ondelettes est obtenue en choisissant
+    un nombre fini de valeurs des deux paramètres. La transformée inverse exprime
+    la fonction du temps comme une superposition d''ondelettes.'
   examples: []
   entry_status: Standard
   review_decision_event: published

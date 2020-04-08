@@ -31,12 +31,10 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: software failure
-  definition: |-
-    failure that is a manifestation of a dormant software fault
-
-    Note 1 to entry: Such a software failure will recur until the software fault responsible is removed.
+  definition: failure that is a manifestation of a dormant software fault
   language_code: eng
-  notes: []
+  notes:
+  - Such a software failure will recur until the software fault responsible is removed.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,8 +53,8 @@ fre:
   definition: défaillance qui est une manifestation d’une panne logicielle dormante
   language_code: fre
   notes:
-  - Une telle panne logicielle se reproduira jusqu’à suppression de la panne logicielle
-    responsable.
+  - '1 à l’article: Une telle panne logicielle se reproduira jusqu’à suppression de
+    la panne logicielle responsable.'
   examples: []
   entry_status: Standard
   review_decision_event: published

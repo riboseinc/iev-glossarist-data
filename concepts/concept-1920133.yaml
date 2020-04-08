@@ -31,10 +31,7 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: application software
-  definition: |-
-    software that provides a direct service to the user
-
-    EXAMPLE Word processing, spreadsheet and database software.
+  definition: software that provides a direct service to the user
   language_code: eng
   notes: []
   examples:
@@ -53,10 +50,7 @@ fre:
     designation: logiciel d’application
     gender: m
     plurality: singular
-  definition: |-
-    logiciel qui fournit un service direct à l’utilisateur
-
-    EXEMPLE Traitement de texte, feuille de calcul, logiciel de base de données.
+  definition: logiciel qui fournit un service direct à l’utilisateur
   language_code: fre
   notes: []
   examples:

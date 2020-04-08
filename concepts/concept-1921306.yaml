@@ -31,12 +31,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: measure
-  definition: |-
-    quantity or mathematical function used to describe a random variable or a random process
-
-    Note 1 to entry: For a random variable, examples of measures are the distribution function and the mean.
+  definition: quantity or mathematical function used to describe a random variable
+    or a random process
   language_code: eng
-  notes: []
+  notes:
+  - For a random variable, examples of measures are the distribution function and
+    the mean.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,8 +56,8 @@ fre:
     ou un processus aléatoire
   language_code: fre
   notes:
-  - Pour une variable aléatoire, il s’agit, par exemple, de la fonction de répartition
-    et de la moyenne.
+  - '1 à l’article: Pour une variable aléatoire, il s’agit, par exemple, de la fonction
+    de répartition et de la moyenne.'
   examples: []
   entry_status: Standard
   review_decision_event: published

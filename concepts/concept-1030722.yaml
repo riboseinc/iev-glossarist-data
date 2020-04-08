@@ -42,8 +42,8 @@ eng:
   definition: frequency of the reference fundamental component of a periodic quantity
   language_code: eng
   notes:
-  - The term is used when the reference fundamental component differs from the fundamental
-    component.
+  - '1 to entry: The term is used when the reference fundamental component differs
+    from the fundamental component.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -63,8 +63,8 @@ fre:
     périodique
   language_code: fre
   notes:
-  - Le terme est employé lorsque la composante fondamentale de référence diffère du
-    fondamental.
+  - '1 à l''article: Le terme est employé lorsque la composante fondamentale de référence
+    diffère du fondamental.'
   examples: []
   entry_status: Standard
   review_decision_event: published

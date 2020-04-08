@@ -42,8 +42,8 @@ eng:
   definition: qualifies two functions whose inner product, possibly weighted, is zero
   language_code: eng
   notes:
-  - Orthogonality for functions is similar to orthogonality for vectors (see IEC 60050-102,
-    {{102-03-26, IEV:102-03-26}}).
+  - '1 to entry: Orthogonality for functions is similar to orthogonality for vectors
+    (see IEC 60050-102, {{102-03-26, IEV:102-03-26}}).'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -62,8 +62,8 @@ fre:
     est nul
   language_code: fre
   notes:
-  - L'orthogonalité de deux fonctions est analogue à celle de deux vecteurs (voir
-    IEC 60050-102, {{102-03-26, IEV:102-03-26}}).
+  - '1 à l''article: L''orthogonalité de deux fonctions est analogue à celle de deux
+    vecteurs (voir IEC 60050-102, {{102-03-26, IEV:102-03-26}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

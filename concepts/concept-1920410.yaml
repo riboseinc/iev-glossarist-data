@@ -34,12 +34,13 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: specification fault
-  definition: |-
-    fault due to inadequate specification
-
-    Note 1 to entry: Specification faults arise from mistakes during requirements analysis and definition, resulting in specification documents that do not capture the requirements or implied needs of the user. Note 2 to entry: A specification fault may be latent.
+  definition: fault due to inadequate specification
   language_code: eng
-  notes: []
+  notes:
+  - Specification faults arise from mistakes during requirements analysis and definition,
+    resulting in specification documents that do not capture the requirements or implied
+    needs of the user.
+  - A specification fault may be latent.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,10 +60,10 @@ fre:
   definition: panne due à une spécification inadéquate
   language_code: fre
   notes:
-  - 'Les pannes dues à la spécification proviennent d’erreurs lors de l’analyse et
-    de la définition des exigences, aboutissant à des documents de spécification qui
-    n’expriment pas les exigences ou les besoins implicites de l’utilisateur. '
-  - Une panne due à la spécification peut être latente.
+  - '1 à l’article: Les pannes dues à la spécification proviennent d’erreurs lors
+    de l’analyse et de la définition des exigences, aboutissant à des documents de
+    spécification qui n’expriment pas les exigences ou les besoins implicites de l’utilisateur.'
+  - '2 à l’article: Une panne due à la spécification peut être latente.'
   examples: []
   entry_status: Standard
   review_decision_event: published

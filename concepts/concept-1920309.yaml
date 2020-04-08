@@ -37,12 +37,14 @@ eng:
     normativeStatus: preferred
     usageInfo: of a fault or failure;
     designation: criticality
-  definition: |-
-    severity of effect with respect to specified evaluation criteria
-
-    Note 1 to entry: The criticality evaluation criteria normally include: the effects of the fault or failure: on the item itself; on the system of which it is a part; and on items beyond the system boundary. Note 2 to entry: For criticality analysis, see failure modes, effects and criticality analysis ({{192-11-06, IEV:192-11-06}}).
+  definition: severity of effect with respect to specified evaluation criteria
   language_code: eng
-  notes: []
+  notes:
+  - 'The criticality evaluation criteria normally include: the effects of the fault
+    or failure: on the item itself; on the system of which it is a part; and on items
+    beyond the system boundary.'
+  - For criticality analysis, see failure modes, effects and criticality analysis
+    ({{192-11-06, IEV:192-11-06}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -62,11 +64,11 @@ fre:
   definition: gravité d’un effet par rapport à des critères d’évaluation spécifiés
   language_code: fre
   notes:
-  - 'En principe, les critères d’évaluation de la criticité incluent les effets de
-    la panne ou de la défaillance: sur l’élément lui-même, sur le système dont il
-    fait partie et sur des entités au-delà de la frontière du système. '
-  - Pour l’analyse de la criticité, voir analyse des modes de défaillance, de leurs
-    effets et de leur criticité ({{192-11-06, IEV:192-11-06}}).
+  - '1 à l’article: En principe, les critères d’évaluation de la criticité incluent
+    les effets de la panne ou de la défaillance: sur l’élément lui-même, sur le système
+    dont il fait partie et sur des entités au-delà de la frontière du système.'
+  - '2 à l’article: Pour l’analyse de la criticité, voir analyse des modes de défaillance,
+    de leurs effets et de leur criticité ({{192-11-06, IEV:192-11-06}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

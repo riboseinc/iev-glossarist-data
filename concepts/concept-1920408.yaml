@@ -40,12 +40,11 @@ eng:
   - type: expression
     usageInfo: of an item;
     designation: undetected fault
-  definition: |-
-    fault that has not become apparent
-
-    Note 1 to entry: A latent fault may eventually be revealed by preventive maintenance or by a system failure.
+  definition: fault that has not become apparent
   language_code: eng
-  notes: []
+  notes:
+  - A latent fault may eventually be revealed by preventive maintenance or by a system
+    failure.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -70,8 +69,8 @@ fre:
   definition: panne qui n’est pas devenue apparente
   language_code: fre
   notes:
-  - Une panne latente peut finalement être révélée par une maintenance préventive
-    ou par une défaillance du système.
+  - '1 à l’article: Une panne latente peut finalement être révélée par une maintenance
+    préventive ou par une défaillance du système.'
   examples: []
   entry_status: Standard
   review_decision_event: published

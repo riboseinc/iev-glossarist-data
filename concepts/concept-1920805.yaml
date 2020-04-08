@@ -35,14 +35,16 @@ eng:
     normativeStatus: preferred
     designation: average availability
   - type: symbol
-    designation: "$$bar A ( t_1 ,  t_2 ) MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbbjxAHXgarqqtubsr4rNCHbGeaGqipG0dh9qqWrVepG0dbbL8F4rqqrVepeea0xe9LqFf0xc9q8qqaqFn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpeWZqaaeqabiGaciGacaqadmaadaqaaqaaaOqaaiqadgeagaqeaiaacIcacaWG0baddaWgaaWcbaqcLboacaaIXaaaleqaaOGaaiilaiaadshadaWgaaWcbaqcLboacaaIYaaaleqaaOGaaiykaaaa@3EC6@$$"
+    designation: "$$bar A ( t_1 ,   t_2 )$$"
     international: true
-  definition: |-
-    average value of the instantaneous availability over a given time interval (t1, t2)
-
-    Note 1 to entry: The mean availability is related to the instantaneous availability A(t) as:$$bar A  ( t_1   ,  t_2   ) = (1)/((  t_2   - t_1  ))     ∫_(   t_1  )^(   t_2  )    A ( t )  dt        $$
+  definition: average value of the instantaneous availability over a given time interval
+    ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)
   language_code: eng
-  notes: []
+  notes:
+  - |-
+    The mean availability is related to the instantaneous availability $$A$$($$t$$) as:
+
+    $$bar A ( t_1 ,   t_2 ) = (1)/(( t_2 - t_1 )) ∫_(   t_1 )^(   t_2 ) A ( t )   d t$$
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -60,15 +62,16 @@ fre:
     gender: f
     plurality: singular
   - type: symbol
-    designation: 192-08-051.gif>
+    designation: "<img/>192-08-051.gif&gt;"
     international: true
   definition: moyenne de la disponibilité instantanée sur un intervalle de temps donné
-    (t1, t2)
+    ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)
   language_code: fre
   notes:
-  - La disponibilité moyenne est liée à la disponibilité instantanée A(t) par la formule:$$bar
-    A  ( t_1   ,  t_2   ) = (1)/((  t_2   - t_1  ))     ∫_(   t_1  )^(   t_2  )    A
-    ( t )  dt        $$
+  - |-
+    1 à l’article: La disponibilité moyenne est liée à la disponibilité instantanée $$A$$($$t$$) par la formule:
+
+    $$bar A ( t_1 ,   t_2 ) = (1)/(( t_2 - t_1 )) ∫_(   t_1 )^(   t_2 ) A ( t )   d t$$
   examples: []
   entry_status: Standard
   review_decision_event: published

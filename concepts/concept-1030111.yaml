@@ -52,16 +52,17 @@ eng:
   definition: set of functions, such that each of them is orthogonal to any other
   language_code: eng
   notes:
-  - 'Examples:  Legendre polynomials P constitute a system of orthogonal functions
-    on the interval $$- 1 ,   + 1$$ because $$∫_(   - 1)^(   + 1) P_k  ( x ) P_l (
-    x ) dx = 0$$ for any integers $$k != l$$. Laguerre polynomials L constitute a
-    system of orthogonal functions on the interval $$0 ,   + oo$$ with the weight
-    $$exp ( - x )$$ because $$∫_(  0)^(   + oo ) L_k  ( x ) L_l ( x ) exp ( - x )
-    dx = 0$$ for any integers $$k != l$$. Trigonometric functions sine and cosine
-    constitute a system of orthogonal functions on the interval $$0 ,  2 \pi$$ because
-    $$∫_(  0)^(  2 \pi )  sin ( kx ) sin ( lx )  dx = 0$$ and $$∫_(  0)^(  2 \pi )  cos
-    ( kx ) cos ( lx )  dx = 0$$ for any integers $$k != l$$, and $$∫_(  0)^(  2 \pi
-    ) sin ( kx ) cos ( lx )  dx = 0$$ for any integer k and l. '
+  - "1 to entry: Examples: \n\n<ul> \n\n<li>Legendre polynomials P constitute a system
+    of orthogonal functions on the interval $$- 1 ,   + 1$$ because $$∫_(   - 1)^(
+      + 1) P_k ( x ) P_l ( x ) d x = 0$$ for any integers $$k != l$$.</li> \n\n<li>Laguerre
+    polynomials L constitute a system of orthogonal functions on the interval $$0
+    ,   + oo$$ with the weight $$e x p ( - x )$$ because $$∫_(   0)^(   + oo) L_k
+    ( x ) L_l ( x ) exp ( - x ) d x = 0$$ for any integers $$k != l$$.</li> \n\n<li>Trigonometric
+    functions sine and cosine constitute a system of orthogonal functions on the interval
+    $$0 ,   2 pi$$ because $$∫_(   0)^(   2 pi) sin ( k x ) sin ( l x ) d x = 0$$
+    and $$∫_(   0)^(   2 pi) cos ( k x ) cos ( l x ) d x = 0$$ for any integers $$k
+    != l$$, and $$∫_(   0)^(   2 pi) sin ( k x ) cos ( l x ) d x = 0$$ for any integer
+    $$k$$ and $$l$$. </li></ul>"
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -80,17 +81,17 @@ fre:
   definition: ensemble de fonctions dont chacune est orthogonale à toute autre
   language_code: fre
   notes:
-  - 'Exemples:  Les polynômes de Legendre P constituent un système de fonctions orthogonales
-    sur l''intervalle $$- 1 ,   + 1$$ parce que $$∫_(   - 1)^(   + 1) P_k  ( x ) P_l
-    ( x ) dx = 0$$ pour tous entiers $$k != l$$. Les polynômes de Laguerre L constituent
-    un système de fonctions orthogonales sur l''intervalle $$0 ,   + oo$$ avec le
-    poids $$exp ( - x )$$ parce que $$∫_(  0)^(   + oo ) L_k  ( x ) L_l ( x ) exp
-    ( - x ) dx = 0$$ pour tous entiers $$k != l$$. Les fonctions trigonométriques
-    sinus et cosinus constituent un système de fonctions orthogonales sur l''intervalle
-    $$0 ,  2 \pi$$ parce que $$∫_(  0)^(  2 \pi )  sin ( kx ) sin ( lx )  dx = 0$$
-    et $$∫_(  0)^(  2 \pi )  cos ( kx ) cos ( lx )  dx = 0$$ pour tous entiers $$k
-    != l$$, et $$∫_(  0)^(  2 \pi ) sin ( kx ) cos ( lx )  dx = 0$$ pour tous entiers
-    k et l. '
+  - "1 à l'article: Exemples: \n\n<ul> \n\n<li>Les polynômes de Legendre P constituent
+    un système de fonctions orthogonales sur l'intervalle $$- 1 ,   + 1$$ parce que
+    $$∫_(   - 1)^(   + 1) P_k ( x ) P_l ( x ) d x = 0$$ pour tous entiers $$k != l$$.</li>
+    \n\n<li>Les polynômes de Laguerre L constituent un système de fonctions orthogonales
+    sur l'intervalle $$0 ,   + oo$$ avec le poids $$e x p ( - x )$$ parce que $$∫_(
+      0)^(   + oo) L_k ( x ) L_l ( x ) exp ( - x ) d x = 0$$ pour tous entiers $$k
+    != l$$.</li> \n\n<li>Les fonctions trigonométriques sinus et cosinus constituent
+    un système de fonctions orthogonales sur l'intervalle $$0 ,   2 pi$$ parce que
+    $$∫_(   0)^(   2 pi) sin ( k x ) sin ( l x ) d x = 0$$ et $$∫_(   0)^(   2 pi)
+    cos ( k x ) cos ( l x ) d x = 0$$ pour tous entiers $$k != l$$, et $$∫_(   0)^(
+      2 pi) sin ( k x ) cos ( l x ) d x = 0$$ pour tous entiers $$k$$ et $$l$$. </li></ul>"
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -35,12 +35,10 @@ eng:
     designation: life test
   - type: expression
     designation: durability test
-  definition: |-
-    test conducted to estimate or verify durability
-
-    Note 1 to entry: See also durability, <of an item> ({{192-01-21, IEV:192-01-21}}).
+  definition: test conducted to estimate or verify durability
   language_code: eng
-  notes: []
+  notes:
+  - See also durability, &lt;of an item&gt; ({{192-01-21, IEV:192-01-21}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -63,7 +61,7 @@ fre:
   definition: essai destiné à estimer ou à vérifier la durabilité
   language_code: fre
   notes:
-  - Voir aussi durabilité, <d’une entité> ({{192-01-21, IEV:192-01-21}}).
+  - '1 à l’article: Voir aussi durabilité, &lt;d’une entité&gt; ({{192-01-21, IEV:192-01-21}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

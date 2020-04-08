@@ -43,8 +43,8 @@ eng:
   definition: time interval for which the item is in an idle state
   language_code: eng
   notes:
-  - IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) identified
-    “free time” as a synonym, which is not true in all applications.
+  - '1 to entry: IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015)
+    identified “free time” as a synonym, which is not true in all applications.'
   examples: []
   entry_status: Standard
   classification: Deprecated
@@ -74,9 +74,9 @@ fre:
   definition: intervalle de temps pendant lequel une entité est dans un état vacant
   language_code: fre
   notes:
-  - L’IEC 60050-191:1990 (supprimée; remplacée par l'IEC 60050-192:2015) identifiait
-    le terme «temps libre» comme un synonyme, ce qui n’est pas vrai pour toutes les
-    applications.
+  - '1 à l’article: L’IEC 60050-191:1990 (supprimée; remplacée par l''IEC 60050-192:2015)
+    identifiait le terme «temps libre» comme un synonyme, ce qui n’est pas vrai pour
+    toutes les applications.'
   examples: []
   entry_status: Standard
   classification: Preferred

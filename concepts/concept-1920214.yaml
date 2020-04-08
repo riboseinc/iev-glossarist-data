@@ -49,12 +49,12 @@ eng:
   - type: expression
     normativeStatus: deprecated
     designation: free state
-  definition: |-
-    non-operating up state during non-required time
-
-    Note 1 to entry: The adjective “idle” designates an item in an idle state. Note 2 to entry: In some applications, an item in an idle state has some functioning subsystems, and is therefore considered to be operating.
+  definition: non-operating up state during non-required time
   language_code: eng
-  notes: []
+  notes:
+  - The adjective “idle” designates an item in an idle state.
+  - In some applications, an item in an idle state has some functioning subsystems,
+    and is therefore considered to be operating.
   examples: []
   entry_status: Standard
   classification: Deprecated
@@ -81,9 +81,10 @@ fre:
     requise
   language_code: fre
   notes:
-  - 'L’adjectif «vacant» qualifie une entité se trouvant dans un état vacant. '
-  - Une entité dans un état vacant dont certaines sous-entités fonctionnent serait
-    considérée comme en fonctionnement.
+  - '1 à l’article: L’adjectif «vacant» qualifie une entité se trouvant dans un état
+    vacant.'
+  - '2 à l’article: Une entité dans un état vacant dont certaines sous-entités fonctionnent
+    serait considérée comme en fonctionnement.'
   examples: []
   entry_status: Standard
   classification: Deprecated

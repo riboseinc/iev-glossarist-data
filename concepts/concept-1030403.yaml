@@ -45,10 +45,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: inverse Fourier transform
-  definition: representation of a real or complex function f(t) of the real variable
-    t by the integral transformation  $$f ( t ) = (1)/(( 2 \pi ))  ∫_(   - oo )^(
-      + oo ) F ( \omega ) e^( j \omega t ) d \omega$$ where $$F ( \omega )$$ is the
-    Fourier transform of the function $$f ( t )$$ and j is the imaginary unit
+  definition: "representation of a real or complex function $$f$$($$t$$) of the real
+    variable $$t$$ by the integral transformation \n\n $$f ( t ) = (1)/(( 2 pi ))
+    ∫_(   - oo )^(   + oo ) F ( omega ) e^( j omega t ) d omega$$ \n\nwhere $$F (
+    omega )$$ is the Fourier transform of the function $$f ( t )$$ and j is the imaginary
+    unit"
   language_code: eng
   notes: []
   examples: []
@@ -66,10 +67,11 @@ fre:
     designation: transformée inverse de Fourier
     gender: f
     plurality: singular
-  definition: représentation d'une fonction réelle ou complexe f(t) de la variable
-    réelle t par la transformation intégrale  $$f ( t ) = (1)/(( 2 \pi ))  ∫_(   -
-    oo )^(   + oo ) F ( \omega ) e^( j \omega t ) d \omega$$ où $$F ( \omega )$$ est
-    la transformée de Fourier de la fonction $$f ( t )$$ et j est l’unité imaginaire
+  definition: "représentation d'une fonction réelle ou complexe $$f$$($$t$$) de la
+    variable réelle $$t$$ par la transformation intégrale \n\n $$f ( t ) = (1)/((
+    2 pi )) ∫_(   - oo )^(   + oo ) F ( omega ) e^( j omega t ) d omega$$ \n\noù $$F
+    ( omega )$$ est la transformée de Fourier de la fonction $$f ( t )$$ et j est
+    l’unité imaginaire"
   language_code: fre
   notes: []
   examples: []

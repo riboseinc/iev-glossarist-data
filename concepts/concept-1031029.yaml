@@ -51,8 +51,8 @@ eng:
     of a specified time-dependent quantity has a minimum value
   language_code: eng
   notes:
-  - If the node is not an isolated point, the terms "nodal line", "nodal plan", or
-    "nodal surface" are used.
+  - '1 to entry: If the node is not an isolated point, the terms "nodal line", "nodal
+    plan", or "nodal surface" are used.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -73,8 +73,8 @@ fre:
     variant dans le temps a une valeur minimale
   language_code: fre
   notes:
-  - Si le nœud n'est pas un point isolé, on emploie les termes «ligne nodale», «plan
-    nodal» ou «surface nodale».
+  - '1 à l''article: Si le nœud n''est pas un point isolé, on emploie les termes «ligne
+    nodale», «plan nodal» ou «surface nodale».'
   examples: []
   entry_status: Standard
   review_decision_event: published

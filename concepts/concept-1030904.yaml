@@ -43,7 +43,7 @@ eng:
     or a power
   language_code: eng
   notes:
-  - A power spectrum can be continuous or discrete.
+  - '1 to entry: A power spectrum can be continuous or discrete.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -63,7 +63,7 @@ fre:
     ou une puissance
   language_code: fre
   notes:
-  - Un spectre de puissance peut être continu ou discret.
+  - '1 à l''article: Un spectre de puissance peut être continu ou discret.'
   examples: []
   entry_status: Standard
   review_decision_event: published

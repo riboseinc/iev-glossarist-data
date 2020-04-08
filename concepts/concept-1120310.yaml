@@ -58,10 +58,10 @@ eng:
     of that quantity by the mass
   language_code: eng
   notes:
-  - 'The symbol of the specific quantity associated with a given quantity is often
-    the lower-case letter corresponding to the symbol of the given quantity. Examples:
-    volume V, specific volume v; heat capacity C, specific heat capacity c; activity
-    A, specific activity a.'
+  - '1 to entry: The symbol of the specific quantity associated with a given quantity
+    is often the lower-case letter corresponding to the symbol of the given quantity.
+    Examples: volume $$V$$, specific volume $$v$$; heat capacity $$C$$, specific heat
+    capacity $$c$$; activity $$A$$, specific activity $$a$$.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -82,10 +82,10 @@ fre:
     de la grandeur par une masse
   language_code: fre
   notes:
-  - 'Le symbole de la grandeur massique associée à une grandeur donnée est souvent
-    la lettre minuscule correspondant au symbole de la grandeur donnée. Exemples:
-    volume V, volume massique v; capacité thermique C, capacité thermique massique
-    c; activité A, activité massique a.'
+  - '1 à l’article: Le symbole de la grandeur massique associée à une grandeur donnée
+    est souvent la lettre minuscule correspondant au symbole de la grandeur donnée.
+    Exemples: volume $$V$$, volume massique $$v$$; capacité thermique $$C$$, capacité
+    thermique massique $$c$$; activité $$A$$, activité massique $$a$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

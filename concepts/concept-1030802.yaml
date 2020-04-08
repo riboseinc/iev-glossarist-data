@@ -43,10 +43,10 @@ eng:
     quantitatively how likely the occurrence of that event is
   language_code: eng
   notes:
-  - 'Probability can be related to a long-run frequency of occurrence or to a degree
-    of belief that an event will occur. '
-  - The limiting cases that the event will surely not occur or that it will surely
-    occur are denoted by the probabilities 0 and 1, respectively.
+  - '1 to entry: Probability can be related to a long-run frequency of occurrence
+    or to a degree of belief that an event will occur.'
+  - '2 to entry: The limiting cases that the event will surely not occur or that it
+    will surely occur are denoted by the probabilities 0 and 1, respectively.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -67,10 +67,12 @@ fre:
     de cet événement
   language_code: fre
   notes:
-  - 'La probabilité peut se rapporter à une fréquence relative d''une occurrence dans
-    une longue série ou à un degré de croyance qu''un événement se produira. '
-  - Les cas limites d'un événement qui ne se réalisera sûrement pas et d'un événement
-    qui se réalisera sûrement sont associés respectivement aux probabilités 0 et 1.
+  - '1 à l''article: La probabilité peut se rapporter à une fréquence relative d''une
+    occurrence dans une longue série ou à un degré de croyance qu''un événement se
+    produira.'
+  - '2 à l''article: Les cas limites d''un événement qui ne se réalisera sûrement
+    pas et d''un événement qui se réalisera sûrement sont associés respectivement
+    aux probabilités 0 et 1.'
   examples: []
   entry_status: Standard
   review_decision_event: published

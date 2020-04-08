@@ -43,7 +43,7 @@ eng:
   language_code: eng
   notes:
   - Examples of off-system units with respect to the SI are the unit of energy electronvolt
-    (about 1,602 18 × 10–19 J) and the units of time day, hour, and minute.
+    (about 1,602 18 × 10<sup>–19</sup> J) and the units of time day, hour, and minute.
   examples: []
   entry_status: Standard
   date_accepted: '2010-01-01T00:00:00+00:00'
@@ -63,7 +63,8 @@ fre:
   language_code: fre
   notes:
   - Des exemples d'unités hors système pour le SI sont l'unité d'énergie électronvolt
-    (environ 1,602 18 × 10–19 J) et les unités de temps jour, heure et minute.
+    (environ 1,602 18 × 10<sup>–19</sup> J) et les unités de temps jour, heure et
+    minute.
   examples: []
   entry_status: Standard
   authoritative_source:

@@ -52,11 +52,12 @@ eng:
     normativeStatus: preferred
     usageInfo: of a random variable;
     designation: mean
-  definition: for a discrete random variable X taking the values $$x_i$$ with the
-    probabilities $$p_i$$, the sum $$E ( X ) =  sum_i p_i x_i$$extended for all values
-    $$x_i$$ which can be taken by X  for a continuous random variable X having the
-    probability density function $$f ( x )$$, the value of the integral  $$E ( X )
-    =  ∫  x f ( x ) dx$$ extended for all values of the interval of variation of X
+  definition: "<ol>\n  <li>for a discrete random variable $$X$$ taking the values
+    $$x_i$$ with the probabilities $$p_i$$, the sum \n\n$$E ( X ) = sum_i p_i x_i$$\n\nextended
+    for all values $$x_i$$ which can be taken by $$X$$ </li>\n  <li> for a continuous
+    random variable $$X$$ having the probability density function $$f ( x )$$, the
+    value of the integral \n\n $$E ( X ) = ∫ x   f ( x ) d x$$ \n\nextended for all
+    values of the interval of variation of $$X$$</li>\n</ol>"
   language_code: eng
   notes: []
   examples: []
@@ -88,11 +89,12 @@ fre:
     designation: moyenne
     gender: f
     plurality: singular
-  definition: pour une variable aléatoire discrète X prenant les valeurs $$x_i$$ avec
-    les probabilités $$p_i$$, somme  $$E ( X ) =  sum_i p_i x_i$$ étendue à toutes
-    les valeurs $$x_i$$ susceptibles d'être prises par X  pour une variable aléatoire
-    continue X de densité de probabilité $$f ( x )$$, valeur de l'intégrale  $$E (
-    X ) =  ∫  x f ( x ) dx$$ étendue à tout le domaine de variation de X
+  definition: "<ol>\n  <li>pour une variable aléatoire discrète $$X$$ prenant les
+    valeurs $$x_i$$ avec les probabilités $$p_i$$, somme \n\n $$E ( X ) = sum_i p_i
+    x_i$$ \n\nétendue à toutes les valeurs $$x_i$$ susceptibles d'être prises par
+    $$X$$ </li>\n  <li> pour une variable aléatoire continue $$X$$ de densité de probabilité
+    $$f ( x )$$, valeur de l'intégrale \n\n $$E ( X ) = ∫ x   f ( x ) d x$$ \n\nétendue
+    à tout le domaine de variation de $$X$$</li>\n</ol>"
   language_code: fre
   notes: []
   examples: []

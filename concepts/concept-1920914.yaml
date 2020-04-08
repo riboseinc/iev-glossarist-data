@@ -39,12 +39,18 @@ eng:
     designation: glass-box testing
   - type: expression
     designation: clear-box testing
-  definition: |-
-    testing in which test cases are chosen using knowledge of the internal structure of the item under test
-
-    Note 1 to entry: White-box testing aims to achieve a defined level of coverage of the internal structure of the item under test and to correct any faults that are revealed. The technique is normally applied to software but the same approach can be used for hardware. Note 2 to entry: Software coverage may be measured at various levels, e.g., by the proportion of statements, branches, or paths through the code that have been executed. Note 3 to entry: White-box testing is usually employed at lower levels of software testing such as for unit or integration test.
+  definition: testing in which test cases are chosen using knowledge of the internal
+    structure of the item under test
   language_code: eng
-  notes: []
+  notes:
+  - White-box testing aims to achieve a defined level of coverage of the internal
+    structure of the item under test and to correct any faults that are revealed.
+    The technique is normally applied to software but the same approach can be used
+    for hardware.
+  - Software coverage may be measured at various levels, e.g., by the proportion of
+    statements, branches, or paths through the code that have been executed.
+  - White-box testing is usually employed at lower levels of software testing such
+    as for unit or integration test.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -72,15 +78,15 @@ fre:
     de la structure interne de l’entité soumise à essai
   language_code: fre
   notes:
-  - 'Les essais structuraux ont pour objet d’obtenir un niveau défini de couverture
-    de la structure interne de l’entité soumise à essai et de corriger toutes les
-    pannes révélées. En règle générale, la technique s’applique aux logiciels, mais
-    la même approche peut être utilisée pour le matériel. '
-  - 'La couverture logicielle peut être mesurée à différents niveaux, par exemple
-    la proportion d’instructions, de branches ou de chemins à travers le code qui
-    ont été exécutés. '
-  - En général, les essais structuraux sont effectués à des niveaux inférieurs d’essai
-    logiciel, par exemple pour un essai d’unité ou d’intégration.
+  - '1 à l’article: Les essais structuraux ont pour objet d’obtenir un niveau défini
+    de couverture de la structure interne de l’entité soumise à essai et de corriger
+    toutes les pannes révélées. En règle générale, la technique s’applique aux logiciels,
+    mais la même approche peut être utilisée pour le matériel.'
+  - '2 à l’article: La couverture logicielle peut être mesurée à différents niveaux,
+    par exemple la proportion d’instructions, de branches ou de chemins à travers
+    le code qui ont été exécutés.'
+  - '3 à l’article: En général, les essais structuraux sont effectués à des niveaux
+    inférieurs d’essai logiciel, par exemple pour un essai d’unité ou d’intégration.'
   examples: []
   entry_status: Standard
   review_decision_event: published

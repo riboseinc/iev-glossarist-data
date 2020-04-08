@@ -35,10 +35,7 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: embedded software
-  definition: |-
-    software within a system whose primary purpose is not computational
-
-    EXAMPLE The software in the engine management system; brake control system of a motor vehicle.
+  definition: software within a system whose primary purpose is not computational
   language_code: eng
   notes: []
   examples:
@@ -62,10 +59,8 @@ fre:
     designation: logiciel enfoui
     gender: m
     plurality: singular
-  definition: |-
-    logiciel installé dans un système, dont l’objectif principal n’est pas d’effectuer des calculs
-
-    EXEMPLE Le logiciel présent dans le système de gestion du moteur ou le système de commande de freinage d’un véhicule à moteur.
+  definition: logiciel installé dans un système, dont l’objectif principal n’est pas
+    d’effectuer des calculs
   language_code: fre
   notes: []
   examples:

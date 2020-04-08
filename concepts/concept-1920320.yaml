@@ -34,12 +34,11 @@ eng:
     normativeStatus: preferred
     usageInfo: of a latent fault;
     designation: manifestation
-  definition: |-
-    failure that reveals a latent fault
-
-    Note 1 to entry: The term is usually applied to software faults, but may be used to denote a failure due to any type of latent fault.
+  definition: failure that reveals a latent fault
   language_code: eng
-  notes: []
+  notes:
+  - The term is usually applied to software faults, but may be used to denote a failure
+    due to any type of latent fault.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,8 +58,8 @@ fre:
   definition: défaillance révélant une panne latente
   language_code: fre
   notes:
-  - En général, le terme s’applique aux pannes logicielles, mais il peut être utilisé
-    pour désigner une défaillance due à tout type de panne latente.
+  - '1 à l’article: En général, le terme s’applique aux pannes logicielles, mais il
+    peut être utilisé pour désigner une défaillance due à tout type de panne latente.'
   examples: []
   entry_status: Standard
   review_decision_event: published

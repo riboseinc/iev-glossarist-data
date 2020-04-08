@@ -42,8 +42,8 @@ eng:
   definition: maximum value of a scalar sinusoidal quantity
   language_code: eng
   notes:
-  - For the quantity $$a ( t ) = hat A cos ( \omega  t + \vartheta_0 )$$, the amplitude
-    is $$hat A$$.
+  - '1 to entry: For the quantity $$a ( t ) = hat A cos ( omega   t + vartheta_0 )$$,
+    the amplitude is $$hat A$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -62,8 +62,8 @@ fre:
   definition: valeur maximale d'une grandeur sinusoïdale scalaire
   language_code: fre
   notes:
-  - Pour la grandeur $$a ( t ) = hat A cos ( \omega  t + \vartheta_0 )$$, l'amplitude
-    est $$hat A$$.
+  - '1 à l''article: Pour la grandeur $$a ( t ) = hat A cos ( omega   t + vartheta_0
+    )$$, l''amplitude est $$hat A$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

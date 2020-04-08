@@ -35,17 +35,15 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: life cycle
-  definition: |-
-    series of identifiable stages through which an item goes, from its conception to disposal
-
-    EXAMPLE A typical system lifecycle consists of: concept and definition; design and development; construction, installation and commissioning; operation and maintenance; mid-life upgrading, or life extension; and decommissioning and disposal. Note 1 to entry: The stages identified will vary with the application.
+  definition: series of identifiable stages through which an item goes, from its conception
+    to disposal
   language_code: eng
-  notes: []
+  notes:
+  - The stages identified will vary with the application.
   examples:
   - 'A typical system lifecycle consists of: concept and definition; design and development;
     construction, installation and commissioning; operation and maintenance; mid-life
-    upgrading, or life extension; and decommissioning and disposal. Note 1 to entry:
-    The stages identified will vary with the application.'
+    upgrading, or life extension; and decommissioning and disposal.'
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
   date_amended: '2015-02-01T00:00:00+00:00'
@@ -60,19 +58,16 @@ fre:
     designation: cycle de vie
     gender: m
     plurality: singular
-  definition: |-
-    suite des étapes identifiables que traverse une entité, de sa conception à sa mise au rebut
-
-    EXEMPLE Le cycle de vie classique d’un système comprend les phases suivantes: faisabilité et définition, conception et développement, fabrication et mise en service, exploitation et maintenance, rénovation en cours de vie ou prolongation de la durée de vie, mise hors service et mise au rebut.
+  definition: suite des étapes identifiables que traverse une entité, de sa conception
+    à sa mise au rebut
   language_code: fre
   notes:
-  - Les étapes identifiées varient en fonction de l’application.
+  - '1 à l’article: Les étapes identifiées varient en fonction de l’application.'
   examples:
   - 'Le cycle de vie classique d’un système comprend les phases suivantes: faisabilité
     et définition, conception et développement, fabrication et mise en service, exploitation
     et maintenance, rénovation en cours de vie ou prolongation de la durée de vie,
-    mise hors service et mise au rebut. Note 1 à l’article: Les étapes identifiées
-    varient en fonction de l’application.'
+    mise hors service et mise au rebut.'
   entry_status: Standard
   review_decision_event: published
 jpn:

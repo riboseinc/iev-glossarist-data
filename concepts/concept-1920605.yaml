@@ -37,12 +37,12 @@ eng:
     designation: preventive maintenance
   - type: expression
     designation: preventative maintenance
-  definition: |-
-    maintenance carried out to mitigate degradation and reduce the probability of failure
-
-    Note 1 to entry: See also condition-based maintenance ({{192-06-07, IEV:192-06-07}}), and scheduled maintenance ({{192-06-12, IEV:192-06-12}}).
+  definition: maintenance carried out to mitigate degradation and reduce the probability
+    of failure
   language_code: eng
-  notes: []
+  notes:
+  - See also condition-based maintenance ({{192-06-07, IEV:192-06-07}}), and scheduled
+    maintenance ({{192-06-12, IEV:192-06-12}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -66,8 +66,8 @@ fre:
     de défaillance
   language_code: fre
   notes:
-  - Voir aussi maintenance conditionnelle ({{192-06-07, IEV:192-06-07}}) et maintenance
-    programmée ({{192-06-12, IEV:192-06-12}}).
+  - '1 à l’article: Voir aussi maintenance conditionnelle ({{192-06-07, IEV:192-06-07}})
+    et maintenance programmée ({{192-06-12, IEV:192-06-12}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

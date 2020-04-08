@@ -35,12 +35,14 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: wear-out failure
-  definition: |-
-    failure due to cumulative deterioration caused by the stresses imposed in use
-
-    Note 1 to entry: The probability of occurrence of a wear-out failure typically increases with the accumulated operating time, number of operations, and/or stress applications. Note 2 to entry: In some instances, it may be difficult to distinguish between wear-out and ageing phenomena.
+  definition: failure due to cumulative deterioration caused by the stresses imposed
+    in use
   language_code: eng
-  notes: []
+  notes:
+  - The probability of occurrence of a wear-out failure typically increases with the
+    accumulated operating time, number of operations, and/or stress applications.
+  - In some instances, it may be difficult to distinguish between wear-out and ageing
+    phenomena.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,11 +62,11 @@ fre:
     imposées en cours d’utilisation
   language_code: fre
   notes:
-  - 'En règle générale, la probabilité d’occurrence d’une défaillance par usure augmente
-    avec le temps cumulé de fonctionnement, le nombre de fonctionnements ou les contrainte
-    appliquées. '
-  - Dans certains cas, la distinction entre les phénomènes d’usure et de vieillissement
-    peut s’avérer difficile.
+  - '1 à l’article: En règle générale, la probabilité d’occurrence d’une défaillance
+    par usure augmente avec le temps cumulé de fonctionnement, le nombre de fonctionnements
+    ou les contrainte appliquées.'
+  - '2 à l’article: Dans certains cas, la distinction entre les phénomènes d’usure
+    et de vieillissement peut s’avérer difficile.'
   examples: []
   entry_status: Standard
   review_decision_event: published

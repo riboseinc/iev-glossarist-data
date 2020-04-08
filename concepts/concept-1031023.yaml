@@ -44,9 +44,9 @@ eng:
     is not interpretable by geometric optics
   language_code: eng
   notes:
-  - A diffracted wave may exist in regions which, according to the interpretation
+  - '1 to entry: A diffracted wave may exist in regions which, according to the interpretation
     of geometric optics, are not reached by the incident wave or by reflected or refracted
-    waves.
+    waves.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -67,8 +67,9 @@ fre:
     ouvertures, et qui n'est pas interprétable par l'optique géométrique
   language_code: fre
   notes:
-  - Une onde diffractée peut exister dans des régions qui, selon l'optique géométrique,
-    ne sont pas atteintes par l'onde incidente ou par des ondes réfléchies ou réfractées.
+  - '1 à l''article: Une onde diffractée peut exister dans des régions qui, selon
+    l''optique géométrique, ne sont pas atteintes par l''onde incidente ou par des
+    ondes réfléchies ou réfractées.'
   examples: []
   entry_status: Standard
   review_decision_event: published

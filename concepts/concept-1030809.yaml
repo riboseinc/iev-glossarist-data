@@ -51,8 +51,8 @@ eng:
     designation: probability density function
   - type: expression
     designation: PDF
-  definition: for the distribution function f of the argument x, derivative $$df (
-    x ) // dx$$
+  definition: for the distribution function $$f$$ of the argument $$x$$, derivative
+    $$d f ( x ) // d x$$
   language_code: eng
   notes: []
   examples: []
@@ -74,8 +74,8 @@ fre:
     designation: fonction de densité de probabilité
     gender: f
     plurality: singular
-  definition: dérivée $$df ( x ) // dx$$ de la fonction de répartition f de l'argument
-    x
+  definition: dérivée $$d f ( x ) // d x$$ de la fonction de répartition $$f$$ de
+    l'argument $$x$$
   language_code: fre
   notes: []
   examples: []

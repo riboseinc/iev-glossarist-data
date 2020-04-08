@@ -36,14 +36,14 @@ eng:
     normativeStatus: preferred
     designation: form factor
   - type: symbol
-    designation: F
+    designation: "$$F$$"
     international: true
   definition: ratio of the {{RMS value, IEV:103-02-03}} of an {{alternating, IEV:103-06-03}}
     quantity to its rectified value
   language_code: eng
   notes:
-  - For an alternating quantity x with RMS value $$X_(( eff))$$, the form factor is
-    $$F = X_(( eff )) // bar  | x |$$.
+  - '1 to entry: For an alternating quantity $$x$$ with RMS value $$X_(( e f f))$$,
+    the form factor is $$F = X_(( e f f )) // bar | x |$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2017-07-01T00:00:00+00:00'
@@ -64,8 +64,8 @@ fre:
     d'une grandeur {{alternative, IEV:103-06-03}}
   language_code: fre
   notes:
-  - Pour une grandeur alternative x de valeur efficace $$X_(( eff))$$, le facteur
-    de forme est $$F = X_(( eff )) // bar  | x |$$.
+  - '1 à l''article: Pour une grandeur alternative $$x$$ de valeur efficace $$X_((
+    e f f))$$, le facteur de forme est $$F = X_(( e f f )) // bar | x |$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

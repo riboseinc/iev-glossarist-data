@@ -39,12 +39,11 @@ eng:
     designation: MTBF
   - type: expression
     designation: MOTBF
-  definition: |-
-    expectation of the duration of the operating time between failures
-
-    Note 1 to entry: Mean operating time between failures should only be applied to repairable items. For non-repairable items, see mean operating time to failure ({{192-05-11, IEV:192-05-11}}).
+  definition: expectation of the duration of the operating time between failures
   language_code: eng
-  notes: []
+  notes:
+  - Mean operating time between failures should only be applied to repairable items.
+    For non-repairable items, see mean operating time to failure ({{192-05-11, IEV:192-05-11}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -65,12 +64,12 @@ fre:
     designation: MTBF
     gender: f
     plurality: singular
-  definition: |-
-    espérance mathématique du temps de bon fonctionnement
-
-    Note 1 à l’article: Il convient de n’appliquer la moyenne des temps de bon fonctionnement qu’aux entités réparables. Pour les entités non réparables, voir durée moyenne de fonctionnement avant défaillance ({{192-05-11, IEV:192-05-11}}).
+  definition: espérance mathématique du temps de bon fonctionnement
   language_code: fre
-  notes: []
+  notes:
+  - Il convient de n’appliquer la moyenne des temps de bon fonctionnement qu’aux entités
+    réparables. Pour les entités non réparables, voir durée moyenne de fonctionnement
+    avant défaillance ({{192-05-11, IEV:192-05-11}}).
   examples: []
   entry_status: Standard
   classification: Preferred

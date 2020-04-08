@@ -33,12 +33,12 @@ eng:
     designation: early life failure period
   - type: expression
     designation: infant mortality period
-  definition: |-
-    time interval of early life during which the instantaneous failure intensity of a repairable item, or the instantaneous failure rate of a non-repairable item, decreases significantly with time
-
-    Note 1 to entry: What is considered “significantly” will depend upon the application.
+  definition: time interval of early life during which the instantaneous failure intensity
+    of a repairable item, or the instantaneous failure rate of a non-repairable item,
+    decreases significantly with time
   language_code: eng
-  notes: []
+  notes:
+  - What is considered “significantly” will depend upon the application.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,7 +60,7 @@ fre:
     en fonction du temps
   language_code: fre
   notes:
-  - La décroissance considérée comme importante dépend de l’application.
+  - '1 à l’article: La décroissance considérée comme importante dépend de l’application.'
   examples: []
   entry_status: Standard
   review_decision_event: published

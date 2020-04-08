@@ -34,12 +34,16 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: failure
-  definition: |-
-    loss of ability to perform as required
-
-    Note 1 to entry: A failure of an item is an event that results in a fault of that item: see "fault" ({{IEV 192-04-01, IEV:192-04-01}}). Note 2 to entry: Qualifiers, such as catastrophic, critical, major, minor, marginal and insignificant, can be used to categorize failures according to the severity of consequences, the choice and definitions of severity criteria depending upon the field of application. Note 3 to entry: Qualifiers, such as misuse, mishandling and weakness, can be used to categorize failures according to the cause of failure.
+  definition: loss of ability to perform as required
   language_code: eng
-  notes: []
+  notes:
+  - 'A failure of an item is an event that results in a fault of that item: see "fault"
+    ({{IEV 192-04-01, IEV:192-04-01}}).'
+  - Qualifiers, such as catastrophic, critical, major, minor, marginal and insignificant,
+    can be used to categorize failures according to the severity of consequences,
+    the choice and definitions of severity criteria depending upon the field of application.
+  - Qualifiers, such as misuse, mishandling and weakness, can be used to categorize
+    failures according to the cause of failure.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,14 +63,15 @@ fre:
   definition: perte de l’aptitude à fonctionner tel que requis
   language_code: fre
   notes:
-  - 'La défaillance d’une entité est un événement qui provoque une panne de cette
-    entité: voir "panne" ({{IEV 192-04-01, IEV:192-04-01}}). '
-  - 'Des qualificatifs tels que catastrophique, critique, majeur, mineur, marginal
-    et non significative peuvent être utilisés pour classer les défaillances en fonction
-    de la gravité des conséquences, selon des critères de gravité dont le choix et
-    les définitions dépendent du domaine d’application. '
-  - Des compléments tels que «par mauvais emploi», «par fausse manœuvre» et «par fragilité»
-    peuvent être utilisés pour classer les défaillances selon leur cause.
+  - '1 à l’article: La défaillance d’une entité est un événement qui provoque une
+    panne de cette entité: voir "panne" ({{IEV 192-04-01, IEV:192-04-01}}).'
+  - '2 à l’article: Des qualificatifs tels que catastrophique, critique, majeur, mineur,
+    marginal et non significative peuvent être utilisés pour classer les défaillances
+    en fonction de la gravité des conséquences, selon des critères de gravité dont
+    le choix et les définitions dépendent du domaine d’application.'
+  - '3 à l’article: Des compléments tels que «par mauvais emploi», «par fausse manœuvre»
+    et «par fragilité» peuvent être utilisés pour classer les défaillances selon leur
+    cause.'
   examples: []
   entry_status: Standard
   review_decision_event: published

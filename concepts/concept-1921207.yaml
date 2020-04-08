@@ -31,12 +31,14 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: formal design review
-  definition: |-
-    independent, documented examination of a design and its requirements to assess the design’s ability to meet specified and implied requirements of the item concerned
-
-    Note 1 to entry: In this context, “design” includes requirements, specifications, drawings, and supporting documentation. Note 2 to entry: See IEC 61160 for more detail on design review practices.
+  definition: independent, documented examination of a design and its requirements
+    to assess the design’s ability to meet specified and implied requirements of the
+    item concerned
   language_code: eng
-  notes: []
+  notes:
+  - In this context, “design” includes requirements, specifications, drawings, and
+    supporting documentation.
+  - See IEC 61160 for more detail on design review practices.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -57,9 +59,10 @@ fre:
     et implicites de l’entité concernée
   language_code: fre
   notes:
-  - 'Dans ce contexte, la «conception» inclut les exigences, les spécifications, les
-    dessins et la documentation d’accompagnement. '
-  - Voir l'IEC 61160 pour plus de détails sur les pratiques liées à la revue de conception.
+  - '1 à l’article: Dans ce contexte, la «conception» inclut les exigences, les spécifications,
+    les dessins et la documentation d’accompagnement.'
+  - '2 à l’article: Voir l''IEC 61160 pour plus de détails sur les pratiques liées
+    à la revue de conception.'
   examples: []
   entry_status: Standard
   review_decision_event: published

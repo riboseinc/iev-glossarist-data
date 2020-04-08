@@ -39,9 +39,9 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: distribution function
-  definition: function f of the argument x giving the probability f(x) that the value  of
-    a random variable be less than or equal to the value x, i.e. the probability that
-    $$\xi <= x$$
+  definition: function $$f$$ of the argument $$x$$ giving the probability $$f$$($$x$$)
+    that the value $$$$ of a random variable be less than or equal to the value $$x$$,
+    i.e. the probability that $$xi &lt;= x$$
   language_code: eng
   notes: []
   examples: []
@@ -59,9 +59,9 @@ fre:
     designation: fonction de répartition
     gender: f
     plurality: singular
-  definition: fonction f de l'argument x donnant la probabilité f(x) que la valeur  d'une
-    variable aléatoire soit inférieure ou égale à la valeur x, c'est-à-dire la probabilité
-    que $$\xi <= x$$
+  definition: fonction $$f$$ de l'argument $$x$$ donnant la probabilité $$f$$($$x$$)
+    que la valeur $$$$ d'une variable aléatoire soit inférieure ou égale à la valeur
+    $$x$$, c'est-à-dire la probabilité que $$xi &lt;= x$$
   language_code: fre
   notes: []
   examples: []

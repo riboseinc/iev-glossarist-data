@@ -41,14 +41,14 @@ eng:
     normativeStatus: preferred
     usageInfo: in statistics;
     designation: variance
-  definition: 'measure of dispersion equal to the sum of the squared deviations from
+  definition: "measure of dispersion equal to the sum of the squared deviations from
     the mean value divided by the number of deviations or by that number minus 1,
-    depending upon the cases considered: (1) variance of the whole population of N
-    items: $$(1)/(N)  sum_(( j = 1))^N  ( x_j  - bar X )^2$$ (2) variance of the sample
-    of n observations: $$(1)/(n)  sum_(( j = 1))^n  ( x_j  - bar X )^2$$ (3) estimate
-    of the variance of the population from a sample: $$(1)/(( n - 1))  sum_(( j =
-    1))^n  ( x_j  - bar X )^2$$ where $$bar X$$ is the mean value of the items of
-    observation $$x_j$$ considered'
+    depending upon the cases considered: \n\n(1) variance of the whole population
+    of $$N$$ items: $$(1)/(N) sum_(( j = 1))^N ( x_j - bar X )^2$$ \n\n(2) variance
+    of the sample of $$n$$ observations: $$(1)/(n) sum_(( j = 1))^n ( x_j - bar X
+    )^2$$ \n\n(3) estimate of the variance of the population from a sample: $$(1)/((
+    n - 1)) sum_(( j = 1))^n ( x_j - bar X )^2$$ \n\nwhere $$bar X$$ is the mean value
+    of the items of observation $$x_j$$ considered"
   language_code: eng
   notes: []
   examples: []
@@ -67,14 +67,14 @@ fre:
     designation: variance
     gender: f
     plurality: singular
-  definition: 'mesure de la dispersion égale au quotient de la somme des carrés des
-    écarts à la valeur moyenne par le nombre des écarts ou par ce nombre diminué d''une
-    unité, selon les cas envisagés: (1) variance de la population totale de N individus:
-    $$(1)/(N)  sum_(( j = 1))^N  ( x_j  - bar X )^2$$(2) variance d''un échantillon
-    de n observations: $$(1)/(n)  sum_(( j = 1))^n  ( x_j  - bar X )^2$$(3) estimation
-    de la variance de la population à partir d''un échantillon: $$(1)/(( n - 1))  sum_((
-    j = 1))^n  ( x_j  - bar X )^2$$où $$bar X$$ est la valeur moyenne des entités
-    $$x_j$$ considérées'
+  definition: "mesure de la dispersion égale au quotient de la somme des carrés des
+    écarts à la valeur moyenne par le nombre des écarts ou par ce nombre diminué d'une
+    unité, selon les cas envisagés: \n\n(1) variance de la population totale de $$N$$
+    individus: $$(1)/(N) sum_(( j = 1))^N ( x_j - bar X )^2$$\n\n(2) variance d'un
+    échantillon de $$n$$ observations: $$(1)/(n) sum_(( j = 1))^n ( x_j - bar X )^2$$\n\n(3)
+    estimation de la variance de la population à partir d'un échantillon: $$(1)/((
+    n - 1)) sum_(( j = 1))^n ( x_j - bar X )^2$$\n\noù $$bar X$$ est la valeur moyenne
+    des entités $$x_j$$ considérées"
   language_code: fre
   notes: []
   examples: []

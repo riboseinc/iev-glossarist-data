@@ -31,12 +31,16 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: software maintenance
-  definition: |-
-    modification for the purposes of software fault removal, adaptation to a new environment, or improvement of performance
-
-    Note 1 to entry: Software maintenance activities carried out for these three purposes are referred to as: corrective maintenance ({{192-06-06, IEV:192-06-06}}); adaptive maintenance ({{192-06-16, IEV:192-06-16}}); and perfective maintenance ({{192-06-17, IEV:192-06-17}}), respectively. Note 2 to entry: Following maintenance, the state of a software item is different than its previous state.
+  definition: modification for the purposes of software fault removal, adaptation
+    to a new environment, or improvement of performance
   language_code: eng
-  notes: []
+  notes:
+  - 'Software maintenance activities carried out for these three purposes are referred
+    to as: corrective maintenance ({{192-06-06, IEV:192-06-06}}); adaptive maintenance
+    ({{192-06-16, IEV:192-06-16}}); and perfective maintenance ({{192-06-17, IEV:192-06-17}}),
+    respectively.'
+  - Following maintenance, the state of a software item is different than its previous
+    state.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,11 +60,12 @@ fre:
     à un nouvel environnement ou d’améliorer ses performances
   language_code: fre
   notes:
-  - 'Les opérations de maintenance logicielle effectuées pour atteindre ces trois
-    objectifs sont appelées respectivement maintenance corrective ({{192-06-06, IEV:192-06-06}}),
-    maintenance adaptative ({{192-06-16, IEV:192-06-16}}) et maintenance améliorante
-    ({{192-06-17, IEV:192-06-17}}). '
-  - Après une maintenance, l’état d’un logiciel est différent de son état précédent.
+  - '1 à l’article: Les opérations de maintenance logicielle effectuées pour atteindre
+    ces trois objectifs sont appelées respectivement maintenance corrective ({{192-06-06,
+    IEV:192-06-06}}), maintenance adaptative ({{192-06-16, IEV:192-06-16}}) et maintenance
+    améliorante ({{192-06-17, IEV:192-06-17}}).'
+  - '2 à l’article: Après une maintenance, l’état d’un logiciel est différent de son
+    état précédent.'
   examples: []
   entry_status: Standard
   review_decision_event: published

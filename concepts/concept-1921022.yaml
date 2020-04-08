@@ -34,12 +34,11 @@ eng:
     normativeStatus: preferred
     usageInfo: in software;
     designation: fault masking
-  definition: |-
-    technique that prevents faults from introducing errors into the output
-
-    Note 1 to entry: Fault masking enhances software reliability by providing tolerance to faults, thus enabling continuous system operation.
+  definition: technique that prevents faults from introducing errors into the output
   language_code: eng
-  notes: []
+  notes:
+  - Fault masking enhances software reliability by providing tolerance to faults,
+    thus enabling continuous system operation.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,9 +58,9 @@ fre:
   definition: technique empêchant les pannes d’introduire des erreurs dans le résultat
   language_code: fre
   notes:
-  - Le masquage de panne permet d’améliorer la fiabilité du logiciel en assurant la
-    tolérance aux pannes et, par conséquent, en permettant un fonctionnement continu
-    du système.
+  - '1 à l’article: Le masquage de panne permet d’améliorer la fiabilité du logiciel
+    en assurant la tolérance aux pannes et, par conséquent, en permettant un fonctionnement
+    continu du système.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -45,14 +45,14 @@ eng:
     normativeStatus: preferred
     designation: phase angle
   - type: symbol
-    designation: '0'
+    designation: "$$$$<sub>0</sub>"
     international: true
   definition: value of the phase of a sinusoidal quantity when the value of the independent
     variable is zero
   language_code: eng
   notes:
-  - For the quantity $$a ( t ) = hat A cos ( \omega  t + \vartheta_0 )$$, the initial
-    phase is $$\vartheta_0$$.
+  - '1 to entry: For the quantity $$a ( t ) = hat A cos ( omega   t + vartheta_0 )$$,
+    the initial phase is $$vartheta_0$$.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -78,8 +78,8 @@ fre:
     la variable indépendante
   language_code: fre
   notes:
-  - Pour la grandeur $$a ( t ) = hat A cos ( \omega  t + \vartheta_0 )$$, la phase
-    à l'origine est $$\vartheta_0$$.
+  - '1 à l''article: Pour la grandeur $$a ( t ) = hat A cos ( omega   t + vartheta_0
+    )$$, la phase à l''origine est $$vartheta_0$$.'
   examples: []
   entry_status: Standard
   classification: Preferred

@@ -46,7 +46,8 @@ eng:
   definition: difference between a periodic quantity and its mean value
   language_code: eng
   notes:
-  - The alternating component of the quantity x(t) is denoted by $$x_( ∼ ) ( t )$$.
+  - '1 to entry: The alternating component of the quantity $$x$$($$t$$) is denoted
+    by $$x_( ∼ ) ( t )$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -69,7 +70,8 @@ fre:
   definition: différence entre une grandeur périodique et sa valeur moyenne
   language_code: fre
   notes:
-  - La composante alternative de la grandeur x(t) est notée $$x_( ∼ ) ( t )$$.
+  - '1 à l''article: La composante alternative de la grandeur $$x$$($$t$$) est notée
+    $$x_( ∼ ) ( t )$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

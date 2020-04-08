@@ -44,11 +44,11 @@ eng:
     decimal fraction such as thousandth or millionth"
   language_code: eng
   notes:
-  - 'The use of "rate" with this meaning is often deprecated in favour of "ratio".
-    For example, it is recommended to use “error ratio” and not "error rate" (see
-    {{IEV 702-07-39, IEV:702-07-39}}). In other examples, "factor" is used in English
-    for "taux" in French: {{total harmonic factor, IEV:103-07-32}}, {{modulation factor,
-    IEV:702-06-19}}.'
+  - '1 to entry: The use of "rate" with this meaning is often deprecated in favour
+    of "ratio". For example, it is recommended to use “error ratio” and not "error
+    rate" (see {{IEV 702-07-39, IEV:702-07-39}}). In other examples, "factor" is used
+    in English for "taux" in French: {{total harmonic factor, IEV:103-07-32}}, {{modulation
+    factor, IEV:702-06-19}}.'
   examples: []
   entry_status: Standard
   date_accepted: '2019-01-01T00:00:00+00:00'
@@ -69,11 +69,11 @@ fre:
     en une fraction décimale quelconque, telle que millième ou millionième"
   language_code: fre
   notes:
-  - L’emploi du terme "rate" dans ce sens est souvent déconseillé en anglais en faveur
-    de "ratio". Par exemple, il est recommandé d’utiliser "error ratio" et non "error
-    rate" pour le taux d’erreurs (voir {{IEV 702-07-39, IEV:702-07-39}}). Dans d'autre
-    exemples, comme {{taux d'harmoniques, IEV:103-07-32}} et {{taux de modulation,
-    IEV:702-06-19}}, "factor" est employé en anglais.
+  - '1 à l’article: L’emploi du terme "rate" dans ce sens est souvent déconseillé
+    en anglais en faveur de "ratio". Par exemple, il est recommandé d’utiliser "error
+    ratio" et non "error rate" pour le taux d’erreurs (voir {{IEV 702-07-39, IEV:702-07-39}}).
+    Dans d''autre exemples, comme {{taux d''harmoniques, IEV:103-07-32}} et {{taux
+    de modulation, IEV:702-06-19}}, "factor" est employé en anglais.'
   examples: []
   entry_status: Standard
   date_accepted: '2010-01-01T00:00:00+00:00'
@@ -99,7 +99,7 @@ kor:
     normativeStatus: preferred
     designation: 율
   - type: expression
-    designation: "<관련엔트리: 112-03-18>"
+    designation: "&lt;관련엔트리: 112-03-18&gt;"
   language_code: kor
   notes: []
   examples: []

@@ -34,12 +34,11 @@ eng:
     normativeStatus: preferred
     usageInfo: of a quantity;
     designation: true value
-  definition: |-
-    value consistent with the definition of given particular quantity
-
-    Note 1 to entry: The true value is the value that would be obtained by a perfect measurement. Note 2 to entry: True values are, by nature, indeterminate.
+  definition: value consistent with the definition of given particular quantity
   language_code: eng
-  notes: []
+  notes:
+  - The true value is the value that would be obtained by a perfect measurement.
+  - True values are, by nature, indeterminate.
   examples: []
   entry_status: Standard
   authoritative_source:
@@ -62,8 +61,9 @@ fre:
   definition: valeur compatible avec la définition d’une grandeur particulière donnée
   language_code: fre
   notes:
-  - 'La valeur vraie est la valeur qui serait obtenue par un mesurage parfait. '
-  - Toute valeur vraie est par nature indéterminée.
+  - '1 à l’article: La valeur vraie est la valeur qui serait obtenue par un mesurage
+    parfait.'
+  - '2 à l’article: Toute valeur vraie est par nature indéterminée.'
   examples: []
   entry_status: Standard
   authoritative_source:

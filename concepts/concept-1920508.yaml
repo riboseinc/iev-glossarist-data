@@ -41,17 +41,18 @@ eng:
     normativeStatus: preferred
     designation: failure intensity
   - type: symbol
-    designation: z(t)
+    designation: "$$z$$($$t$$)"
     international: true
   definition: "limit, if it exists, of the quotient of the mean number of failures
-    of a repairable item within time interval (t, t + t), by t, when t tends to zero
-    \n\n$$z ( t ) = underset(( \\Deltat -> 0 + ))(( lim  ))  ((  E N ( t + \\Deltat
-    ) - N ( t )    ))/((  \\Deltat  ))  $$\n\nwhere N(t) is the number of failures
-    in the time interval (0, t), where E denotes the expectation.\n\nNote 1 to entry:
-    Other terms used for failure intensity are “rate of occurrence of failures”, and
-    “failure frequency”."
+    of a repairable item within time interval ($$t$$, $$t$$ + $$t$$), by $$t$$, when
+    $$t$$ tends to zero \n\n\n\n$$z ( t ) = underset(( Delta t -&gt; 0 + ))(( lim
+    )) (( E N ( t + Delta t ) - N ( t ) ))/(( Delta t ))$$\n\nwhere $$N$$($$t$$) is
+    the number of failures in the time interval (0, $$t$$), where $$E$$ denotes the
+    expectation."
   language_code: eng
-  notes: []
+  notes:
+  - Other terms used for failure intensity are “rate of occurrence of failures”, and
+    “failure frequency”.
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -74,18 +75,18 @@ fre:
     gender: f
     plurality: singular
   - type: symbol
-    designation: z(t)
+    designation: "$$z$$($$t$$)"
     international: true
-  definition: "limite, si elle existe, du quotient par t de l’espérance mathématique
+  definition: "limite, si elle existe, du quotient par $$t$$ de l’espérance mathématique
     du nombre de défaillances d’une entité réparable pendant l’intervalle de temps
-    (t, t + t), lorsque t tend vers zéro \n\n$$z ( t ) = underset(( \\Deltat -> 0
-    + ))(( lim  ))  ((  E N ( t + \\Deltat ) - N ( t )    ))/((  \\Deltat  ))  $$\n\noù
-    N(t) est le nombre de défaillances dans l’intervalle de temps (0, t), et où E
-    désigne l’espérance mathématique."
+    ($$t$$, $$t$$ + $$t$$), lorsque $$t$$ tend vers zéro \n\n\n\n$$z ( t ) = underset((
+    Delta t -&gt; 0 + ))(( lim )) (( E N ( t + Delta t ) - N ( t ) ))/(( Delta t ))$$\n\noù
+    $$N$$($$t$$) est le nombre de défaillances dans l’intervalle de temps (0, $$t$$),
+    et où $$E$$ désigne l’espérance mathématique."
   language_code: fre
   notes:
-  - 'D’autres termes sont utilisés pour désigner l’intensité instantanée de défaillance:
-    «taux d’occurrence des défaillances» et «fréquence de défaillance».'
+  - '1 à l’article: D’autres termes sont utilisés pour désigner l’intensité instantanée
+    de défaillance: «taux d’occurrence des défaillances» et «fréquence de défaillance».'
   examples: []
   entry_status: Standard
   classification: Preferred

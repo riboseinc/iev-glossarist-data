@@ -37,12 +37,14 @@ eng:
     designation: mean operating time to failure
   - type: expression
     designation: MTTF
-  definition: |-
-    expectation of the operating time to failure
-
-    Note 1 to entry: In the case of non-repairable items with an exponential distribution of operating times to failure (i.e. a constant failure rate) the MTTF is numerically equal to the reciprocal of the failure rate. This is also true for repairable items if after restoration they can be considered to be "as-good-as-new". Note 2 to entry: See also operating time to failure ({{192-05-01, IEV:192-05-01}}).
+  definition: expectation of the operating time to failure
   language_code: eng
-  notes: []
+  notes:
+  - In the case of non-repairable items with an exponential distribution of operating
+    times to failure (i.e. a constant failure rate) the MTTF is numerically equal
+    to the reciprocal of the failure rate. This is also true for repairable items
+    if after restoration they can be considered to be "as-good-as-new".
+  - See also operating time to failure ({{192-05-01, IEV:192-05-01}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -62,12 +64,16 @@ fre:
     designation: temps moyen avant défaillance
     gender: m
     plurality: singular
-  definition: |-
-    espérance mathématique du temps de fonctionnement avant défaillance
-
-    Note 1 à l’article: Dans le cas des entités non réparables avec une distribution exponentielle des temps de fonctionnement avant défaillance (c’est-à-dire avec un taux de défaillance constant), la durée moyenne de fonctionnement avant défaillance est numériquement égale à l’inverse du taux de défaillance. Cela est également vrai pour les entités réparables si, après rétablissement, elles peuvent être considérées comme aussi bonnes que neuves. Note 2 à l’article: Voir aussi temps de fonctionnement avant défaillance ({{192-05-01, IEV:192-05-01}}).
+  definition: espérance mathématique du temps de fonctionnement avant défaillance
   language_code: fre
-  notes: []
+  notes:
+  - Dans le cas des entités non réparables avec une distribution exponentielle des
+    temps de fonctionnement avant défaillance (c’est-à-dire avec un taux de défaillance
+    constant), la durée moyenne de fonctionnement avant défaillance est numériquement
+    égale à l’inverse du taux de défaillance. Cela est également vrai pour les entités
+    réparables si, après rétablissement, elles peuvent être considérées comme aussi
+    bonnes que neuves.
+  - Voir aussi temps de fonctionnement avant défaillance ({{192-05-01, IEV:192-05-01}}).
   examples: []
   entry_status: Standard
   review_decision_event: published

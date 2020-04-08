@@ -39,12 +39,12 @@ eng:
     designation: software beta test
   - type: expression
     designation: software field trial
-  definition: |-
-    part of a software trial carried out by users in the intended application
-
-    Note 1 to entry: Realistic operating conditions are ensured by the fact that real users are applying the software to do actual work. Note 2 to entry: The term “field trial” is not unique to software applications.
+  definition: part of a software trial carried out by users in the intended application
   language_code: eng
-  notes: []
+  notes:
+  - Realistic operating conditions are ensured by the fact that real users are applying
+    the software to do actual work.
+  - The term “field trial” is not unique to software applications.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -68,9 +68,11 @@ fre:
     prévue
   language_code: fre
   notes:
-  - 'Les conditions de fonctionnement réalistes sont assurées par le fait que de véritables
-    utilisateurs utilisent le logiciel pour faire un véritable travail. '
-  - Le terme «essai pratique» ne s’applique pas uniquement aux applications logicielles.
+  - '1 à l’article: Les conditions de fonctionnement réalistes sont assurées par le
+    fait que de véritables utilisateurs utilisent le logiciel pour faire un véritable
+    travail.'
+  - '2 à l’article: Le terme «essai pratique» ne s’applique pas uniquement aux applications
+    logicielles.'
   examples: []
   entry_status: Standard
   review_decision_event: published

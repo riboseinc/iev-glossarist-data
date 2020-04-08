@@ -43,7 +43,7 @@ eng:
     from the superposition of two periodic oscillations of slightly different frequencies
   language_code: eng
   notes:
-  - The frequency of the beat is equal to the difference of the two frequencies.
+  - '1 to entry: The frequency of the beat is equal to the difference of the two frequencies.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -63,7 +63,8 @@ fre:
     la superposition de deux oscillations périodiques de fréquences peu différentes
   language_code: fre
   notes:
-  - La fréquence du battement est égale à la différence des deux fréquences.
+  - '1 à l''article: La fréquence du battement est égale à la différence des deux
+    fréquences.'
   examples: []
   entry_status: Standard
   review_decision_event: published

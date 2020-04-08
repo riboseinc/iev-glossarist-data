@@ -31,16 +31,13 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: firmware
-  definition: |-
-    software contained in a read-only memory device
-
-    EXAMPLE Basic input/output system (BIOS) of a personal computer. Note 1 to entry: Firmware, in normal usage, is not intended for modification, and requires the hardware device containing it to be replaced or re-programmed.
+  definition: software contained in a read-only memory device
   language_code: eng
-  notes: []
+  notes:
+  - Firmware, in normal usage, is not intended for modification, and requires the
+    hardware device containing it to be replaced or re-programmed.
   examples:
-  - 'Basic input/output system (BIOS) of a personal computer. Note 1 to entry: Firmware,
-    in normal usage, is not intended for modification, and requires the hardware device
-    containing it to be replaced or re-programmed.'
+  - Basic input/output system (BIOS) of a personal computer.
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
   date_amended: '2015-02-01T00:00:00+00:00'
@@ -55,20 +52,14 @@ fre:
     designation: micrologiciel
     gender: m
     plurality: singular
-  definition: |-
-    logiciel contenu dans une mémoire morte
-
-    EXEMPLE Le système de base d’entrée/sortie (BIOS) d’un ordinateur individuel.
+  definition: logiciel contenu dans une mémoire morte
   language_code: fre
   notes:
-  - Le micrologiciel n’est pas destiné à être modifié en usage normal. Sa modification
-    nécessite le remplacement ou la reprogrammation du dispositif matériel qui le
-    contient.
-  examples:
-  - 'Le système de base d’entrée/sortie (BIOS) d’un ordinateur individuel. Note 1
-    à l’article: Le micrologiciel n’est pas destiné à être modifié en usage normal.
+  - '1 à l’article: Le micrologiciel n’est pas destiné à être modifié en usage normal.
     Sa modification nécessite le remplacement ou la reprogrammation du dispositif
     matériel qui le contient.'
+  examples:
+  - Le système de base d’entrée/sortie (BIOS) d’un ordinateur individuel.
   entry_status: Standard
   review_decision_event: published
 jpn:

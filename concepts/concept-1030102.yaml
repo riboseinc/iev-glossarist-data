@@ -42,8 +42,8 @@ eng:
   definition: function for which the argument is a function and the value a number
   language_code: eng
   notes:
-  - An example of a functional of the function f(t) is $$∫_( t_2 )^( t_1 ) f ( t )
-    d t$$.
+  - '1 to entry: An example of a functional of the function $$f$$($$t$$) is $$∫_(
+    t_2 )^( t_1 ) f ( t ) d t$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -62,8 +62,8 @@ fre:
   definition: fonction dont l'argument est une fonction et la valeur un nombre
   language_code: fre
   notes:
-  - Un exemple de fonctionnelle de la fonction f(t) est $$∫_( t_2 )^( t_1 ) f ( t
-    ) d t$$.
+  - '1 à l''article: Un exemple de fonctionnelle de la fonction $$f$$($$t$$) est $$∫_(
+    t_2 )^( t_1 ) f ( t ) d t$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

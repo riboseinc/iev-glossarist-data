@@ -31,12 +31,10 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: partial failure
-  definition: |-
-    failure characterized by the loss of some, but not all, required functions
-
-    Note 1 to entry: Partial failure may lead to a degraded state ({{192-02-25, IEV:192-02-25}}).
+  definition: failure characterized by the loss of some, but not all, required functions
   language_code: eng
-  notes: []
+  notes:
+  - Partial failure may lead to a degraded state ({{192-02-25, IEV:192-02-25}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,7 +53,8 @@ fre:
   definition: défaillance caractérisée par la perte de certaines fonctions requises
   language_code: fre
   notes:
-  - Une défaillance partielle peut donner lieu à un état dégradé ({{192-02-25, IEV:192-02-25}}).
+  - '1 à l’article: Une défaillance partielle peut donner lieu à un état dégradé ({{192-02-25,
+    IEV:192-02-25}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

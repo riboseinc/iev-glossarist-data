@@ -38,12 +38,11 @@ eng:
   - type: expression
     normativeStatus: deprecated
     designation: fault masking
-  definition: |-
-    ability to continue functioning with certain faults present
-
-    Note 1 to entry: Faults would invariably be at a lower indenture level than the item of interest. Note 2 to entry: See also fault masking ({{192-10-21, IEV:192-10-21}}).
+  definition: ability to continue functioning with certain faults present
   language_code: eng
-  notes: []
+  notes:
+  - Faults would invariably be at a lower indenture level than the item of interest.
+  - See also fault masking ({{192-10-21, IEV:192-10-21}}).
   examples: []
   entry_status: Standard
   classification: Deprecated
@@ -64,9 +63,9 @@ fre:
   definition: aptitude à continuer à fonctionner malgré la présence de certaines pannes
   language_code: fre
   notes:
-  - 'Les pannes se situent invariablement à un niveau dans l’arborescence inférieur
-    à celui de l’entité considérée. Note 2 à l’article: Voir aussi masquage de panne
-    ({{192-10-21, IEV:192-10-21}}).'
+  - '1 à l’article: Les pannes se situent invariablement à un niveau dans l’arborescence
+    inférieur à celui de l’entité considérée.'
+  - Voir aussi masquage de panne ({{192-10-21, IEV:192-10-21}}).
   examples: []
   entry_status: Standard
   review_decision_event: published

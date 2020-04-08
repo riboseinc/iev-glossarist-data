@@ -56,11 +56,11 @@ eng:
   language_code: eng
   notes:
   - For quantities that have a unit of measurement (i.e. those other than ordinal
-    quantities), the numerical value {Q} of a quantity Q is frequently denoted {Q}
-    = Q/[[Q]], where [[Q]] denotes the unit. For example, for a mass of value expressed
-    as 5,7 kg, the numerical value is {m} = (5,7 kg)/kg = 5,7. The same value can
-    be expressed as 5 700 g in which case the numerical value is {m} = (5 700 g)/g
-    = 5 700.
+    quantities), the numerical value {$$Q$$} of a quantity $$Q$$ is frequently denoted
+    {$$Q$$} = $$Q$$/[[$$Q$$]], where [[$$Q$$]] denotes the unit. For example, for
+    a mass of value expressed as 5,7 kg, the numerical value is {$$m$$} = (5,7 kg)/kg
+    = 5,7. The same value can be expressed as 5 700 g in which case the numerical
+    value is {$$m$$} = (5 700 g)/g = 5 700.
   - For quantities of dimension one, the reference is a unit of measurement which
     is a number and this is not considered as a part of the numerical value. For example,
     in an amount-of-substance fraction equal to 3 mmol/mol, the numerical value is
@@ -97,11 +97,11 @@ fre:
   language_code: fre
   notes:
   - Pour les grandeurs qui ont une unité de mesure (c'est-à-dire autres que les grandeurs
-    ordinales), la valeur numérique {Q} d'une grandeur Q est fréquemment notée {Q}
-    = Q/[[Q]], où [[Q]] est le symbole de l'unité. Par exemple, pour une masse dont
-    la valeur est exprimée par 5,7 kg, la valeur numérique est {m} = (5,7 kg)/kg =
-    5,7. La même valeur peut est représentée par 5 700 g, auquel cas la valeur numérique
-    est {m} = (5 700 g)/g = 5 700.
+    ordinales), la valeur numérique {$$Q$$} d'une grandeur $$Q$$ est fréquemment notée
+    {$$Q$$} = $$Q$$/[[$$Q$$]], où [[$$Q$$]] est le symbole de l'unité. Par exemple,
+    pour une masse dont la valeur est exprimée par 5,7 kg, la valeur numérique est
+    {$$m$$} = (5,7 kg)/kg = 5,7. La même valeur peut est représentée par 5 700 g,
+    auquel cas la valeur numérique est {$$m$$} = (5 700 g)/g = 5 700.
   - Pour les grandeurs sans dimension, la référence est une unité de mesure qui est
     un nombre, et ce nombre n'est pas considéré comme faisant partie de la valeur
     numérique. Par exemple, pour une fraction molaire égale à 3 mmol/mol, la valeur

@@ -35,12 +35,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: system test
-  definition: |-
-    test of a complete system to detect instances of non-conformity with the respective functional specification
-
-    Note 1 to entry: System test is mainly for verification ({{192-01-17, IEV:192-01-17}}), but may include some validation ({{192-01-18, IEV:192-01-18}}).
+  definition: test of a complete system to detect instances of non-conformity with
+    the respective functional specification
   language_code: eng
-  notes: []
+  notes:
+  - System test is mainly for verification ({{192-01-17, IEV:192-01-17}}), but may
+    include some validation ({{192-01-18, IEV:192-01-18}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,8 +60,8 @@ fre:
     non-conformité avec sa spécification fonctionnelle
   language_code: fre
   notes:
-  - L’essai du système est principalement une vérification ({{192-01-17, IEV:192-01-17}}),
-    mais il peut comporter une validation ({{192-01-18, IEV:192-01-18}}).
+  - '1 à l’article: L’essai du système est principalement une vérification ({{192-01-17,
+    IEV:192-01-17}}), mais il peut comporter une validation ({{192-01-18, IEV:192-01-18}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

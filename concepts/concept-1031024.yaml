@@ -39,11 +39,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: refracted wave
-  definition: wave which appears beyond a surface separating two different media when
-    an incident wave meets the surface, which propagates away from the surface generally
-    in a different direction, and which is interpretable by geometric optics   wave
-    which propagates in a medium with properties varying continuously in space and
-    which is interpretable by geometric optics
+  definition: "<ol><li>wave which appears beyond a surface separating two different
+    media when an incident wave meets the surface, which propagates away from the
+    surface generally in a different direction, and which is interpretable by geometric
+    optics </li> \n\n<li> wave which propagates in a medium with properties varying
+    continuously in space and which is interpretable by geometric optics</li></ol>"
   language_code: eng
   notes: []
   examples: []
@@ -61,12 +61,12 @@ fre:
     designation: onde réfractée
     gender: f
     plurality: singular
-  definition: onde qui apparaît au-delà d'une surface séparant deux milieux différents
-    lorsqu'une onde incidente rencontre la surface, qui se propage en s'éloignant
+  definition: "<ol><li>onde qui apparaît au-delà d'une surface séparant deux milieux
+    différents lorsqu'une onde incidente rencontre la surface, qui se propage en s'éloignant
     de celle-ci, généralement dans une direction différente, et qui est interprétable
-    par l'optique géométrique  onde qui se propage dans un milieu dont les propriétés
-    varient de façon continue dans l'espace et qui est interprétable par l'optique
-    géométrique
+    par l'optique géométrique</li> \n\n<li> onde qui se propage dans un milieu dont
+    les propriétés varient de façon continue dans l'espace et qui est interprétable
+    par l'optique géométrique</li></ol>"
   language_code: fre
   notes: []
   examples: []

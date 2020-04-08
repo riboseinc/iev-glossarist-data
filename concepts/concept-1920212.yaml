@@ -34,12 +34,11 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: hot standby state
-  definition: |-
-    standby state providing for immediate operation upon demand
-
-    Note 1 to entry: A hot standby state may apply to redundant or stand-alone items. Note 2 to entry: In some applications, an item in a hot standby state is considered to be operating.
+  definition: standby state providing for immediate operation upon demand
   language_code: eng
-  notes: []
+  notes:
+  - A hot standby state may apply to redundant or stand-alone items.
+  - In some applications, an item in a hot standby state is considered to be operating.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,9 +58,10 @@ fre:
   definition: attente permettent le fonctionnement immédiat sur demande
   language_code: fre
   notes:
-  - 'Une attente à chaud peut s’appliquer à des entités redondantes ou autonomes. '
-  - Dans certaines applications, une entité en attente à chaud est considérée comme
-    étant en fonctionnement.
+  - '1 à l’article: Une attente à chaud peut s’appliquer à des entités redondantes
+    ou autonomes.'
+  - '2 à l’article: Dans certaines applications, une entité en attente à chaud est
+    considérée comme étant en fonctionnement.'
   examples: []
   entry_status: Standard
   review_decision_event: published

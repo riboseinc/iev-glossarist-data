@@ -31,12 +31,16 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: verification
-  definition: |-
-    confirmation, through the provision of objective evidence, that specified requirements have been fulfilled
-
-    Note 1 to entry: The term “verified” is used to designate the corresponding status. Note 2 to entry: Design verification is the application of tests and appraisals to assess conformity of a design to the specified requirement. Note 3 to entry: In the case of software, verification is conducted at various stages of development, examining the software and its constituents to determine conformity to the requirements specified at the beginning of that stage.
+  definition: confirmation, through the provision of objective evidence, that specified
+    requirements have been fulfilled
   language_code: eng
-  notes: []
+  notes:
+  - The term “verified” is used to designate the corresponding status.
+  - Design verification is the application of tests and appraisals to assess conformity
+    of a design to the specified requirement.
+  - In the case of software, verification is conducted at various stages of development,
+    examining the software and its constituents to determine conformity to the requirements
+    specified at the beginning of that stage.
   examples: []
   entry_status: Standard
   authoritative_source:
@@ -59,12 +63,12 @@ fre:
     ont été satisfaites
   language_code: fre
   notes:
-  - 'Le terme «vérifié» qualifie l’état correspondant. '
-  - 'La vérification de conception est l’application d’essais et d’évaluations afin
-    d’estimer la conformité aux exigences spécifiées. '
-  - Dans le cas des logiciels, la vérification est menée à différents stades du développement,
-    en examinant le logiciel et ses composants afin de déterminer la conformité aux
-    exigences spécifiées au début de ce stade.
+  - '1 à l’article: Le terme «vérifié» qualifie l’état correspondant.'
+  - '2 à l’article: La vérification de conception est l’application d’essais et d’évaluations
+    afin d’estimer la conformité aux exigences spécifiées.'
+  - '3 à l’article: Dans le cas des logiciels, la vérification est menée à différents
+    stades du développement, en examinant le logiciel et ses composants afin de déterminer
+    la conformité aux exigences spécifiées au début de ce stade.'
   examples: []
   entry_status: Standard
   authoritative_source:

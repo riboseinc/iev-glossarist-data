@@ -40,12 +40,10 @@ eng:
   - type: expression
     usageInfo: of an item;
     designation: persistent fault
-  definition: |-
-    fault that will remain unless it is removed by some intervention
-
-    Note 1 to entry: The “intervention” may be modification or maintenance.
+  definition: fault that will remain unless it is removed by some intervention
   language_code: eng
-  notes: []
+  notes:
+  - The “intervention” may be modification or maintenance.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -65,7 +63,8 @@ fre:
   definition: panne qui persiste jusqu’à sa suppression par une intervention appropriée
   language_code: fre
   notes:
-  - L’intervention peut être une modification ou une opération de maintenance.
+  - '1 à l’article: L’intervention peut être une modification ou une opération de
+    maintenance.'
   examples: []
   entry_status: Standard
   review_decision_event: published

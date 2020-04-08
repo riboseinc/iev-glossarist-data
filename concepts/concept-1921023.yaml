@@ -32,12 +32,17 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: Fagan inspection
-  definition: |-
-    rigorous comparison of the output of a development phase with its input in order to detect and remove instances of non-conformity before they become faults in the delivered software
-
-    Note 1 to entry: Fagan inspection is a fault removal technique, performed by organised teams, and is an example of verification. Note 2 to entry: The levels at which Fagan inspection is normally carried out are: comparison of design with specification, comparison of detailed design with high-level design, and comparison of source code with detailed design. Test plans are also inspected against design documents.
+  definition: rigorous comparison of the output of a development phase with its input
+    in order to detect and remove instances of non-conformity before they become faults
+    in the delivered software
   language_code: eng
-  notes: []
+  notes:
+  - Fagan inspection is a fault removal technique, performed by organised teams, and
+    is an example of verification.
+  - 'The levels at which Fagan inspection is normally carried out are: comparison
+    of design with specification, comparison of detailed design with high-level design,
+    and comparison of source code with detailed design. Test plans are also inspected
+    against design documents.'
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -58,13 +63,13 @@ fre:
     qu’elles ne deviennent des pannes dans le logiciel livré
   language_code: fre
   notes:
-  - 'L’inspection de Fagan est une technique d’élimination des pannes réalisée par
-    une équipe organisée. Il s’agit d’un exemple de vérification. '
-  - 'En règle générale, l’inspection de Fagan est exécutée à différents niveaux: comparaison
-    de la conception à la spécification, comparaison de la conception détaillée à
-    la conception de haut niveau, comparaison du code source à la conception détaillée.
-    Les plans d’essai font également l’objet d’une inspection par rapport aux documents
-    de conception.'
+  - '1 à l’article: L’inspection de Fagan est une technique d’élimination des pannes
+    réalisée par une équipe organisée. Il s’agit d’un exemple de vérification.'
+  - '2 à l’article: En règle générale, l’inspection de Fagan est exécutée à différents
+    niveaux: comparaison de la conception à la spécification, comparaison de la conception
+    détaillée à la conception de haut niveau, comparaison du code source à la conception
+    détaillée. Les plans d’essai font également l’objet d’une inspection par rapport
+    aux documents de conception.'
   examples: []
   entry_status: Standard
   review_decision_event: published

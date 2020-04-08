@@ -31,12 +31,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: reliability growth testing
-  definition: |-
-    iterative process to improve reliability through testing until failure, analysing failures, implementing corrective action, and further testing
-
-    Note 1 to entry: The corrective action may be applied to existing or to new test items.
+  definition: iterative process to improve reliability through testing until failure,
+    analysing failures, implementing corrective action, and further testing
   language_code: eng
-  notes: []
+  notes:
+  - The corrective action may be applied to existing or to new test items.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -57,8 +56,8 @@ fre:
     et d’autres essais
   language_code: fre
   notes:
-  - L’action corrective peut être appliquée à des entités existantes ou à des entités
-    d’essai nouvelles.
+  - '1 à l’article: L’action corrective peut être appliquée à des entités existantes
+    ou à des entités d’essai nouvelles.'
   examples: []
   entry_status: Standard
   review_decision_event: published

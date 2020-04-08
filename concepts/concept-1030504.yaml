@@ -49,7 +49,8 @@ eng:
     and decreasing quantities
   language_code: eng
   notes:
-  - The term "oscillation" is also used to designate one cycle of the phenomenon.
+  - '1 to entry: The term "oscillation" is also used to designate one cycle of the
+    phenomenon.'
   examples: []
   entry_status: Standard
   date_accepted: '2019-10-01T00:00:00+00:00'
@@ -70,7 +71,7 @@ fre:
     croissantes et décroissantes
   language_code: fre
   notes:
-  - Le terme "oscillation" désigne aussi un cycle d'un tel phénomène.
+  - '1 à l''article: Le terme "oscillation" désigne aussi un cycle d''un tel phénomène.'
   examples: []
   entry_status: Standard
   review_decision_event: published

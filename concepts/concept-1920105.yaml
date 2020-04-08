@@ -31,17 +31,15 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: indenture level
-  definition: |-
-    level of sub-division within a system hierarchy
-
-    EXAMPLE System, subsystem, assembly, and component. Note 1 to entry: From the maintenance perspective, the indenture level depends upon various factors, including the complexity of the item's construction, the accessibility of sub items, skill level of maintenance personnel, test equipment facilities, and safety considerations.
+  definition: level of sub-division within a system hierarchy
   language_code: eng
-  notes: []
+  notes:
+  - From the maintenance perspective, the indenture level depends upon various factors,
+    including the complexity of the item's construction, the accessibility of sub
+    items, skill level of maintenance personnel, test equipment facilities, and safety
+    considerations.
   examples:
-  - 'System, subsystem, assembly, and component. Note 1 to entry: From the maintenance
-    perspective, the indenture level depends upon various factors, including the complexity
-    of the item''s construction, the accessibility of sub items, skill level of maintenance
-    personnel, test equipment facilities, and safety considerations.'
+  - System, subsystem, assembly, and component.
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
   date_amended: '2015-02-01T00:00:00+00:00'
@@ -61,22 +59,15 @@ fre:
     designation: niveau d’intervention
     gender: m
     plurality: singular
-  definition: |-
-    niveau de subdivision à l’intérieur de la hiérarchie d’un système
-
-    EXEMPLE Système, sous-système, assemblage et composant.
+  definition: niveau de subdivision à l’intérieur de la hiérarchie d’un système
   language_code: fre
   notes:
-  - Du point de vue de la maintenance, le niveau dans l’arborescence dépend de divers
-    facteurs dont la complexité de la structure de l’entité, l’accessibilité aux sous-entités,
-    le niveau de compétence du personnel de maintenance, les moyens de mesure et d’essai,
-    et des considérations de sécurité.
+  - '1 à l’article: Du point de vue de la maintenance, le niveau dans l’arborescence
+    dépend de divers facteurs dont la complexité de la structure de l’entité, l’accessibilité
+    aux sous-entités, le niveau de compétence du personnel de maintenance, les moyens
+    de mesure et d’essai, et des considérations de sécurité.'
   examples:
-  - 'Système, sous-système, assemblage et composant. Note 1 à l’article: Du point
-    de vue de la maintenance, le niveau dans l’arborescence dépend de divers facteurs
-    dont la complexité de la structure de l’entité, l’accessibilité aux sous-entités,
-    le niveau de compétence du personnel de maintenance, les moyens de mesure et d’essai,
-    et des considérations de sécurité.'
+  - Système, sous-système, assemblage et composant.
   entry_status: Standard
   classification: Deprecated
   review_decision_event: published

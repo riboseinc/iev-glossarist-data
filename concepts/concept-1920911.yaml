@@ -35,12 +35,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: screening test
-  definition: |-
-    test carried out to detect and remove non-conforming items, or those susceptible to early life failure
-
-    Note 1 to entry: The test may employ representative or elevated stresses.
+  definition: test carried out to detect and remove non-conforming items, or those
+    susceptible to early life failure
   language_code: eng
-  notes: []
+  notes:
+  - The test may employ representative or elevated stresses.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,7 +59,7 @@ fre:
     susceptibles de présenter des défaillances précoces
   language_code: fre
   notes:
-  - L’essai peut utiliser des contraintes représentatives ou augmentées.
+  - '1 à l’article: L’essai peut utiliser des contraintes représentatives ou augmentées.'
   examples: []
   entry_status: Standard
   review_decision_event: published

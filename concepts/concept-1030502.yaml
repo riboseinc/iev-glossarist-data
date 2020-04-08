@@ -48,8 +48,8 @@ eng:
     state to another consecutive steady state
   language_code: eng
   notes:
-  - The term “transient” is also used as a noun to mean a transient phenomenon or
-    quantity.
+  - '1 to entry: The term “transient” is also used as a noun to mean a transient phenomenon
+    or quantity.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -68,8 +68,8 @@ fre:
     un autre régime établi consécutif
   language_code: fre
   notes:
-  - Le terme «transitoire» est aussi employé comme nom masculin pour désigner un phénomène
-    ou une grandeur transitoire.
+  - '1 à l''article: Le terme «transitoire» est aussi employé comme nom masculin pour
+    désigner un phénomène ou une grandeur transitoire.'
   examples: []
   entry_status: Standard
   review_decision_event: published

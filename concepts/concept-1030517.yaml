@@ -47,7 +47,8 @@ eng:
   definition: value of a function corresponding to a {{local minimum, IEV:103-05-16}}
   language_code: eng
   notes:
-  - A local minimum value of function f is denoted by $$f_(( min))$$ or $$overset(⌣)(f)$$.
+  - '1 to entry: A local minimum value of function $$f$$ is denoted by $$f_(( m i
+    n))$$ or $$overset(⌣)(f)$$.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -73,7 +74,8 @@ fre:
   definition: valeur d'une fonction correspondant à un {{minimum local, IEV:103-05-16}}
   language_code: fre
   notes:
-  - Une valeur minimale locale de la fonction f est notée $$f_(( min))$$ ou $$overset(⌣)(f)$$.
+  - '1 à l''article: Une valeur minimale locale de la fonction $$f$$ est notée $$f_((
+    m i n))$$ ou $$overset(⌣)(f)$$.'
   examples: []
   entry_status: Standard
   classification: Preferred

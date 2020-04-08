@@ -33,12 +33,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: black-box testing
-  definition: |-
-    testing in which test cases are chosen using only knowledge of the functional specification of the item under test
-
-    Note 1 to entry: Black-box testing aims to achieve a defined level of coverage of the input domain of the item under test.
+  definition: testing in which test cases are chosen using only knowledge of the functional
+    specification of the item under test
   language_code: eng
-  notes: []
+  notes:
+  - Black-box testing aims to achieve a defined level of coverage of the input domain
+    of the item under test.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -62,8 +62,8 @@ fre:
     de la spécification fonctionnelle de l’entité soumise à essai
   language_code: fre
   notes:
-  - Les essais fonctionnels ont pour objet d’atteindre un niveau défini de couverture
-    du domaine en entrée de l’entité soumise à essai.
+  - '1 à l’article: Les essais fonctionnels ont pour objet d’atteindre un niveau défini
+    de couverture du domaine en entrée de l’entité soumise à essai.'
   examples: []
   entry_status: Standard
   review_decision_event: published

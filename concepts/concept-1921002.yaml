@@ -36,12 +36,11 @@ eng:
     normativeStatus: preferred
     usageInfo: in a system;
     designation: redundancy
-  definition: |-
-    provision of more than one means for performing a function
-
-    Note 1 to entry: The additional means of performing the function can be intentionally different (diverse) to reduce the potential for common mode failures ({{192-03-19, IEV:192-03-19}}).
+  definition: provision of more than one means for performing a function
   language_code: eng
-  notes: []
+  notes:
+  - The additional means of performing the function can be intentionally different
+    (diverse) to reduce the potential for common mode failures ({{192-03-19, IEV:192-03-19}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -61,9 +60,9 @@ fre:
   definition: existence de plusieurs moyens d’accomplir une fonction
   language_code: fre
   notes:
-  - Les moyens supplémentaires d’accomplir la fonction peuvent être intentionnellement
-    différents pour réduire l’éventualité de défaillances de mode commun ({{192-03-19,
-    IEV:192-03-19}}).
+  - '1 à l’article: Les moyens supplémentaires d’accomplir la fonction peuvent être
+    intentionnellement différents pour réduire l’éventualité de défaillances de mode
+    commun ({{192-03-19, IEV:192-03-19}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

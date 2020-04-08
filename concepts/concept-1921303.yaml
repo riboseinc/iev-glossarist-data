@@ -45,10 +45,11 @@ eng:
   - type: expression
     usageInfo: of a random variable;
     designation: mean
-  definition: 1) for a discrete random variable X taking the values xi with the probabilities
-    pi, the sum E(X) = i pixi extended to all values xi which can be taken by X  2)
-    for a continuous random variable X having the probability density function f(x),
-    the value of the integral E(X) = xf(x)dx
+  definition: "1) for a discrete random variable $$X$$ taking the values <i>x<sub>i</sub></i>
+    with the probabilities <i>p<sub>i</sub></i>, the sum $$E$$($$X$$) = <i>\n  <sub>i</sub>\n</i>
+    <i>p<sub>i</sub>x<sub>i</sub></i> extended to all values <i>x<sub>i</sub></i>
+    which can be taken by $$X$$  \n\n2) for a continuous random variable $$X$$ having
+    the probability density function $$f$$($$x$$), the value of the integral $$E$$($$X$$) = <i>xf(x)</i>d$$x$$"
   language_code: eng
   notes: []
   examples: []
@@ -80,10 +81,11 @@ fre:
     designation: moyenne
     gender: f
     plurality: singular
-  definition: 1) pour une variable aléatoire discrète X prenant les valeurs xi avec
-    les probabilités pi, somme E(X) = i pixi étendue à toutes les valeurs xi susceptibles
-    d'être prises par X 2) pour une variable aléatoire continue X de densité de probabilité
-    f(x), valeur de l'intégrale E(X) = xf(x)dx
+  definition: "1) pour une variable aléatoire discrète $$X$$ prenant les valeurs $$x$$<sub>i</sub>
+    avec les probabilités $$p$$<sub>i</sub>, somme $$E$$($$X$$) = <i>\n  <sub>i</sub>\n</i>
+    <i>p<sub>i</sub>x<sub>i</sub></i> étendue à toutes les valeurs $$x$$<sub>i</sub>
+    susceptibles d'être prises par $$X$$ \n\n2) pour une variable aléatoire continue
+    $$X$$ de densité de probabilité $$f$$($$x$$), valeur de l'intégrale $$E$$($$X$$) = <i>xf(x)</i>d$$x$$"
   language_code: fre
   notes: []
   examples: []

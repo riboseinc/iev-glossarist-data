@@ -39,9 +39,9 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: end-point
-  definition: for an interval from a to b, each of the numbers a and b; for an unbounded
-    interval onward from a, the number a; for an unbounded interval up to b, the number
-    b
+  definition: for an interval from $$a$$ to $$b$$, each of the numbers $$a$$ and $$b$$;
+    for an unbounded interval onward from $$a$$, the number $$a$$; for an unbounded
+    interval up to $$b$$, the number $$b$$
   language_code: eng
   notes: []
   examples: []
@@ -59,9 +59,9 @@ fre:
     designation: extrémité
     gender: f
     plurality: singular
-  definition: pour un intervalle de a à b, chacun des nombres a et b; pour un intervalle
-    illimité commençant en a, le nombre a; pour un intervalle illimité finissant en
-    b, le nombre b
+  definition: pour un intervalle de $$a$$ à $$b$$, chacun des nombres $$a$$ et $$b$$;
+    pour un intervalle illimité commençant en $$a$$, le nombre $$a$$; pour un intervalle
+    illimité finissant en $$b$$, le nombre $$b$$
   language_code: fre
   notes: []
   examples: []

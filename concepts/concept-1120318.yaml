@@ -36,14 +36,11 @@ eng:
     normativeStatus: preferred
     usageInfo: per duration;
     designation: rate
-  definition: |-
-    quotient of a {{quantity, IEV:112-01-01}} by a {{duration, IEV:113-01-13}}
-
-    EXAMPLE {{digit rate, IEV:702-05-23}}, specific absorption rate (SAR).
+  definition: quotient of a {{quantity, IEV:112-01-01}} by a {{duration, IEV:113-01-13}}
   language_code: eng
   notes:
-  - In French, other terms than "débit" are also used, e.g. for rate of rise, sampling
-    rate, modulation rate, fading rate, rain rate.
+  - '1 to entry: In French, other terms than "débit" are also used, e.g. for rate
+    of rise, sampling rate, modulation rate, fading rate, rain rate.'
   examples:
   - "{{digit rate, IEV:702-05-23}}, specific absorption rate (SAR)."
   entry_status: Standard
@@ -61,15 +58,12 @@ fre:
     designation: débit
     gender: m
     plurality: singular
-  definition: |-
-    quotient d'une {{grandeur, IEV:112-01-01}} par une {{durée, IEV:113-01-13}}
-
-    EXEMPLE {{débit numérique, IEV:702-05-23}}, débit d'absorption spécifique (DAS).
+  definition: quotient d'une {{grandeur, IEV:112-01-01}} par une {{durée, IEV:113-01-13}}
   language_code: fre
   notes:
-  - En français d'autres termes que "débit" sont aussi employés, par exemple vitesse
-    de montée, fréquence d'échantillonnage, rapidité de modulation, cadence d'évanouissement,
-    intensité de pluie.
+  - '1 à l''article: En français d''autres termes que "débit" sont aussi employés,
+    par exemple vitesse de montée, fréquence d''échantillonnage, rapidité de modulation,
+    cadence d''évanouissement, intensité de pluie.'
   examples:
   - "{{débit numérique, IEV:702-05-23}}, débit d'absorption spécifique (DAS)."
   entry_status: Standard

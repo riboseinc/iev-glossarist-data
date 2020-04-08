@@ -31,16 +31,15 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: accelerated test
-  definition: |-
-    test in which the stress level, or rate of stress application, exceeds that occurring under specified operational conditions, to reduce the duration required to produce a stress response
-
-    EXAMPLE Testing to determine thermal or mechanical fatigue life of components. Note 1 to entry: The test should not alter the basic failure modes or failure mechanisms, or their relative prevalence.
+  definition: test in which the stress level, or rate of stress application, exceeds
+    that occurring under specified operational conditions, to reduce the duration
+    required to produce a stress response
   language_code: eng
-  notes: []
+  notes:
+  - The test should not alter the basic failure modes or failure mechanisms, or their
+    relative prevalence.
   examples:
-  - 'Testing to determine thermal or mechanical fatigue life of components. Note 1
-    to entry: The test should not alter the basic failure modes or failure mechanisms,
-    or their relative prevalence.'
+  - Testing to determine thermal or mechanical fatigue life of components.
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
   date_amended: '2015-02-01T00:00:00+00:00'
@@ -55,18 +54,16 @@ fre:
     designation: essai accéléré
     gender: m
     plurality: singular
-  definition: |-
-    essai au cours duquel le niveau des contraintes, ou la fréquence de leur application, dépasse la valeur correspondant aux conditions opérationnelles spécifiées, afin de réduire la durée nécessaire pour obtenir une réponse aux contraintes
-
-    EXEMPLE Essai permettant de déterminer la résistance à la fatigue thermique ou mécanique des composants.
+  definition: essai au cours duquel le niveau des contraintes, ou la fréquence de
+    leur application, dépasse la valeur correspondant aux conditions opérationnelles
+    spécifiées, afin de réduire la durée nécessaire pour obtenir une réponse aux contraintes
   language_code: fre
   notes:
-  - Il convient que l’essai ne modifie ni les modes ou mécanismes fondamentaux de
-    défaillance, ni leur fréquence relative.
+  - '1 à l’article: Il convient que l’essai ne modifie ni les modes ou mécanismes
+    fondamentaux de défaillance, ni leur fréquence relative.'
   examples:
-  - 'Essai permettant de déterminer la résistance à la fatigue thermique ou mécanique
-    des composants. Note 1 à l’article: Il convient que l’essai ne modifie ni les
-    modes ou mécanismes fondamentaux de défaillance, ni leur fréquence relative.'
+  - Essai permettant de déterminer la résistance à la fatigue thermique ou mécanique
+    des composants.
   entry_status: Standard
   review_decision_event: published
 jpn:

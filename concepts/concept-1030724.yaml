@@ -48,9 +48,9 @@ eng:
     of a periodic quantity to the fundamental frequency
   language_code: eng
   notes:
-  - 'The harmonic order of the fundamental component is one. '
-  - When a reference fundamental frequency is defined, it is used in place of the
-    fundamental frequency.
+  - '1 to entry: The harmonic order of the fundamental component is one.'
+  - '2 to entry: When a reference fundamental frequency is defined, it is used in
+    place of the fundamental frequency.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -70,9 +70,9 @@ fre:
     en série de Fourier d’une grandeur périodique à la fréquence fondamentale
   language_code: fre
   notes:
-  - 'Le rang harmonique du fondamental est un. '
-  - Lorsqu'une fréquence fondamentale de référence est définie, elle est utilisée
-    à la place de la fréquence fondamentale.
+  - '1 à l''article: Le rang harmonique du fondamental est un.'
+  - '2 à l''article: Lorsqu''une fréquence fondamentale de référence est définie,
+    elle est utilisée à la place de la fréquence fondamentale.'
   examples: []
   entry_status: Standard
   review_decision_event: published

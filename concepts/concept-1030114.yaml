@@ -42,13 +42,14 @@ eng:
   - type: symbol
     designation: r
     international: true
-  definition: for a finite interval from a to b, difference $$b - a$$
+  definition: for a finite interval from $$a$$ to $$b$$, difference $$b - a$$
   language_code: eng
   notes:
-  - 'For example, the range of a closed interval from a to b is denoted by $$r a ,
-     b$$. '
-  - Specific terms are often used in place of “range”. For example, the range of a
-    time interval is called “duration”, the range of a frequency band is called “bandwidth”.
+  - '1 to entry: For example, the range of a closed interval from $$a$$ to $$b$$ is
+    denoted by $$r a ,   b$$.'
+  - '2 to entry: Specific terms are often used in place of “range”. For example, the
+    range of a time interval is called “duration”, the range of a frequency band is
+    called “bandwidth”.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -64,13 +65,14 @@ fre:
     designation: étendue
     gender: f
     plurality: singular
-  definition: pour un intervalle fini de a à b, différence $$b - a$$
+  definition: pour un intervalle fini de $$a$$ à $$b$$, différence $$b - a$$
   language_code: fre
   notes:
-  - 'Par exemple, l''étendue d''un intervalle fermé de a à b est notée $$r a ,  b$$. '
-  - Des termes spécifiques sont souvent employés à la place du terme étendue. Par
-    exemple, l’étendue d’un intervalle de temps est appelée «durée»; l’étendue d’une
-    bande de fréquences est appelée «largeur de bande».
+  - '1 à l''article: Par exemple, l''étendue d''un intervalle fermé de $$a$$ à $$b$$
+    est notée $$r a ,   b$$.'
+  - '2 à l''article: Des termes spécifiques sont souvent employés à la place du terme
+    étendue. Par exemple, l’étendue d’un intervalle de temps est appelée «durée»;
+    l’étendue d’une bande de fréquences est appelée «largeur de bande».'
   examples: []
   entry_status: Standard
   review_decision_event: published

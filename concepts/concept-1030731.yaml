@@ -42,10 +42,10 @@ eng:
   definition: difference between an alternating quantity and its fundamental component
   language_code: eng
   notes:
-  - 'When a reference fundamental component is defined, it is used in place of the
-    fundamental component. In this case, the term "harmonic content" is sometimes
-    restricted to the sum of harmonic components, and the term "total distortion content"
-    is used for the concept defined here. '
+  - '1 to entry: When a reference fundamental component is defined, it is used in
+    place of the fundamental component. In this case, the term "harmonic content"
+    is sometimes restricted to the sum of harmonic components, and the term "total
+    distortion content" is used for the concept defined here.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -64,10 +64,10 @@ fre:
   definition: différence entre une grandeur alternative et son fondamental
   language_code: fre
   notes:
-  - Lorsqu'une composante fondamentale de référence est définie, elle est utilisée
-    à la place du fondamental. Dans ce cas, le terme «résidu harmonique» est quelquefois
-    limité à la somme des harmoniques et le terme «résidu total de distorsion» est
-    utilisé pour le concept défini ici.
+  - '1 à l''article: Lorsqu''une composante fondamentale de référence est définie,
+    elle est utilisée à la place du fondamental. Dans ce cas, le terme «résidu harmonique»
+    est quelquefois limité à la somme des harmoniques et le terme «résidu total de
+    distorsion» est utilisé pour le concept défini ici.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -37,12 +37,11 @@ eng:
     designation: mean operating time to first failure
   - type: expression
     designation: MTTFF
-  definition: |-
-    expectation of the operating time to first failure
-
-    Note 1 to entry: See also operating time to first failure ({{192-05-02, IEV:192-05-02}}). Note 2 to entry: For non-repairable items, the MTTFF is also the MTTF.
+  definition: expectation of the operating time to first failure
   language_code: eng
-  notes: []
+  notes:
+  - See also operating time to first failure ({{192-05-02, IEV:192-05-02}}).
+  - For non-repairable items, the MTTFF is also the MTTF.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -62,12 +61,14 @@ fre:
     designation: durée moyenne avant la première défaillance
     gender: f
     plurality: singular
-  definition: |-
-    espérance mathématique du temps de fonctionnement avant la première défaillance
-
-    Note 1 à l’article: Voir aussi temps de fonctionnement avant la première défaillance ({{192-05-02, IEV:192-05-02}}). Note 2 à l’article: Pour des entités non réparables, la durée moyenne de fonctionnement avant la première défaillance est égale à la durée moyenne de fonctionnement avant défaillance.
+  definition: espérance mathématique du temps de fonctionnement avant la première
+    défaillance
   language_code: fre
-  notes: []
+  notes:
+  - Voir aussi temps de fonctionnement avant la première défaillance ({{192-05-02,
+    IEV:192-05-02}}).
+  - Pour des entités non réparables, la durée moyenne de fonctionnement avant la première
+    défaillance est égale à la durée moyenne de fonctionnement avant défaillance.
   examples: []
   entry_status: Standard
   review_decision_event: published

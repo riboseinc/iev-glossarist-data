@@ -50,8 +50,8 @@ eng:
     of a specified time-dependent quantity has a maximum value
   language_code: eng
   notes:
-  - If the antinode is not an isolated point, the terms "antinodal line", "antinodal
-    plan", or "antinodal surface" are used.
+  - '1 to entry: If the antinode is not an isolated point, the terms "antinodal line",
+    "antinodal plan", or "antinodal surface" are used.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -71,8 +71,8 @@ fre:
     variant dans le temps a une valeur maximale
   language_code: fre
   notes:
-  - Si le ventre n'est pas un point isolé, on emploie les termes «ligne ventrale»,
-    «plan ventral» ou «surface ventrale».
+  - '1 à l''article: Si le ventre n''est pas un point isolé, on emploie les termes
+    «ligne ventrale», «plan ventral» ou «surface ventrale».'
   examples: []
   entry_status: Standard
   review_decision_event: published

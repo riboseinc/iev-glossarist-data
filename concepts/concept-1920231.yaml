@@ -31,12 +31,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: wear-out failure period
-  definition: |-
-    time interval in the life of an item for which the instantaneous failure intensity of a repairable item, or the instantaneous failure rate of a non-repairable item, increases significantly with time
-
-    Note 1 to entry: What is considered “significantly” will depend upon the application.
+  definition: time interval in the life of an item for which the instantaneous failure
+    intensity of a repairable item, or the instantaneous failure rate of a non-repairable
+    item, increases significantly with time
   language_code: eng
-  notes: []
+  notes:
+  - What is considered “significantly” will depend upon the application.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -58,7 +58,7 @@ fre:
     du temps
   language_code: fre
   notes:
-  - L’augmentation considérée comme importante dépend de l’application.
+  - '1 à l’article: L’augmentation considérée comme importante dépend de l’application.'
   examples: []
   entry_status: Standard
   review_decision_event: published

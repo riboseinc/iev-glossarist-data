@@ -45,11 +45,13 @@ eng:
   definition: term designating a {{unit of measurement, IEV:112-01-14}}
   language_code: eng
   notes:
-  - "Names of derived units are special or compound. Rules for the formation of compound
-    names are given in ISO 80000-1 and IEC 60027-1. For example, the derived unit
-    of resistivity is the ohm metre, the derived unit of speed is the metre per second.\n\n"
-  - Unit names are given in the various parts of ISO 80000, IEC 80000, and IEC 60027
-    and also in the brochure The International System of Units, published by the BIPM.
+  - '1 to entry: Names of derived units are special or compound. Rules for the formation
+    of compound names are given in ISO 80000-1 and IEC 60027-1. For example, the derived
+    unit of resistivity is the ohm metre, the derived unit of speed is the metre per
+    second.'
+  - '2 to entry: Unit names are given in the various parts of ISO 80000, IEC 80000,
+    and IEC 60027 and also in the brochure The International System of Units, published
+    by the BIPM.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -70,13 +72,13 @@ fre:
   definition: terme désignant une {{unité de mesure, IEV:112-01-14}}
   language_code: fre
   notes:
-  - "Les noms des unités dérivées sont spéciaux ou composés. Des règles pour la formation
-    des noms composés sont données dans l'ISO 80000-1 et la CEI 60027-1. Par exemple,
-    l’unité dérivée de résistivité est l’ohm mètre, l’unité dérivée de vitesse est
-    le mètre par seconde.\n\n"
-  - Des noms d'unités sont donnés dans les différentes parties de l'ISO 80000, de
-    l'IEC 80000 et de l'IEC 60027, ainsi que dans la brochure Le système international
-    d'unités, publiée par le BIPM.
+  - '1 à l''article: Les noms des unités dérivées sont spéciaux ou composés. Des règles
+    pour la formation des noms composés sont données dans l''ISO 80000-1 et la CEI
+    60027-1. Par exemple, l’unité dérivée de résistivité est l’ohm mètre, l’unité
+    dérivée de vitesse est le mètre par seconde.'
+  - '2 à l''article: Des noms d''unités sont donnés dans les différentes parties de
+    l''ISO 80000, de l''IEC 80000 et de l''IEC 60027, ainsi que dans la brochure Le
+    système international d''unités, publiée par le BIPM.'
   examples: []
   entry_status: Standard
   review_decision_event: published

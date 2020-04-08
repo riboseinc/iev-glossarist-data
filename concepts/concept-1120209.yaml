@@ -51,13 +51,19 @@ eng:
     ions, electrons, holes, other particles or quasi-particles, groups of particles,
     double bonds, etc.'
   - The number of entities in a mole is the numerical value of the Avogadro constant
-    {NA} = 6,022... × 1023.
+    {$$N$$<sub>A</sub>} = 6,022... × 10<sup>23</sup>.
   - |-
     CGPM definition is as follows:
 
+
+
     1) The mole is the amount of substance of a system which contains as many elementary entities as there are atoms in 0,012 kilogram of carbon 12; its symbol is "mol".
 
+
+
     2) When the mole is used, the elementary entities must be specified and may be atoms, molecules, ions, electrons, other particles, or specified groups of such particles.
+
+
 
     The CIPM specifies "it is understood that unbound atoms of carbon 12, at rest and in their ground state, are referred to".
   examples: []
@@ -84,13 +90,19 @@ fre:
     atomes, molécules, ions, électrons, trous, autres particules ou quasi-particules,
     groupements de particules, doubles liaisons, etc.'
   - 'Le nombre d''entités dans une mole est la valeur numérique de la constante d''Avogadro:
-    {NA} = 6,022... × 1023.'
+    {$$N$$<sub>A</sub>} = 6,022... × 10<sup>23</sup>.'
   - |-
     La définition de la CGPM est la suivante:
 
+
+
     1) La mole est la quantité de matière d’un système contenant autant d’entités élémentaires qu’il y a d’atomes dans 0,012 kilogramme de carbone 12; son symbole est «mol».
 
+
+
     2) Lorsqu'on emploie la mole, les entités élémentaires doivent être spécifiées et peuvent être des atomes, des molécules, des ions, des électrons, d’autres particules ou des groupements spécifiés de telles particules.
+
+
 
     Le CIPM a précisé «il est entendu que l'on se réfère à des atomes de carbone 12 non liés, au repos et dans leur état fondamental».
   examples: []

@@ -51,16 +51,16 @@ eng:
     normativeStatus: preferred
     designation: instantaneous phase
   - type: symbol
-    designation: ''
+    designation: "$$$$"
     international: true
   definition: argument of the cosine function in the representation of a sinusoidal
     quantity
   language_code: eng
   notes:
-  - 'The term "instantaneous phase" is only used when the independent variable is
-    time. '
-  - For the quantity $$a ( t ) = hat A cos ( \omega  t + \vartheta_0 )$$, the phase
-    is $$\omega  t + \vartheta_0$$.
+  - '1 to entry: The term "instantaneous phase" is only used when the independent
+    variable is time.'
+  - '2 to entry: For the quantity $$a ( t ) = hat A cos ( omega   t + vartheta_0 )$$,
+    the phase is $$omega   t + vartheta_0$$.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -86,10 +86,10 @@ fre:
     sinusoïdale
   language_code: fre
   notes:
-  - 'Le terme «phase instantanée» n''est employé que lorsque la variable indépendante
-    est le temps. '
-  - Pour la grandeur $$a ( t ) = hat A cos ( \omega  t + \vartheta_0 )$$, la phase
-    est $$\omega  t + \vartheta_0$$.
+  - '1 à l''article: Le terme «phase instantanée» n''est employé que lorsque la variable
+    indépendante est le temps.'
+  - '2 à l''article: Pour la grandeur $$a ( t ) = hat A cos ( omega   t + vartheta_0
+    )$$, la phase est $$omega   t + vartheta_0$$.'
   examples: []
   entry_status: Standard
   classification: Preferred

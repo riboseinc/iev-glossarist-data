@@ -35,12 +35,13 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: error
-  definition: |-
-    discrepancy between a computed, observed or measured value or condition, and the true, specified or theoretically correct value or condition
-
-    Note 1 to entry: An error within a system may be caused by failure of one or more of its components, or by the activation of a systematic fault. Note 2 to entry: See also human error ({{192-03-14, IEV:192-03-14}}).
+  definition: discrepancy between a computed, observed or measured value or condition,
+    and the true, specified or theoretically correct value or condition
   language_code: eng
-  notes: []
+  notes:
+  - An error within a system may be caused by failure of one or more of its components,
+    or by the activation of a systematic fault.
+  - See also human error ({{192-03-14, IEV:192-03-14}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,9 +61,9 @@ fre:
     la valeur ou condition vraie, spécifiée ou théoriquement correcte
   language_code: fre
   notes:
-  - 'Une erreur dans un système peut être causée par une défaillance d’un ou de plusieurs
-    de ses composants ou par l’activation d’une panne systématique. '
-  - Voir également erreur humaine ({{192-03-14, IEV:192-03-14}}).
+  - '1 à l’article: Une erreur dans un système peut être causée par une défaillance
+    d’un ou de plusieurs de ses composants ou par l’activation d’une panne systématique.'
+  - '2 à l’article: Voir également erreur humaine ({{192-03-14, IEV:192-03-14}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -44,281 +44,35 @@ eng:
   language_code: eng
   notes:
   - |+
-    SI prefixes refer strictly to powers of 10 and should not be used for power of 2. For example, 1 kilobit should not be used to represent 1 024 bits ((210 bits) bits), which is 1 kibibit.
+    SI prefixes refer strictly to powers of 10 and should not be used for power of 2. For example, 1 kilobit should not be used to represent 1 024 bits ((2<sup>10</sup> bits) bits), which is 1 kibibit.
 
     Prefixes for binary multiples are:
 
 
 
+    <table style="width: 543px;" cellpadding="5" border="solid">
 
+    <tbody>
 
+    <tr>
 
+    <td rowspan="2" style="width: 76px; text-align: center;">
 
+    <strong>Factor</strong></td>
 
+    </tr>
 
+    <td rowspan="2" style="width: 388px; text-align: center;">
 
+    <strong>Value</strong></td>
 
-    Factor
+    </tbody>
 
+    <td colspan="2" style="width: 74px; text-align: center;">
 
+    <strong>Prefix</strong></td>
 
-
-
-    Value
-
-
-
-
-
-    Prefix
-
-
-
-
-
-
-
-
-
-    Name
-
-
-
-
-
-    Symbol
-
-
-
-
-
-
-
-
-
-    (210)1
-
-
-
-
-
-    1024
-
-
-
-
-
-    kibi
-
-
-
-
-
-    Ki
-
-
-
-
-
-
-
-
-
-    (210)2
-
-
-
-
-
-    1 048 576
-
-
-
-
-
-    mebi
-
-
-
-
-
-    Mi
-
-
-
-
-
-
-
-
-
-    (210)3
-
-
-
-
-
-    1 073 741 824
-
-
-
-
-
-    gibi
-
-
-
-
-
-    Gi
-
-
-
-
-
-
-
-
-
-    (210)4
-
-
-
-
-
-    1 099 511 627 776
-
-
-
-
-
-    tebi
-
-
-
-
-
-    Ti
-
-
-
-
-
-
-
-
-
-    (210)5
-
-
-
-
-
-    1 125 899 906 842 624
-
-
-
-
-
-    pebi
-
-
-
-
-
-    Pi
-
-
-
-
-
-
-
-
-
-    (210)6
-
-
-
-
-
-    1 152 921 504 606 846 976
-
-
-
-
-
-    exbi
-
-
-
-
-
-    Ei
-
-
-
-
-
-
-
-
-
-    (210)7
-
-
-
-
-
-    1 180 591 620 717 411 303 424
-
-
-
-
-
-    zebi
-
-
-
-
-
-    Zi
-
-
-
-
-
-
-
-
-
-    (210)8
-
-
-
-
-
-    1 208 925 819 614 629 174 706 176
-
-
-
-
-
-    yobi
-
-
-
-
-
-    Yi
-
-
-
-
-
-
-
-
+    </table>
 
   examples: []
   entry_status: Standard
@@ -340,281 +94,35 @@ fre:
   language_code: fre
   notes:
   - |+
-    Les préfixes SI représentent strictement des puissance de 10 et il convient de ne pas les utiliser pour des puissances de 2. Par exemple, il convient de ne pas utiliser 1 kilobit pour représenter 1 024 bits (210 bits), qui est 1 kibibit.
+    Les préfixes SI représentent strictement des puissance de 10 et il convient de ne pas les utiliser pour des puissances de 2. Par exemple, il convient de ne pas utiliser 1 kilobit pour représenter 1 024 bits (2<sup>10</sup> bits), qui est 1 kibibit.
 
     Les préfixes pour les multiples binaires sont:
 
 
 
+    <table style="width: 543px;" cellpadding="5" border="solid">
 
+    <tbody>
 
+    <tr>
 
+    <td rowspan="2" style="width: 76px; text-align: center;">
 
+    <strong>Facteur</strong></td>
 
+    </tr>
 
+    <td rowspan="2" style="width: 388px; text-align: center;">
 
+    <strong>Valeur</strong></td>
 
-    Facteur
+    </tbody>
 
+    <td colspan="2" style="width: 74px; text-align: center;">
 
+    <strong>Prfixe</strong></td>
 
-
-
-    Valeur
-
-
-
-
-
-    Prfixe
-
-
-
-
-
-
-
-
-
-    Nom
-
-
-
-
-
-    Symbole
-
-
-
-
-
-
-
-
-
-    (210)1
-
-
-
-
-
-    1024
-
-
-
-
-
-    kibi
-
-
-
-
-
-    Ki
-
-
-
-
-
-
-
-
-
-    (210)2
-
-
-
-
-
-    1 048 576
-
-
-
-
-
-    mebi
-
-
-
-
-
-    Mi
-
-
-
-
-
-
-
-
-
-    (210)3
-
-
-
-
-
-    1 073 741 824
-
-
-
-
-
-    gibi
-
-
-
-
-
-    Gi
-
-
-
-
-
-
-
-
-
-    (210)4
-
-
-
-
-
-    1 099 511 627 776
-
-
-
-
-
-    tebi
-
-
-
-
-
-    Ti
-
-
-
-
-
-
-
-
-
-    (210)5
-
-
-
-
-
-    1 125 899 906 842 624
-
-
-
-
-
-    pebi
-
-
-
-
-
-    Pi
-
-
-
-
-
-
-
-
-
-    (210)6
-
-
-
-
-
-    1 152 921 504 606 846 976
-
-
-
-
-
-    exbi
-
-
-
-
-
-    Ei
-
-
-
-
-
-
-
-
-
-    (210)7
-
-
-
-
-
-    1 180 591 620 717 411 303 424
-
-
-
-
-
-    zebi
-
-
-
-
-
-    Zi
-
-
-
-
-
-
-
-
-
-    (210)8
-
-
-
-
-
-    1 208 925 819 614 629 174 706 176
-
-
-
-
-
-    yobi
-
-
-
-
-
-    Yi
-
-
-
-
-
-
-
-
+    </table>
 
   examples: []
   entry_status: Standard

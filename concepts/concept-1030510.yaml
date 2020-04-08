@@ -40,7 +40,7 @@ eng:
     designation: aperiodic
     partOfSpeech: adj
   - type: symbol
-    designation: ''
+    designation: "<Value/>"
     international: true
   definition: pertaining to a non-oscillating change from one steady state to another
   language_code: eng

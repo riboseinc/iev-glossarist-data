@@ -37,12 +37,12 @@ eng:
     designation: software alpha test
   - type: expression
     designation: in-house software trial
-  definition: |-
-    part of a software trial carried out by the developer before release for external users
-
-    Note 1 to entry: The aim of software alpha testing is to subject the software to realistic operating conditions.
+  definition: part of a software trial carried out by the developer before release
+    for external users
   language_code: eng
-  notes: []
+  notes:
+  - The aim of software alpha testing is to subject the software to realistic operating
+    conditions.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -66,8 +66,8 @@ fre:
     à disposition à des utilisateurs externes
   language_code: fre
   notes:
-  - L’essai logiciel alpha consiste à soumettre le logiciel à des conditions de fonctionnement
-    réalistes.
+  - '1 à l’article: L’essai logiciel alpha consiste à soumettre le logiciel à des
+    conditions de fonctionnement réalistes.'
   examples: []
   entry_status: Standard
   review_decision_event: published

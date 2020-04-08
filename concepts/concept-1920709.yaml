@@ -31,9 +31,9 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: preventive maintenance action time
-  definition: part of the active preventive maintenance time taken to perform a preventive
-    maintenance action 60050-192-F2en/$file/60050-192-F2en.png>Figure 2 – Maintenance
-    times
+  definition: "part of the active preventive maintenance time taken to perform a preventive
+    maintenance action \n\n<simg/>60050-192-F2en/$file/60050-192-F2en.png&gt;\n\nFigure
+    2 – Maintenance times"
   language_code: eng
   notes: []
   examples: []
@@ -51,9 +51,9 @@ fre:
     designation: durée d’une tâche de maintenance préventive
     gender: f
     plurality: singular
-  definition: partie du temps de maintenance préventive consacré à effectuer une tâche
-    de maintenance préventive 60050-192-F2fr/$file/60050-192-F2fr.png>Figure 2 – Temps
-    de maintenance
+  definition: "partie du temps de maintenance préventive consacré à effectuer une
+    tâche de maintenance préventive \n\n<simg/>60050-192-F2fr/$file/60050-192-F2fr.png&gt;\n\nFigure
+    2 – Temps de maintenance"
   language_code: fre
   notes: []
   examples: []

@@ -34,12 +34,10 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: time between failures
-  definition: |-
-    duration between consecutive failures
-
-    Note 1 to entry: The time between failures includes the up time and the down time.
+  definition: duration between consecutive failures
   language_code: eng
-  notes: []
+  notes:
+  - The time between failures includes the up time and the down time.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -59,7 +57,8 @@ fre:
   definition: durée entre des défaillances consécutives
   language_code: fre
   notes:
-  - Le temps entre défaillances inclut le temps de disponibilité et le temps d’indisponibilité.
+  - '1 à l’article: Le temps entre défaillances inclut le temps de disponibilité et
+    le temps d’indisponibilité.'
   examples: []
   entry_status: Standard
   review_decision_event: published

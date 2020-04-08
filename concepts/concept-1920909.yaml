@@ -35,12 +35,14 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: test acceleration factor
-  definition: |-
-    ratio of the stress response rate of the test specimen under the accelerated conditions, to the stress response rate under specified operational conditions
-
-    Note 1 to entry: Both stress response rates refer to the same time interval in the life of the tested items. Note 2 to entry: Measures of stress response rate are, for example, operating time to failure, failure intensity, and rate of wear.
+  definition: ratio of the stress response rate of the test specimen under the accelerated
+    conditions, to the stress response rate under specified operational conditions
   language_code: eng
-  notes: []
+  notes:
+  - Both stress response rates refer to the same time interval in the life of the
+    tested items.
+  - Measures of stress response rate are, for example, operating time to failure,
+    failure intensity, and rate of wear.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -61,11 +63,11 @@ fre:
     des conditions opérationnelles spécifiées
   language_code: fre
   notes:
-  - 'Les deux rapidités de réponse aux contraintes se rapportent au même intervalle
-    de temps de la durée de vie des entités soumises à essai. '
-  - Des mesures da la rapidité de réponse aux contraintes sont, par exemple, le temps
-    de fonctionnement avant défaillance, l’intensité de défaillance et la rapidité
-    d’usure.
+  - '1 à l’article: Les deux rapidités de réponse aux contraintes se rapportent au
+    même intervalle de temps de la durée de vie des entités soumises à essai.'
+  - '2 à l’article: Des mesures da la rapidité de réponse aux contraintes sont, par
+    exemple, le temps de fonctionnement avant défaillance, l’intensité de défaillance
+    et la rapidité d’usure.'
   examples: []
   entry_status: Standard
   review_decision_event: published

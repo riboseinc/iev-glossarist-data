@@ -35,12 +35,10 @@ eng:
     designation: scheduled maintenance
   - type: expression
     designation: planned maintenance
-  definition: |-
-    maintenance carried out in accordance with a specified time schedule
-
-    Note 1 to entry: Scheduled maintenance may identify the need for some corrective maintenance action.
+  definition: maintenance carried out in accordance with a specified time schedule
   language_code: eng
-  notes: []
+  notes:
+  - Scheduled maintenance may identify the need for some corrective maintenance action.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -64,8 +62,8 @@ fre:
   definition: maintenance efectuée conformément à un échéancier
   language_code: fre
   notes:
-  - La maintenance programmée peut identifier la nécessité de certaines opérations
-    de maintenance corrective.
+  - '1 à l’article: La maintenance programmée peut identifier la nécessité de certaines
+    opérations de maintenance corrective.'
   examples: []
   entry_status: Standard
   classification: Deprecated

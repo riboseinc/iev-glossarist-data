@@ -31,12 +31,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: software unit test
-  definition: |-
-    test of a software module to verify that it functions as specified in the detailed design
-
-    Note 1 to entry: Normally, any software faults manifest will be removed before the next phase of testing.
+  definition: test of a software module to verify that it functions as specified in
+    the detailed design
   language_code: eng
-  notes: []
+  notes:
+  - Normally, any software faults manifest will be removed before the next phase of
+    testing.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,8 +56,8 @@ fre:
     spécifié dans la conception détaillée
   language_code: fre
   notes:
-  - En principe, toutes les manifestations de panne sont éliminées avant la phase
-    d’essai suivante.
+  - '1 à l’article: En principe, toutes les manifestations de panne sont éliminées
+    avant la phase d’essai suivante.'
   examples: []
   entry_status: Standard
   review_decision_event: published

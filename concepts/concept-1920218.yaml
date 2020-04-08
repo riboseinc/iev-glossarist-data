@@ -39,12 +39,12 @@ eng:
   - type: expression
     normativeStatus: deprecated
     designation: outage
-  definition: |-
-    state of being unable to perform as required, for any reason
-
-    Note 1 to entry: The adjective “disabled” designates an item in a disabled state. Note 2 to entry: The term “outage” is deprecated, in this sense, because it is synonym of disabled time ({{192-02-19, IEV:192-02-19}}).
+  definition: state of being unable to perform as required, for any reason
   language_code: eng
-  notes: []
+  notes:
+  - The adjective “disabled” designates an item in a disabled state.
+  - The term “outage” is deprecated, in this sense, because it is synonym of disabled
+    time ({{192-02-19, IEV:192-02-19}}).
   examples: []
   entry_status: Standard
   classification: Deprecated
@@ -72,9 +72,10 @@ fre:
     que ce soit
   language_code: fre
   notes:
-  - 'L’adjectif «incapable» qualifie une entité se trouvant dans un état d’incapacité. '
-  - Le terme «interruption» est déconseillé dans ce sens car il est synonyme de temps
-    d’incapacité ({{192-02-19, IEV:192-02-19}}).
+  - '1 à l’article: L’adjectif «incapable» qualifie une entité se trouvant dans un
+    état d’incapacité.'
+  - '2 à l’article: Le terme «interruption» est déconseillé dans ce sens car il est
+    synonyme de temps d’incapacité ({{192-02-19, IEV:192-02-19}}).'
   examples: []
   entry_status: Standard
   classification: Deprecated

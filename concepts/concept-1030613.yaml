@@ -44,7 +44,7 @@ eng:
   - type: expression
     designation: peak distortion
   - type: symbol
-    designation: q
+    designation: "$$q$$"
     international: true
   definition: ratio of the peak-to-valley value of the alternating component of a
     pulsating quantity to the absolute value of the direct component

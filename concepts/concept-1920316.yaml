@@ -35,12 +35,15 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: ageing failure
-  definition: |-
-    failure whose probability of occurrence increases with the passage of calendar time due to cumulative deterioration
-
-    Note 1 to entry: Ageing is a physical or chemical phenomenon that involves changes in characteristics of the material with time, in some circumstances related to interaction with its environment. Note 2 to entry: In some instances, it may be difficult to distinguish between wear-out and ageing phenomena.
+  definition: failure whose probability of occurrence increases with the passage of
+    calendar time due to cumulative deterioration
   language_code: eng
-  notes: []
+  notes:
+  - Ageing is a physical or chemical phenomenon that involves changes in characteristics
+    of the material with time, in some circumstances related to interaction with its
+    environment.
+  - In some instances, it may be difficult to distinguish between wear-out and ageing
+    phenomena.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,11 +63,11 @@ fre:
     par suite d’une détérioration cumulative
   language_code: fre
   notes:
-  - 'Le vieillissement est un phénomène physique ou chimique impliquant des modifications
-    des caractéristiques du matériau au fil du temps, liées dans certaines circonstances
-    à une interaction avec son environnement. '
-  - Dans certains cas, la distinction entre les phénomènes d’usure et de vieillissement
-    peut s’avérer difficile.
+  - '1 à l’article: Le vieillissement est un phénomène physique ou chimique impliquant
+    des modifications des caractéristiques du matériau au fil du temps, liées dans
+    certaines circonstances à une interaction avec son environnement.'
+  - '2 à l’article: Dans certains cas, la distinction entre les phénomènes d’usure
+    et de vieillissement peut s’avérer difficile.'
   examples: []
   entry_status: Standard
   review_decision_event: published

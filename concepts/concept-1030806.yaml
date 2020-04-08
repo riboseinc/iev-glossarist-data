@@ -39,9 +39,9 @@ eng:
     normativeStatus: preferred
     designation: ergodic
     partOfSpeech: adj
-  definition: 'pertaining to a stationary random function for which the mean values
-    in time are identical to the corresponding expectations:  $$underset(( T -> oo
-    ))(( lim)) (1)/(( 2T))  ∫_( - T)^( + T) f ( t ) dt = E f ( t )$$'
+  definition: "pertaining to a stationary random function for which the mean values
+    in time are identical to the corresponding expectations: \n\n $$underset(( T -&gt;
+    oo))(( lim)) (1)/(( 2 T)) ∫_( - T)^( + T) f ( t ) d t = E f ( t )$$"
   language_code: eng
   notes: []
   examples: []
@@ -58,9 +58,9 @@ fre:
     normativeStatus: preferred
     designation: ergodique
     partOfSpeech: adj
-  definition: 'qualifie une fonction aléatoire stationnaire dont les moyennes dans
-    le temps sont identiques aux espérances mathématiques correspondantes:  $$underset((
-    T -> oo ))(( lim)) (1)/(( 2T))  ∫_( - T)^( + T) f ( t ) dt = E f ( t )$$'
+  definition: "qualifie une fonction aléatoire stationnaire dont les moyennes dans
+    le temps sont identiques aux espérances mathématiques correspondantes: \n\n $$underset((
+    T -&gt; oo))(( lim)) (1)/(( 2 T)) ∫_( - T)^( + T) f ( t ) d t = E f ( t )$$"
   language_code: fre
   notes: []
   examples: []

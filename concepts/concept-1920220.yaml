@@ -52,12 +52,12 @@ eng:
   - type: expression
     usageInfo: of an item;
     designation: internal disabled state
-  definition: |-
-    state of being unable to perform as required, due to internal fault, or preventive maintenance
-
-    Note 1 to entry: Down state relates to unavailability of the item. Note 2 to entry: The adjectives “down” or “unavailable” designate an item in a down state.
+  definition: state of being unable to perform as required, due to internal fault,
+    or preventive maintenance
   language_code: eng
-  notes: []
+  notes:
+  - Down state relates to unavailability of the item.
+  - The adjectives “down” or “unavailable” designate an item in a down state.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -83,8 +83,8 @@ fre:
     panne interne ou de la maintenance préventive
   language_code: fre
   notes:
-  - 'L’état d’indisponibilité est lié à l’indisponibilité de l’entité. '
-  - L’adjectif «indisponible» qualifie une entité dans un état d’indisponibilité.
+  - '1 à l’article: L’état d’indisponibilité est lié à l’indisponibilité de l’entité.'
+  - '2 à l’article: L’adjectif «indisponible» qualifie une entité dans un état d’indisponibilité.'
   examples: []
   entry_status: Standard
   review_decision_event: published

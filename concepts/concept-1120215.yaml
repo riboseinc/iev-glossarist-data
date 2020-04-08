@@ -42,7 +42,8 @@ eng:
   - type: symbol
     designation: n
     international: true
-  definition: SI prefix used to form the submultiple 10-9 of a unit of measurement
+  definition: SI prefix used to form the submultiple 10<sup>-9</sup> of a unit of
+    measurement
   language_code: eng
   notes: []
   examples: []
@@ -59,8 +60,8 @@ fre:
     prefix: true
     normativeStatus: preferred
     designation: nano
-  definition: préfixe SI utilisé pour former le sous-multiple 10-9 d’une unité de
-    mesure
+  definition: préfixe SI utilisé pour former le sous-multiple 10<sup>-9</sup> d’une
+    unité de mesure
   language_code: fre
   notes: []
   examples: []
@@ -79,7 +80,7 @@ jpn:
     designation: ナノ
   - type: expression
     normativeStatus: preferred
-    designation: "$$^$$"
+    designation: 10<sup>-9</sup>
   language_code: jpn
   notes: []
   examples: []

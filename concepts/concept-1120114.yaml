@@ -73,8 +73,8 @@ eng:
     metre (N•m).
   - Units of quantities of dimension one are numbers. In some cases, these units are
     given special names, e.g. radian (rad), steradian (sr), and decibel (dB), or are
-    expressed by quotients such as millimole per mole (mmol/mol) equal to 10–3, and
-    microgram per kilogram (µg/kg) equal to 10–9.
+    expressed by quotients such as millimole per mole (mmol/mol) equal to 10<sup>–3</sup>,
+    and microgram per kilogram (µg/kg) equal to 10<sup>–9</sup>.
   - For a given quantity, the short term “unit” is often combined with the quantity
     name, such as "unit of mass".
   examples: []
@@ -121,7 +121,7 @@ fre:
   - Les unités des grandeurs sans dimension sont des nombres. Dans certains cas, on
     leur donne des noms spéciaux, par exemple radian (rad), stéradian (sr) et décibel
     (dB), ou on les exprime par des quotients comme la millimole par mole (mmol/mol),
-    égale à 10–3, et le microgramme par kilogramme (µg/kg), égal à 10–9.
+    égale à 10<sup>–3</sup>, et le microgramme par kilogramme (µg/kg), égal à 10<sup>–9</sup>.
   - Pour une grandeur donnée, le nom abrégé « unité » est souvent combiné avec le
     nom de la grandeur, par exemple « unité de masse ».
   examples: []

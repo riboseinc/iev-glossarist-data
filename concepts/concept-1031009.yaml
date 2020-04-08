@@ -44,16 +44,15 @@ eng:
     normativeStatus: preferred
     designation: wave vector
   - type: symbol
-    designation: k
+    designation: "<b>$$k$$</b>"
     international: true
-  definition: vector k in the expression $$\omega  t - k * r + \vartheta_0$$ of the
-    phase of a sinusoidal wave
+  definition: "vector \n\n$$k$$"
   language_code: eng
   notes:
-  - 'The wave vector is normal to the wave front and its magnitude is the angular
-    wavenumber. '
-  - This concept can be generalized to complex wave vector in order to take attenuation
-    in account (see IEC 60050-705).
+  - '1 to entry: The wave vector is normal to the wave front and its magnitude is
+    the angular wavenumber.'
+  - '2 to entry: This concept can be generalized to complex wave vector in order to
+    take attenuation in account (see IEC 60050-705).'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -69,14 +68,13 @@ fre:
     designation: vecteur d'onde
     gender: m
     plurality: singular
-  definition: vecteur k dans l'expression $$\omega  t - k * r + \vartheta_0$$ de la
-    phase d'une onde sinusoïdale
+  definition: "vecteur \n\n$$k$$"
   language_code: fre
   notes:
-  - 'Le vecteur d''onde est normal à la surface d''onde et sa norme est le nombre
-    d''onde angulaire. '
-  - Le concept peut être généralisé à un vecteur d'onde complexe pour tenir compte
-    de l'affaiblissement (voir IEC 60050-705).
+  - '1 à l''article: Le vecteur d''onde est normal à la surface d''onde et sa norme
+    est le nombre d''onde angulaire.'
+  - '2 à l''article: Le concept peut être généralisé à un vecteur d''onde complexe
+    pour tenir compte de l''affaiblissement (voir IEC 60050-705).'
   examples: []
   entry_status: Standard
   review_decision_event: published

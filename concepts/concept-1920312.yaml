@@ -31,12 +31,10 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: failure mechanism
-  definition: |-
-    process that leads to failure
-
-    Note 1 to entry: The process may be physical, chemical, logical, or a combination thereof.
+  definition: process that leads to failure
   language_code: eng
-  notes: []
+  notes:
+  - The process may be physical, chemical, logical, or a combination thereof.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,8 +53,8 @@ fre:
   definition: processus entraînant une défaillance
   language_code: fre
   notes:
-  - Il peut s’agir d’un processus physique, chimique ou logique, ou d’une de leurs
-    combinaisons.
+  - '1 à l’article: Il peut s’agir d’un processus physique, chimique ou logique, ou
+    d’une de leurs combinaisons.'
   examples: []
   entry_status: Standard
   review_decision_event: published

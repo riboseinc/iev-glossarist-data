@@ -43,8 +43,8 @@ eng:
     in the sense of decreasing phase
   language_code: eng
   notes:
-  - The direction of propagation of a wave may differ from the direction of propagation
-    of energy of this wave.
+  - '1 to entry: The direction of propagation of a wave may differ from the direction
+    of propagation of energy of this wave.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -64,8 +64,8 @@ fre:
     dans le sens des phases décroissantes
   language_code: fre
   notes:
-  - La direction de propagation d'une onde peut être différente de la direction de
-    propagation de l'énergie de cette onde.
+  - '1 à l''article: La direction de propagation d''une onde peut être différente
+    de la direction de propagation de l''énergie de cette onde.'
   examples: []
   entry_status: Standard
   review_decision_event: published

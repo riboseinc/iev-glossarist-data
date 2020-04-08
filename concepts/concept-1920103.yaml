@@ -34,12 +34,14 @@ eng:
     normativeStatus: preferred
     usageInfo: in dependability;
     designation: system
-  definition: |-
-    set of interrelated items that collectively fulfil a requirement
-
-    Note 1 to entry: A system is considered to have a defined real or abstract boundary. Note 2 to entry: External resources (from outside the system boundary) may be required for the system to operate. Note 3 to entry: A system structure may be hierarchical, e.g. system, subsystem, component, etc. Note 4 to entry: Conditions of use and maintenance should be expressed or implied within the requirement.
+  definition: set of interrelated items that collectively fulfil a requirement
   language_code: eng
-  notes: []
+  notes:
+  - A system is considered to have a defined real or abstract boundary.
+  - External resources (from outside the system boundary) may be required for the
+    system to operate.
+  - A system structure may be hierarchical, e.g. system, subsystem, component, etc.
+  - Conditions of use and maintenance should be expressed or implied within the requirement.
   examples: []
   entry_status: Standard
   authoritative_source:
@@ -63,13 +65,14 @@ fre:
     à une exigence
   language_code: fre
   notes:
-  - 'Un système est considéré comme ayant une frontière définie, réelle ou abstraite. '
-  - 'Des ressources externes (provenant d’au-delà de la frontière) peuvent être nécessaires
-    au fonctionnement du système. '
-  - 'La structure d’un système peut être hiérarchique, par exemple, système, sous-système,
-    composant, etc. '
-  - Il convient d’exprimer ou de sous-entendre les conditions d’utilisation et de
-    maintenance dans l’exigence.
+  - '1 à l’article: Un système est considéré comme ayant une frontière définie, réelle
+    ou abstraite.'
+  - '2 à l’article: Des ressources externes (provenant d’au-delà de la frontière)
+    peuvent être nécessaires au fonctionnement du système.'
+  - '3 à l’article: La structure d’un système peut être hiérarchique, par exemple,
+    système, sous-système, composant, etc.'
+  - '4 à l’article: Il convient d’exprimer ou de sous-entendre les conditions d’utilisation
+    et de maintenance dans l’exigence.'
   examples: []
   entry_status: Standard
   authoritative_source:

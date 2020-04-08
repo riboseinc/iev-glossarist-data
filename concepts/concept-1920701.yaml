@@ -35,14 +35,17 @@ eng:
     usageInfo: measure;
     designation: maintainability
   - type: symbol
-    designation: M(t1, t2)
+    designation: "$$M$$($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)"
     international: true
-  definition: |-
-    probability that a given maintenance action, performed under stated conditions and using specified procedures and resources, can be completed within the time interval (t1, t2) given that the action started at t = 0
-
-    Note 1 to entry: When t1 = 0 and t2 = t, then M(0, t) is denoted simply as M(t) and termed the maintainability function. Note 2 to entry: See also maintainability <of an item> ({{192-01-27, IEV:192-01-27}}).
+  definition: probability that a given maintenance action, performed under stated
+    conditions and using specified procedures and resources, can be completed within
+    the time interval ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>) given that the action
+    started at $$t$$ = 0
   language_code: eng
-  notes: []
+  notes:
+  - When $$t$$<sub>1</sub> = 0 and $$t$$<sub>2</sub> = $$t$$, then $$M$$(0, $$t$$)
+    is denoted simply as $$M$$($$t$$) and termed the maintainability function.
+  - See also maintainability &lt;of an item&gt; ({{192-01-27, IEV:192-01-27}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -60,17 +63,18 @@ fre:
     gender: f
     plurality: singular
   - type: symbol
-    designation: M(t1, t2)
+    designation: "$$M$$($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)"
     international: true
   definition: probabilité pour qu’une opération donnée de maintenance, réalisée dans
     des conditions définies et à l’aide de procédures et ressources spécifiées, puisse
-    être effectuée dans un intervalle de temps (t1, t2) donné lorsque l’opération
-    a démarré à t = 0
+    être effectuée dans un intervalle de temps ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)
+    donné lorsque l’opération a démarré à $$t$$ = 0
   language_code: fre
   notes:
-  - 'Si t1= 0 et t2 = t, alors M(0, t) est indiqué simplement sous la forme M(t) et
-    appelé fonction de maintenabilité. '
-  - Voir aussi maintenabilité <d’une entité> ({{192-01-27, IEV:192-01-27}}).
+  - '1 à l’article: Si $$t$$<sub>1</sub>= 0 et $$t$$<sub>2</sub> = $$t$$, alors $$M$$(0,
+    $$t$$) est indiqué simplement sous la forme $$M$$($$t$$) et appelé fonction de
+    maintenabilité.'
+  - '2 à l’article: Voir aussi maintenabilité &lt;d’une entité&gt; ({{192-01-27, IEV:192-01-27}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

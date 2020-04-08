@@ -46,10 +46,11 @@ eng:
     normativeStatus: preferred
     designation: damping coefficient
   - type: symbol
-    designation: ''
+    designation: "$$$$"
     international: true
-  definition: positive quantity  in the expression $$A_0 e^( - \delta  t) f ( t )$$
-    of an exponentially damped oscillation, where $$f ( t )$$ is a periodic function
+  definition: positive quantity $$$$ in the expression $$A_0 e^( - delta   t) f (
+    t )$$ of an exponentially damped oscillation, where $$f ( t )$$ is a periodic
+    function
   language_code: eng
   notes: []
   examples: []
@@ -67,8 +68,9 @@ fre:
     designation: coefficient d'amortissement
     gender: m
     plurality: singular
-  definition: grandeur positive  dans l'expression $$A_0 e^( - \delta  t) f ( t )$$
-    d'une oscillation amortie exponentiellement, où $$f ( t )$$ est une fonction périodique
+  definition: grandeur positive $$$$ dans l'expression $$A_0 e^( - delta   t) f (
+    t )$$ d'une oscillation amortie exponentiellement, où $$f ( t )$$ est une fonction
+    périodique
   language_code: fre
   notes: []
   examples: []

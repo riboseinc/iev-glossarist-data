@@ -50,8 +50,8 @@ eng:
     of the independent variable
   language_code: eng
   notes:
-  - The unit ramp may be denoted $$x * \epsilon ( x )$$, where $$( x )$$ is the unit
-    step function.
+  - '1 to entry: The unit ramp may be denoted $$x * epsilon ( x )$$, where $$( x )$$
+    is the unit step function.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -72,8 +72,8 @@ fre:
     de la variable indépendante
   language_code: fre
   notes:
-  - La rampe unité peut être représentée par $$x * \epsilon ( x )$$, $$\epsilon (
-    x )$$ où est la fonction échelon unité.
+  - '1 à l''article: La rampe unité peut être représentée par $$x * epsilon ( x )$$,
+    $$epsilon ( x )$$ où est la fonction échelon unité.'
   examples: []
   entry_status: Standard
   review_decision_event: published

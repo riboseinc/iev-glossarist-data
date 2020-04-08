@@ -55,11 +55,12 @@ eng:
     differentiable functions vanishing outside a bounded interval or domain
   language_code: eng
   notes:
-  - 'A function D(x) can be considered as a distribution D assigning to a function
-    f(x) the value  $$D ( f ) =  ∫_(( - oo ))^(( + oo )) D ( x ) f ( x ) dx$$ if this
-    integral exists. '
-  - The derivative of a distribution D is another distribution D defined for any function
-    f(x) by $$D^( ' ) ( f ) = - D ( df //  dx )$$.
+  - "1 to entry: A function $$D$$($$x$$) can be considered as a distribution $$D$$
+    assigning to a function $$f$$($$x$$) the value \n\n $$D ( f ) = ∫_(( - oo))^((
+    + oo)) D ( x ) f ( x ) d x$$ if this integral exists."
+  - "2 to entry: The derivative of a distribution $$D$$ is another distribution $$D$$
+    defined for any function $$f$$($$x$$) by \n\n$$D^( ' ) ( f ) = - D ( d f //  
+    d x )$$."
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -85,11 +86,12 @@ fre:
     indéfiniment dérivables nulles en dehors d'un intervalle ou domaine borné
   language_code: fre
   notes:
-  - 'Une fonction D(x) peut être considérée comme une distribution D associant à une
-    fonction f(x) la valeur  $$D ( f ) =  ∫_(( - oo ))^(( + oo )) D ( x ) f ( x )
-    dx$$ si cette intégrale existe. '
-  - 2 La dérivée d'une distribution D est une autre distribution D définie pour toute
-    fonction f(x) par $$D^( ' ) ( f ) = - D ( df //  dx )$$.
+  - "1 à l'article: Une fonction $$D$$($$x$$) peut être considérée comme une distribution
+    $$D$$ associant à une fonction $$f$$($$x$$) la valeur \n\n $$D ( f ) = ∫_(( -
+    oo))^(( + oo)) D ( x ) f ( x ) d x$$ si cette intégrale existe."
+  - "1 à l'article: 2 La dérivée d'une distribution $$D$$ est une autre distribution
+    $$D$$ définie pour toute fonction $$f$$($$x$$) par \n\n$$D^( ' ) ( f ) = - D (
+    d f //   d x )$$."
   examples: []
   entry_status: Standard
   review_decision_event: published

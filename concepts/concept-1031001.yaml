@@ -43,9 +43,9 @@ eng:
     defined at each point of a medium
   language_code: eng
   notes:
-  - Electromagnetic and acoustic waves in linear media are represented by particular
-    solutions of hyperbolic second order partial differential equations in space and
-    time, for example resulting from Maxwell equations.
+  - '1 to entry: Electromagnetic and acoustic waves in linear media are represented
+    by particular solutions of hyperbolic second order partial differential equations
+    in space and time, for example resulting from Maxwell equations.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -65,10 +65,10 @@ fre:
     vitesse bien déterminé en chaque point d'un milieu
   language_code: fre
   notes:
-  - Les ondes électromagnétiques et acoustiques dans des milieux linéaires sont représentées
-    par des solutions particulières d'équations aux dérivées partielles hyperboliques
-    du deuxième ordre par rapport à l'espace et au temps, qui se déduisent par exemple
-    des équations de Maxwell.
+  - '1 à l''article: Les ondes électromagnétiques et acoustiques dans des milieux
+    linéaires sont représentées par des solutions particulières d''équations aux dérivées
+    partielles hyperboliques du deuxième ordre par rapport à l''espace et au temps,
+    qui se déduisent par exemple des équations de Maxwell.'
   examples: []
   entry_status: Standard
   review_decision_event: published

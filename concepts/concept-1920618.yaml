@@ -31,12 +31,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: fault detection
-  definition: |-
-    event by which the presence of a fault becomes apparent
-
-    Note 1 to entry: The term “fault recognition” used in IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) is not in general usage.
+  definition: event by which the presence of a fault becomes apparent
   language_code: eng
-  notes: []
+  notes:
+  - The term “fault recognition” used in IEC 60050-191:1990 (now withdrawn; replaced
+    by IEC 60050-192:2015) is not in general usage.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -55,8 +54,8 @@ fre:
   definition: événement mettant en évidence la présence de panne
   language_code: fre
   notes:
-  - Le terme «fault recognition», utilisé en anglais dans l’IEC 60050-191:1990 (supprimée;
-    remplacée par l'IEC 60050-192:2015), n’est pas d’usage général.
+  - '1 à l’article: Le terme «fault recognition», utilisé en anglais dans l’IEC 60050-191:1990
+    (supprimée; remplacée par l''IEC 60050-192:2015), n’est pas d’usage général.'
   examples: []
   entry_status: Standard
   review_decision_event: published

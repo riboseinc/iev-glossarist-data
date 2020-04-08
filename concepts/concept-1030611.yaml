@@ -36,14 +36,15 @@ eng:
     normativeStatus: preferred
     designation: pulsating factor
   - type: symbol
-    designation: s
+    designation: "$$s$$"
     international: true
   definition: ratio of the RMS value of the alternating component of a {{pulsating,
     IEV:103-06-07}} quantity to the RMS value of the quantity itself
   language_code: eng
   notes:
-  - For a pulsating quantity x with RMS value $$X_(( eff))$$ and alternating component
-    $$x_( ∼ )$$, the pulsating factor is $$s = X_( ∼ ) ()_(( eff)) // X_(( eff))$$.
+  - '1 to entry: For a pulsating quantity $$x$$ with RMS value $$X_(( e f f))$$ and
+    alternating component $$x_( ∼ )$$, the pulsating factor is $$s = X_( ∼ ) ()_((
+    eff)) // X_(( eff))$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2017-07-01T00:00:00+00:00'
@@ -64,9 +65,9 @@ fre:
     {{ondulée, IEV:103-06-07}} à la valeur efficace de la grandeur elle-même
   language_code: fre
   notes:
-  - Pour une grandeur ondulée x de valeur efficace $$X_(( eff))$$ et de composante
-    alternative $$x_( ∼ )$$, le taux d'ondulation est $$s = X_( ∼ ) ()_(( eff)) //
-    X_(( eff))$$.
+  - '1 à l''article: Pour une grandeur ondulée $$x$$ de valeur efficace $$X_(( e f
+    f))$$ et de composante alternative $$x_( ∼ )$$, le taux d''ondulation est $$s
+    = X_( ∼ ) ()_(( eff)) // X_(( eff))$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

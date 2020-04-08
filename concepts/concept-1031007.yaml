@@ -49,8 +49,9 @@ eng:
     propagation
   language_code: eng
   notes:
-  - The term "longitudinal wave" is also used for a wave characterized by a scalar
-    quantity, e.g. pressure, if its gradient characterizes a longitudinal wave.
+  - '1 to entry: The term "longitudinal wave" is also used for a wave characterized
+    by a scalar quantity, e.g. pressure, if its gradient characterizes a longitudinal
+    wave.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -70,9 +71,9 @@ fre:
     de propagation
   language_code: fre
   notes:
-  - Le terme «onde longitudinale» est employé aussi pour une onde caractérisée par
-    une grandeur scalaire, par exemple la pression, si son gradient caractérise une
-    onde longitudinale.
+  - '1 à l''article: Le terme «onde longitudinale» est employé aussi pour une onde
+    caractérisée par une grandeur scalaire, par exemple la pression, si son gradient
+    caractérise une onde longitudinale.'
   examples: []
   entry_status: Standard
   review_decision_event: published

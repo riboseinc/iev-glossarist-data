@@ -39,12 +39,13 @@ eng:
     normativeStatus: preferred
     usageInfo: in dependability;
     designation: test
-  definition: |-
-    procedure carried out to determine one or more characteristics
-
-    Note 1 to entry: A test on a sample of items is conducted to ascertain information about the population of items from which the sample was taken. Note 2 to entry: A test may be applied to assess a dependability characteristic of an item, such as reliability or maintainability.
+  definition: procedure carried out to determine one or more characteristics
   language_code: eng
-  notes: []
+  notes:
+  - A test on a sample of items is conducted to ascertain information about the population
+    of items from which the sample was taken.
+  - A test may be applied to assess a dependability characteristic of an item, such
+    as reliability or maintainability.
   examples: []
   entry_status: Standard
   authoritative_source:
@@ -67,10 +68,11 @@ fre:
   definition: procédure exécutée pour déterminer une ou plusieurs caractéristiques
   language_code: fre
   notes:
-  - 'Un essai est réalisé sur un échantillon d’entités pour établir des informations
-    relatives à la population d’entités de laquelle l’échantillon a été prélevé. '
-  - Un essai peut être effectué pour évaluer une caractéristique de sûreté de fonctionnement,
-    comme la fiabilité ou la maintenabilité.
+  - '1 à l’article: Un essai est réalisé sur un échantillon d’entités pour établir
+    des informations relatives à la population d’entités de laquelle l’échantillon
+    a été prélevé.'
+  - '2 à l’article: Un essai peut être effectué pour évaluer une caractéristique de
+    sûreté de fonctionnement, comme la fiabilité ou la maintenabilité.'
   examples: []
   entry_status: Standard
   authoritative_source:

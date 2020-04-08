@@ -38,14 +38,17 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: reliability
-  definition: |-
-    ability to perform as required, without failure, for a given time interval, under given conditions
-
-    Note 1 to entry: The time interval duration can be expressed in units appropriate to the item concerned, e.g. calendar time, operating cycles, distance run, etc., and the units should always be clearly stated. Note 2 to entry: Given conditions include aspects that affect reliability, such as: mode of operation, stress levels, environmental conditions, and maintenance.
+  definition: ability to perform as required, without failure, for a given time interval,
+    under given conditions
   language_code: eng
   notes:
-  - 'Reliability can be quantified using measures defined in Section 192-05, Reliability
-    related concepts: measures.'
+  - The time interval duration can be expressed in units appropriate to the item concerned,
+    e.g. calendar time, operating cycles, distance run, etc., and the units should
+    always be clearly stated.
+  - 'Given conditions include aspects that affect reliability, such as: mode of operation,
+    stress levels, environmental conditions, and maintenance.'
+  - '3 to entry: Reliability can be quantified using measures defined in http://www.electropedia.org/iev/iev.nsf/SearchView?SearchView=field+SearchFields+contains+192-05+and+field+Language=en=4=0[Section
+    192-05, <i>Reliability related concepts: measures</i>].'
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -66,14 +69,15 @@ fre:
     de temps donné et dans des conditions données
   language_code: fre
   notes:
-  - 'La durée de l’intervalle de temps peut être exprimée en unités appropriées à
-    l’entité concernée, par exemple, temps calendaire, cycles de fonctionnement, distance
-    parcourue, etc. Il convient de toujours énoncer clairement les unités. '
-  - 'Les conditions données incluent les aspects ayant un impact sur la fiabilité,
-    tels que: le mode de fonctionnement, les niveaux de contrainte, les conditions
-    environnementales et la maintenance.'
-  - 'La fiabilité peut être quantifiée à l’aide de mesures définies dans la Section
-    192-05, Concepts liés à la fiabilité: mesures.'
+  - '1 à l’article: La durée de l’intervalle de temps peut être exprimée en unités
+    appropriées à l’entité concernée, par exemple, temps calendaire, cycles de fonctionnement,
+    distance parcourue, etc. Il convient de toujours énoncer clairement les unités.'
+  - '2 à l’article: Les conditions données incluent les aspects ayant un impact sur
+    la fiabilité, tels que: le mode de fonctionnement, les niveaux de contrainte,
+    les conditions environnementales et la maintenance.'
+  - '3 à l''article: La fiabilité peut être quantifiée à l’aide de mesures définies
+    dans la http://www.electropedia.org/iev/iev.nsf/SearchView?SearchView=field+SearchFields+contains+192-05+and+field+Language=en=4=0[Section
+    192-05, <i>Concepts liés à la fiabilité: mesures</i>].'
   examples: []
   entry_status: Standard
   review_decision_event: published

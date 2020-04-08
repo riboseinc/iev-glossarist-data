@@ -38,11 +38,11 @@ eng:
   definition: continuous set of frequencies lying between two specified limiting frequencies
   language_code: eng
   notes:
-  - "A frequency band is an interval characterized by two values which define its
-    position in the frequency spectrum, for instance its lower and upper limiting
-    frequencies.\n\n"
-  - The nomenclature of the frequency and wavelength bands used in telecommunications
-    is given in {{IEV 713-06-01, IEV:713-06-01}}.
+  - '1 to entry: A frequency band is an interval characterized by two values which
+    define its position in the frequency spectrum, for instance its lower and upper
+    limiting frequencies.'
+  - '2 to entry: The nomenclature of the frequency and wavelength bands used in telecommunications
+    is given in {{IEV 713-06-01, IEV:713-06-01}}.'
   examples: []
   entry_status: Standard
   date_accepted: '2017-07-01T00:00:00+00:00'
@@ -63,11 +63,11 @@ fre:
     spécifiées
   language_code: fre
   notes:
-  - "Une bande de fréquences est un intervalle caractérisé par deux valeurs qui déterminent
-    sa position dans le spectre des fréquences, par exemple ses fréquences limites
-    inférieure et supérieure.\n\n"
-  - La nomenclature des bandes de fréquences et de longueurs d'onde utilisées en télécommunication
-    figure dans {{IEV 713-06-01, IEV:713-06-01}}.
+  - '1 à l''article: Une bande de fréquences est un intervalle caractérisé par deux
+    valeurs qui déterminent sa position dans le spectre des fréquences, par exemple
+    ses fréquences limites inférieure et supérieure.'
+  - '2 à l''article: La nomenclature des bandes de fréquences et de longueurs d''onde
+    utilisées en télécommunication figure dans {{IEV 713-06-01, IEV:713-06-01}}.'
   examples: []
   entry_status: Standard
   review_decision_event: published

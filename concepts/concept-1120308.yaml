@@ -38,10 +38,8 @@ eng:
     partOfSpeech: noun
     gender: noun
     plurality: singular
-  definition: |-
-    {{quantity, IEV:112-01-01}} which keeps the same value under particular circumstances, or which results from theoretical considerations
-
-    EXAMPLE {{time constant, IEV:103-05-26}}, equilibrium constant for a chemical reaction, {{fundamental physical constant, IEV:112-03-09}}.
+  definition: "{{quantity, IEV:112-01-01}} which keeps the same value under particular
+    circumstances, or which results from theoretical considerations"
   language_code: eng
   notes: []
   examples:
@@ -62,10 +60,8 @@ fre:
     designation: constante
     gender: f
     plurality: singular
-  definition: |-
-    {{grandeur, IEV:112-01-01}} qui conserve la même valeur dans des circonstances particulières ou qui résulte de considérations théoriques
-
-    EXEMPLE {{constante de temps, IEV:103-05-26}}, constante d'équilibre pour une réaction chimique, {{constante physique fondamentale, IEV:112-03-09}}.
+  definition: "{{grandeur, IEV:112-01-01}} qui conserve la même valeur dans des circonstances
+    particulières ou qui résulte de considérations théoriques"
   language_code: fre
   notes: []
   examples:

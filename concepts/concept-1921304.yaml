@@ -34,12 +34,14 @@ eng:
     normativeStatus: preferred
     usageInfo: of a dependability quantity;
     designation: estimated value
-  definition: |-
-    value obtained as the result of the operation made for the purpose of assigning, from the observed values in a sample, numerical values to the parameters of the distribution chosen as the statistical model of the population from which this sample is taken
-
-    Note 1 to entry: The result may be expressed either as a single numerical value, a point estimate, or as a confidence interval.
+  definition: value obtained as the result of the operation made for the purpose of
+    assigning, from the observed values in a sample, numerical values to the parameters
+    of the distribution chosen as the statistical model of the population from which
+    this sample is taken
   language_code: eng
-  notes: []
+  notes:
+  - The result may be expressed either as a single numerical value, a point estimate,
+    or as a confidence interval.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -67,8 +69,8 @@ fre:
     est issu l’échantillon
   language_code: fre
   notes:
-  - Le résultat peut être exprimé sous la forme d’une seule valeur numérique, appelée
-    estimation ponctuelle, ou d’un intervalle de confiance.
+  - '1 à l’article: Le résultat peut être exprimé sous la forme d’une seule valeur
+    numérique, appelée estimation ponctuelle, ou d’un intervalle de confiance.'
   examples: []
   entry_status: Standard
   review_decision_event: published

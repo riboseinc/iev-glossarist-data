@@ -31,12 +31,17 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: validation
-  definition: |-
-    confirmation, through the provision of objective evidence, that the requirements for a specific intended use or application have been fulfilled
-
-    Note 1 to entry: The term “validated” is used to designate the corresponding status. Note 2 to entry: The use conditions for validation can be real or simulated. Note 3 to entry: In design and development, validation concerns the process of examining an item to determine conformity with user needs. Note 4 to entry: Validation is normally performed during the final stage of development, under defined operating conditions, although it may also be performed in earlier stages. Note 5 to entry: Multiple validations may be carried out if there are different intended uses.
+  definition: confirmation, through the provision of objective evidence, that the
+    requirements for a specific intended use or application have been fulfilled
   language_code: eng
-  notes: []
+  notes:
+  - The term “validated” is used to designate the corresponding status.
+  - The use conditions for validation can be real or simulated.
+  - In design and development, validation concerns the process of examining an item
+    to determine conformity with user needs.
+  - Validation is normally performed during the final stage of development, under
+    defined operating conditions, although it may also be performed in earlier stages.
+  - Multiple validations may be carried out if there are different intended uses.
   examples: []
   entry_status: Standard
   authoritative_source:
@@ -60,15 +65,17 @@ fre:
     ou une application prévue spécifique ont été satisfaites
   language_code: fre
   notes:
-  - 'Le terme «validé» qualifie l’état correspondant. '
-  - 'Les conditions d’utilisation pour la validation peuvent être réelles ou simulées. '
-  - 'Dans la conception et le développement, la validation concerne le processus d’examen
-    d’une entité afin de déterminer la conformité aux besoins de l’utilisateur. '
-  - 'En règle générale, la validation est réalisée sur le produit final dans les conditions
-    d’exploitation définies, bien qu’elle puisse également avoir lieu au cours des
-    étapes précédentes. '
-  - Plusieurs validations peuvent être exécutées si différentes utilisations sont
-    prévues.
+  - '1 à l’article: Le terme «validé» qualifie l’état correspondant.'
+  - '2 à l’article: Les conditions d’utilisation pour la validation peuvent être réelles
+    ou simulées.'
+  - '3 à l’article: Dans la conception et le développement, la validation concerne
+    le processus d’examen d’une entité afin de déterminer la conformité aux besoins
+    de l’utilisateur.'
+  - '4 à l’article: En règle générale, la validation est réalisée sur le produit final
+    dans les conditions d’exploitation définies, bien qu’elle puisse également avoir
+    lieu au cours des étapes précédentes.'
+  - '5 à l’article: Plusieurs validations peuvent être exécutées si différentes utilisations
+    sont prévues.'
   examples: []
   entry_status: Standard
   authoritative_source:

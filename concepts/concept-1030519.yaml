@@ -51,9 +51,10 @@ eng:
     argument
   language_code: eng
   notes:
-  - For a periodic quantity, the specified interval has a range equal to the period.
-  - The synonym "peak-to-peak value" should be used only when the global maximum and
-    minimum values are of different signs.
+  - '1 to entry: For a periodic quantity, the specified interval has a range equal
+    to the period.'
+  - '2 to entry: The synonym "peak-to-peak value" should be used only when the global
+    maximum and minimum values are of different signs.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -81,10 +82,10 @@ fre:
     l’argument
   language_code: fre
   notes:
-  - Dans le cas d'une grandeur périodique, l'intervalle spécifié a une étendue égale
-    à la période.
-  - Il convient de n’utiliser le synonyme «valeur de crête à crête» que si les valeurs
-    maximale et minimale globales sont de signes contraires.
+  - '1 à l''article: Dans le cas d''une grandeur périodique, l''intervalle spécifié
+    a une étendue égale à la période.'
+  - '2 à l’article: Il convient de n’utiliser le synonyme «valeur de crête à crête»
+    que si les valeurs maximale et minimale globales sont de signes contraires.'
   examples: []
   entry_status: Standard
   classification: Preferred

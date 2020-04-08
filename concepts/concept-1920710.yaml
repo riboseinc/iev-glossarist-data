@@ -31,8 +31,9 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: active corrective maintenance time
-  definition: part of the active maintenance time taken to perform a corrective maintenance
-    action 60050-192-F2en/$file/60050-192-F2en.png>Figure 2 – Maintenance times
+  definition: "part of the active maintenance time taken to perform a corrective maintenance
+    action \n\n<simg/>60050-192-F2en/$file/60050-192-F2en.png&gt;\n\nFigure 2 – Maintenance
+    times"
   language_code: eng
   notes: []
   examples: []
@@ -50,9 +51,9 @@ fre:
     designation: temps de maintenance corrective active
     gender: m
     plurality: singular
-  definition: partie du temps de maintenance active consacré à effectuer une tâche
-    de maintenance corrective 60050-192-F2fr/$file/60050-192-F2fr.png>Figure 2 – Temps
-    de maintenance
+  definition: "partie du temps de maintenance active consacré à effectuer une tâche
+    de maintenance corrective \n\n<simg/>60050-192-F2fr/$file/60050-192-F2fr.png&gt;\n\nFigure
+    2 – Temps de maintenance"
   language_code: fre
   notes: []
   examples: []

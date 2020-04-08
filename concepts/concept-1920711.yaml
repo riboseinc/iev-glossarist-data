@@ -36,9 +36,9 @@ eng:
   - type: expression
     normativeStatus: deprecated
     designation: undetected fault time
-  definition: time interval between failure and detection of the resulting fault 60050-192-F1en/$file/60050-192-F1en.png>Figure
-    1 – Times related to operation and maintenance60050-192-F2en/$file/60050-192-F2en.png>Figure
-    2 – Maintenance times
+  definition: "time interval between failure and detection of the resulting fault
+    \n\n<simg/>60050-192-F1en/$file/60050-192-F1en.png&gt;\n\nFigure 1 – Times related
+    to operation and maintenance"
   language_code: eng
   notes: []
   examples: []
@@ -62,10 +62,9 @@ fre:
     designation: temps de panne latente
     gender: m
     plurality: singular
-  definition: intervalle de temps entre une défaillance et la détection de la panne
-    qui en résulte 60050-192-F1fr/$file/60050-192-F1fr.png>Figure 1 – Temps liés au
-    fonctionnement et à la maintenance60050-192-F2fr/$file/60050-192-F2fr.png>Figure
-    2 – Temps de maintenance
+  definition: "intervalle de temps entre une défaillance et la détection de la panne
+    qui en résulte \n\n<simg/>60050-192-F1fr/$file/60050-192-F1fr.png&gt;\n\nFigure
+    1 – Temps liés au fonctionnement et à la maintenance"
   language_code: fre
   notes: []
   examples: []

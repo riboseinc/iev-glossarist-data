@@ -49,16 +49,14 @@ eng:
     normativeStatus: preferred
     designation: areic
     partOfSpeech: adj
-  definition: |-
-    qualifies a {{quantity name, IEV:112-01-02}} to indicate the quotient of that quantity by the area of a surface
-
-    EXAMPLE surface mass density or areic mass, also called surface density (see {{IEV 113-03-10, IEV:113-03-10}}), surface electric charge density or areic electric charge (see 121-11-08>IEV 121-11-08).
+  definition: qualifies a {{quantity name, IEV:112-01-02}} to indicate the quotient
+    of that quantity by the area of a surface
   language_code: eng
   notes: []
   examples:
   - surface mass density or areic mass, also called surface density (see {{IEV 113-03-10,
     IEV:113-03-10}}), surface electric charge density or areic electric charge (see
-    121-11-08>IEV 121-11-08
+    <a/>121-11-08&gt;IEV 121-11-08
   entry_status: Standard
   classification: Preferred
   date_accepted: '2019-01-01T00:00:00+00:00'
@@ -74,14 +72,12 @@ fre:
     normativeStatus: preferred
     designation: surfacique
     partOfSpeech: adj
-  definition: |-
-    qualifie un {{nom de grandeur, IEV:112-01-02}} pour désigner le quotient de cette grandeur par l'aire d'une surface
-
-    EXEMPLE {{masse surfacique, IEV:113-03-10}}, charge électrique surfacique (voir 121-11-08>IEV 121-11-08).
+  definition: qualifie un {{nom de grandeur, IEV:112-01-02}} pour désigner le quotient
+    de cette grandeur par l'aire d'une surface
   language_code: fre
   notes: []
   examples:
-  - "{{masse surfacique, IEV:113-03-10}}, charge électrique surfacique (voir 121-11-08>IEV
+  - "{{masse surfacique, IEV:113-03-10}}, charge électrique surfacique (voir <a/>121-11-08&gt;IEV
     121-11-08"
   entry_status: Standard
   date_accepted: '2010-01-01T00:00:00+00:00'

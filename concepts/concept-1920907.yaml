@@ -31,12 +31,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: endurance test
-  definition: |-
-    procedure carried out to investigate how the properties of the item are affected by the duration or repeated application of stated stresses
-
-    Note 1 to entry: See also life test ({{192-09-17, IEV:192-09-17}}).
+  definition: procedure carried out to investigate how the properties of the item
+    are affected by the duration or repeated application of stated stresses
   language_code: eng
-  notes: []
+  notes:
+  - See also life test ({{192-09-17, IEV:192-09-17}}).
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -57,7 +56,7 @@ fre:
     fixées
   language_code: fre
   notes:
-  - Voir aussi essai de durée de vie ({{192-09-17, IEV:192-09-17}}).
+  - '1 à l’article: Voir aussi essai de durée de vie ({{192-09-17, IEV:192-09-17}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

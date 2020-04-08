@@ -46,12 +46,15 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: available state
-  definition: |-
-    state of being able to perform as required
-
-    Note 1 to entry: The absence of necessary external resources may prevent operation, but do not affect the up state. See externally disabled state ({{192-02-23, IEV:192-02-23}}). Note 2 to entry: Up state relates to the availability of the item. Note 3 to entry: An item may be considered to be in an up state for some functions and in a down state for others, concurrently. Note 4 to entry: The adjectives "up" and “available” designate an item in an up state.
+  definition: state of being able to perform as required
   language_code: eng
-  notes: []
+  notes:
+  - The absence of necessary external resources may prevent operation, but do not
+    affect the up state. See externally disabled state ({{192-02-23, IEV:192-02-23}}).
+  - Up state relates to the availability of the item.
+  - An item may be considered to be in an up state for some functions and in a down
+    state for others, concurrently.
+  - The adjectives "up" and “available” designate an item in an up state.
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -77,13 +80,14 @@ fre:
   definition: état caractérisé par l’aptitude à fonctionner tel que requis
   language_code: fre
   notes:
-  - 'L’absence de ressources externes nécessaires peut empêcher le fonctionnement,
-    mais n’a aucun impact sur l’état de disponibilité. Voir état d’incapacité externe
-    ({{192-02-23, IEV:192-02-23}}). '
-  - 'L’état de disponibilité est lié à la disponibilité de l’entité. '
-  - 'Une entité peut être considérée comme étant en état de disponibilité pour certaines
-    fonctions et en même temps en état d’indisponibilité pour d’autres fonctions. '
-  - L’adjectif «disponible» qualifie une entité dans un état de disponibilité.
+  - '1 à l’article: L’absence de ressources externes nécessaires peut empêcher le
+    fonctionnement, mais n’a aucun impact sur l’état de disponibilité. Voir état d’incapacité
+    externe ({{192-02-23, IEV:192-02-23}}).'
+  - '2 à l’article: L’état de disponibilité est lié à la disponibilité de l’entité.'
+  - '3 à l’article: Une entité peut être considérée comme étant en état de disponibilité
+    pour certaines fonctions et en même temps en état d’indisponibilité pour d’autres
+    fonctions.'
+  - '4 à l’article: L’adjectif «disponible» qualifie une entité dans un état de disponibilité.'
   examples: []
   entry_status: Standard
   review_decision_event: published

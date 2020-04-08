@@ -39,14 +39,15 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: Fourier transform
-  definition: for a real or complex function f(t) of the real variable t, complex
-    function $$F ( \omega )$$ of the real variable , given by the integral transformation
-    $$F ( \omega ) =  ∫_(   - oo )^(   + oo ) f ( t ) e^( - j \omega  t) dt$$ where
-    j is the imaginary unit
+  definition: "for a real or complex function $$f$$($$t$$) of the real variable $$t$$,
+    complex function $$F ( omega )$$ of the real variable $$$$, given by the integral
+    transformation \n\n$$F ( omega ) = ∫_(   - oo)^(   + oo) f ( t ) e^( - j omega
+      t) d t$$ \n\nwhere j is the imaginary unit"
   language_code: eng
   notes:
-  - 'If t is time, the variable  represents angular frequency. '
-  - The Fourier transform of the function f is also denoted Ff or ℱf.
+  - '1 to entry: If $$t$$ is time, the variable $$$$ represents angular frequency.'
+  - '2 to entry: The Fourier transform of the function $$f$$ is also denoted F$$f$$
+    or ℱ$$f$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -62,14 +63,15 @@ fre:
     designation: transformée de Fourier
     gender: f
     plurality: singular
-  definition: pour une fonction réelle ou complexe f(t) de la variable réelle t, fonction
-    complexe $$F ( \omega )$$ de la variable réelle , donnée par la transformation
-    intégrale $$F ( \omega ) =  ∫_(   - oo )^(   + oo ) f ( t ) e^( - j \omega  t)
-    dt$$ où j est l’unité imaginaire
+  definition: "pour une fonction réelle ou complexe $$f$$($$t$$) de la variable réelle
+    $$t$$, fonction complexe $$F ( omega )$$ de la variable réelle $$$$, donnée par
+    la transformation intégrale \n\n$$F ( omega ) = ∫_(   - oo)^(   + oo) f ( t )
+    e^( - j omega   t) d t$$ \n\noù j est l’unité imaginaire"
   language_code: fre
   notes:
-  - 'Si t est le temps, la variable  représente la pulsation. '
-  - La transformée de Fourier de la fonction f est notée aussi Ff ou ℱf.
+  - '1 à l''article: Si $$t$$ est le temps, la variable $$$$ représente la pulsation.'
+  - '2 à l''article: La transformée de Fourier de la fonction $$f$$ est notée aussi
+    F$$f$$ ou ℱ$$f$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published

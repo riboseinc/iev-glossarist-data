@@ -37,12 +37,11 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: field test
-  definition: |-
-    test carried out under user operational conditions
-
-    Note 1 to entry: The operating, environmental, maintenance and measurement conditions present at the time of the test may be monitored or recorded.
+  definition: test carried out under user operational conditions
   language_code: eng
-  notes: []
+  notes:
+  - The operating, environmental, maintenance and measurement conditions present at
+    the time of the test may be monitored or recorded.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -61,8 +60,8 @@ fre:
   definition: essai effectué dans les conditions opérationnelles de l’utilisateur
   language_code: fre
   notes:
-  - Les conditions d’exploitation, d’environnement, de maintenance et de mesure présentes
-    au moment de l’essai peuvent être surveillées ou enregistrées.
+  - '1 à l’article: Les conditions d’exploitation, d’environnement, de maintenance
+    et de mesure présentes au moment de l’essai peuvent être surveillées ou enregistrées.'
   examples: []
   entry_status: Standard
   review_decision_event: published

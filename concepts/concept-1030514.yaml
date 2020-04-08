@@ -47,8 +47,8 @@ eng:
   definition: value of a function corresponding to a {{local maximum, IEV:103-05-13}}
   language_code: eng
   notes:
-  - A local maximum value of function f is denoted by $$f_(( max))$$, $$f_m$$, or
-    $$hat f$$.
+  - '1 to entry: A local maximum value of function $$f$$ is denoted by $$f_(( m a
+    x))$$, $$f_m$$, or $$hat f$$.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -74,8 +74,8 @@ fre:
   definition: valeur d'une fonction correspondant à un {{maximum local, IEV:103-05-13}}
   language_code: fre
   notes:
-  - Une valeur maximale locale de la fonction f est notée $$f_(( max))$$, $$f_m$$
-    ou $$hat f$$.
+  - '1 à l''article: Une valeur maximale locale de la fonction $$f$$ est notée $$f_((
+    m a x))$$, $$f_m$$ ou $$hat f$$.'
   examples: []
   entry_status: Standard
   classification: Preferred

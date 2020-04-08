@@ -35,12 +35,10 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: fault masking
-  definition: |-
-    condition in which one fault prevents the detection of another
-
-    Note 1 to entry: Fault masking may conceal a progressive loss of redundancy.
+  definition: condition in which one fault prevents the detection of another
   language_code: eng
-  notes: []
+  notes:
+  - Fault masking may conceal a progressive loss of redundancy.
   examples: []
   entry_status: Standard
   authoritative_source:
@@ -63,7 +61,8 @@ fre:
   definition: condition dans laquelle une panne empêche la détection d’une autre
   language_code: fre
   notes:
-  - Le masquage de panne peut dissimuler une perte progressive de redondance.
+  - '1 à l’article: Le masquage de panne peut dissimuler une perte progressive de
+    redondance.'
   examples: []
   entry_status: Standard
   authoritative_source:

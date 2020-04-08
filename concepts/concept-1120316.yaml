@@ -52,12 +52,12 @@ eng:
     the quotient of that quantity by the wavelength or the frequency
   language_code: eng
   notes:
-  - "The wavelength is used mainly in optics, and the frequency in radioelectricity,
+  - '1 to entry: The wavelength is used mainly in optics, and the frequency in radioelectricity,
     acoustics, and signal theory. Examples: {{power spectral density, IEV:103-09-05}},
-    {{spectral irradiance, IEV:731-01-30}}.\n\n"
-  - The adjective “spectral” is also used to designate quantities which are functions
-    of wavelength or frequency, but which are not spectral concentrations, for example
-    spectral emissivity. See {{IEV 845-01-16, IEV:845-01-16}}.
+    {{spectral irradiance, IEV:731-01-30}}.'
+  - '2 to entry: The adjective “spectral” is also used to designate quantities which
+    are functions of wavelength or frequency, but which are not spectral concentrations,
+    for example spectral emissivity. See {{IEV 845-01-16, IEV:845-01-16}}.'
   examples: []
   entry_status: Standard
   classification: Preferred
@@ -87,13 +87,14 @@ fre:
     le quotient de cette grandeur par une longueur d'onde ou une fréquence
   language_code: fre
   notes:
-  - "La longueur d'onde est utilisée principalement en optique, et la fréquence en
-    radioélectricité, acoustique et théorie du signal. Exemples: {{densité spectrale
-    de puissance, IEV:103-09-05}} ou puissance spectrique, éclairement énergétique
-    spectrique ou densité spectrale d’éclairement (voir {{IEV 731-01-30, IEV:731-01-30}}).\n\n"
-  - L’adjectif "spectral" est aussi employé pour désigner des grandeurs qui dépendent
-    de la longueur d’onde ou de la fréquence, mais qui n’ont pas le caractère d’une
-    densité spectrale, par exemple l’émissivité spectrale. Voir {{IEV 845-01-16, IEV:845-01-16}}.
+  - '1 à l''article: La longueur d''onde est utilisée principalement en optique, et
+    la fréquence en radioélectricité, acoustique et théorie du signal. Exemples: {{densité
+    spectrale de puissance, IEV:103-09-05}} ou puissance spectrique, éclairement énergétique
+    spectrique ou densité spectrale d’éclairement (voir {{IEV 731-01-30, IEV:731-01-30}}).'
+  - '2 à l''article: L’adjectif "spectral" est aussi employé pour désigner des grandeurs
+    qui dépendent de la longueur d’onde ou de la fréquence, mais qui n’ont pas le
+    caractère d’une densité spectrale, par exemple l’émissivité spectrale. Voir {{IEV
+    845-01-16, IEV:845-01-16}}.'
   examples: []
   entry_status: Standard
   classification: Preferred

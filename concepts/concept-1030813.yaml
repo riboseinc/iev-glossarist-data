@@ -40,7 +40,7 @@ eng:
     normativeStatus: preferred
     designation: standard deviation
   - type: symbol
-    designation: ''
+    designation: "$$$$"
     international: true
   definition: positive square root of the variance
   language_code: eng

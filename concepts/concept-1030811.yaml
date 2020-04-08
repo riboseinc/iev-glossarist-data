@@ -41,11 +41,11 @@ eng:
     normativeStatus: preferred
     usageInfo: of a random variable;
     designation: variance
-  definition: expectation of the square of the centred variable  $$\sigma^2 = V (
-    X ) = E {  X - E ( X ) ^2 }$$
+  definition: "expectation of the square of the centred variable \n\n $$sigma^2 =
+    V ( X ) = E { X - E ( X )^2 }$$"
   language_code: eng
   notes:
-  - The variance is the centred moment of order 2.
+  - '1 to entry: The variance is the centred moment of order 2.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -62,11 +62,11 @@ fre:
     designation: variance
     gender: f
     plurality: singular
-  definition: espérance mathématique du carré de la variable centrée  $$\sigma^2 =
-    V ( X ) = E {  X - E ( X ) ^2 }$$
+  definition: "espérance mathématique du carré de la variable centrée \n\n $$sigma^2
+    = V ( X ) = E { X - E ( X )^2 }$$"
   language_code: fre
   notes:
-  - La variance est le moment centré d'ordre 2.
+  - '1 à l''article: La variance est le moment centré d''ordre 2.'
   examples: []
   entry_status: Standard
   review_decision_event: published

@@ -45,199 +45,49 @@ eng:
   definition: character or combination of characters denoting a {{quantity, IEV:112-01-01}}
   language_code: eng
   notes:
-  - "A simple quantity symbol is preferably one, or in some cases two, letters of
-    the Latin or Greek alphabet and may include subscripts, superscripts, or other
-    modifying signs. The letters are in italic (sloping) type, using preferably a
-    font with serifs. The subscripts and superscripts are printed either in roman
+  - '1 to entry: A simple quantity symbol is preferably one, or in some cases two,
+    letters of the Latin or Greek alphabet and may include subscripts, superscripts,
+    or other modifying signs. The letters are in italic (sloping) type, using preferably
+    a font with serifs. The subscripts and superscripts are printed either in roman
     (upright) type, or, when they denote quantities, variables, or running numbers,
     in italic (sloping) type. See ISO 80000-1  and IEC 60027-1 for more details and
-    for the combination of symbols.\n\n"
+    for the combination of symbols.'
   - |+
-    Quantity symbols are given in the various parts of ISO 80000, IEC 80000, and IEC 60027. Examples
+    2 to entry: Quantity symbols are given in the various parts of ISO 80000, IEC 80000, and IEC 60027. Examples
 
 
 
+    <table style="width: 384px;" cellpadding="2" border="solid">
 
+    <tbody>
 
+    <tr>
 
+    <td style="width: 294px;">
 
+    <strong>Quantity name</strong></td>
 
+    </tr>
 
+    <td style="width: 70px;">
 
+    <strong>Quantity symbol</strong></td>
 
-    Quantity name
+    </tbody>
 
+    </table>
 
+    <tr>
 
+    <td style="width: 294px;">
 
+    time, duration</td>
 
-    Quantity symbol
+    </tr>
 
+    <td style="width: 70px;">
 
-
-
-
-
-
-
-
-    time, duration
-
-
-
-
-
-    t
-
-
-
-
-
-
-
-
-
-    wavelength
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    solid angle
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    electric resistance
-
-
-
-
-
-    R
-
-
-
-
-
-
-
-
-
-    static friction factor
-
-
-
-
-
-    s
-
-
-
-
-
-
-
-
-
-    volume flow rate
-
-
-
-
-
-    qV
-
-
-
-
-
-
-
-
-
-    kth force in a system of forces
-
-
-
-
-
-    Fk
-
-
-
-
-
-
-
-
-
-    electric field strength
-
-
-
-
-
-    E
-
-
-
-
-
-
-
-
-
-    x component of electric field strength
-
-
-
-
-
-    Ex
-
-
-
-
-
-
-
-
-
-    Reynolds number
-
-
-
-
-
-    Re
-
-
-
-
-
-
+    $$t$$</td>
 
   examples: []
   entry_status: Standard
@@ -260,200 +110,50 @@ fre:
     IEV:112-01-01}}
   language_code: fre
   notes:
-  - "Les symboles de grandeur simples sont constitués de préférence par une seule
-    lettre, ou dans certains cas par deux lettres, de l'alphabet latin ou grec, et
-    peuvent comprendre des indices inférieurs ou supérieurs ou d'autres signes modificateurs.
-    Les lettres sont imprimées en caractères italiques (penchés), en utilisant de
-    préférence une police avec empattements. Les indices sont imprimés en caractères
-    romains (droits) ou, s'ils désignent des grandeurs, des variables ou des nombres,
-    en caractères italiques (penchés). Voir l'ISO 80000-1  et l'IEC 60027-1 pour plus
-    de détails et pour la combinaison de symboles.\n\n"
+  - '1 à l''article: Les symboles de grandeur simples sont constitués de préférence
+    par une seule lettre, ou dans certains cas par deux lettres, de l''alphabet latin
+    ou grec, et peuvent comprendre des indices inférieurs ou supérieurs ou d''autres
+    signes modificateurs. Les lettres sont imprimées en caractères italiques (penchés),
+    en utilisant de préférence une police avec empattements. Les indices sont imprimés
+    en caractères romains (droits) ou, s''ils désignent des grandeurs, des variables
+    ou des nombres, en caractères italiques (penchés). Voir l''ISO 80000-1  et l''IEC
+    60027-1 pour plus de détails et pour la combinaison de symboles.'
   - |+
-    Des symboles de grandeur normalisés sont donnés dans les Normes internationales ISO 80000, IEC 80000 et IEC 60027. Exemples
+    2 à l'article: Des symboles de grandeur normalisés sont donnés dans les Normes internationales ISO 80000, IEC 80000 et IEC 60027. Exemples
 
 
 
+    <table style="width: 384px;" cellpadding="2" border="solid">
 
+    <tbody>
 
+    <tr>
 
+    <td style="width: 294px;">
 
+    <strong><span>Nom de grandeur</span></strong></td>
 
+    </tr>
 
+    <td style="width: 70px;">
 
+    <strong><span>Symbole de grandeur</span></strong></td>
 
-    Nom de grandeur
+    </tbody>
 
+    </table>
 
+    <tr>
 
+    <td style="width: 294px;">
 
+    temps, dure</td>
 
-    Symbole de grandeur
+    </tr>
 
+    <td style="width: 70px;">
 
-
-
-
-
-
-
-
-    temps, dure
-
-
-
-
-
-    t
-
-
-
-
-
-
-
-
-
-    longueur d'onde
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    angle solide
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    rsistance lectrique
-
-
-
-
-
-    R
-
-
-
-
-
-
-
-
-
-    facteur de frottement statique
-
-
-
-
-
-    s
-
-
-
-
-
-
-
-
-
-    dbit-volume
-
-
-
-
-
-    qV
-
-
-
-
-
-
-
-
-
-    kme force dans un systme de forces
-
-
-
-
-
-    Fk
-
-
-
-
-
-
-
-
-
-    champ lectrique
-
-
-
-
-
-    E
-
-
-
-
-
-
-
-
-
-    composante x du champ lectrique
-
-
-
-
-
-    Ex
-
-
-
-
-
-
-
-
-
-    nombre de Reynolds
-
-
-
-
-
-    Re
-
-
-
-
-
-
+    $$t$$</td>
 
   examples: []
   entry_status: Standard

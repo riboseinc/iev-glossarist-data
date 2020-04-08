@@ -31,12 +31,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: constant failure rate period
-  definition: |-
-    time interval, in the life of a non-repairable item, during which its failure rate is considered to be constant
-
-    Note 1 to entry: See constant failure intensity period ({{192-02-29, IEV:192-02-29}}) for repairable items.
+  definition: time interval, in the life of a non-repairable item, during which its
+    failure rate is considered to be constant
   language_code: eng
-  notes: []
+  notes:
+  - See constant failure intensity period ({{192-02-29, IEV:192-02-29}}) for repairable
+    items.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,8 +56,8 @@ fre:
     duquel on considère que le taux de défaillance reste constant
   language_code: fre
   notes:
-  - Pour les entités réparables, voir période d’intensité constante de défaillance
-    ({{192-02-29, IEV:192-02-29}}).
+  - '1 à l’article: Pour les entités réparables, voir période d’intensité constante
+    de défaillance ({{192-02-29, IEV:192-02-29}}).'
   examples: []
   entry_status: Standard
   review_decision_event: published

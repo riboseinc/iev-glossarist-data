@@ -31,12 +31,12 @@ eng:
   - type: expression
     normativeStatus: preferred
     designation: test cycle
-  definition: |-
-    sequence of specific and reproducible operating, environmental and maintenance conditions that are repeated periodically during a test
-
-    Note 1 to entry: The operating conditions are varied to simulate the time variation of operating and environmental conditions of intended use.
+  definition: sequence of specific and reproducible operating, environmental and maintenance
+    conditions that are repeated periodically during a test
   language_code: eng
-  notes: []
+  notes:
+  - The operating conditions are varied to simulate the time variation of operating
+    and environmental conditions of intended use.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -56,9 +56,9 @@ fre:
     à la maintenance et à l’environnement, régulièrement répétées pendant un essai
   language_code: fre
   notes:
-  - On fait varier les conditions de fonctionnement afin de simuler la variation dans
-    le temps des conditions de fonctionnement et d’environnement de l’utilisation
-    prévue.
+  - '1 à l’article: On fait varier les conditions de fonctionnement afin de simuler
+    la variation dans le temps des conditions de fonctionnement et d’environnement
+    de l’utilisation prévue.'
   examples: []
   entry_status: Standard
   review_decision_event: published

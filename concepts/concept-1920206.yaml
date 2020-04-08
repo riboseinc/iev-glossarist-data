@@ -36,12 +36,10 @@ eng:
     normativeStatus: preferred
     usageInfo: of an item;
     designation: non-operating state
-  definition: |-
-    state of not performing any required function
-
-    Note 1 to entry: The adjective “non-operating” designates an item in a non-operating state.
+  definition: state of not performing any required function
   language_code: eng
-  notes: []
+  notes:
+  - The adjective “non-operating” designates an item in a non-operating state.
   examples: []
   entry_status: Standard
   date_accepted: '2015-02-01T00:00:00+00:00'
@@ -61,7 +59,8 @@ fre:
   definition: état ne permettant pas de réaliser une fonction requise quelconque
   language_code: fre
   notes:
-  - Le terme «en non-fonctionnement» qualifie une entité dans un état de non-fonctionnement.
+  - '1 à l’article: Le terme «en non-fonctionnement» qualifie une entité dans un état
+    de non-fonctionnement.'
   examples: []
   entry_status: Standard
   review_decision_event: published

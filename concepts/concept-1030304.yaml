@@ -52,8 +52,9 @@ eng:
     variable, +1 for all positive values and 0 for the zero value
   language_code: eng
   notes:
-  - The signum can be generalized to complex variables as $$sgn underset(_)(z) = ((
-    underset(_)(z) ))/(( | underset(_)(z) | ))$$ for $$z != 0$$ and $$sgn 0 = 0$$.
+  - '1 to entry: The signum can be generalized to complex variables as $$sgn   underset(_)(z)
+    = (( underset(_)(z) ))/(( | underset(_)(z) |))$$ for $$z != 0$$ and $$sgn   0
+    = 0$$.'
   examples: []
   entry_status: Standard
   date_accepted: '2009-12-01T00:00:00+00:00'
@@ -78,9 +79,9 @@ fre:
     est nulle
   language_code: fre
   notes:
-  - 'Le signum peut être généralisé à des variables complexes: $$sgn underset(_)(z)
-    = (( underset(_)(z) ))/(( | underset(_)(z) | ))$$ pour $$z != 0$$ et $$sgn 0 =
-    0$$.'
+  - '1 à l''article: Le signum peut être généralisé à des variables complexes: $$sgn
+      underset(_)(z) = (( underset(_)(z) ))/(( | underset(_)(z) |))$$ pour $$z !=
+    0$$ et $$sgn   0 = 0$$.'
   examples: []
   entry_status: Standard
   review_decision_event: published
